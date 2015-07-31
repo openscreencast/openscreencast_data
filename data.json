@@ -12785,6 +12785,7 @@
 "license": "http://creativecommons.org/licenses/by/3.0/",
 "content": "Firefox - bessere Verschlüsselung einstellen (How's my SSL ?)<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/3.0/\">http://creativecommons.org/licenses/by/3.0/</a><br /><br /><a href=\"https://www.howsmyssl.com/\">https://www.howsmyssl.com/</a><br /><a href=\"http://de.wikipedia.org/wiki/Firefox\">http://de.wikipedia.org/wiki/Firefox</a><br /><br />Firefox-Logo in Thumbnail: <br /><a href=\"https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de\">https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de</a><br />Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar<br />Lizenz: Mozilla Public License Version 2<br /><br />Thumbnail-Lizenz: Mozilla Public License Version 2",
 "youtube": "UuKRfhPShsk",
+"vimeo": "134711889",
 "tumblr": "http://openscreencast.tumblr.com/post/72675136514/firefox-bessere-verschluesselung-einstellen",
 "diaspora": "https://pod.geraspora.de/posts/1824446"
 },
@@ -16529,7 +16530,72 @@
 "vimeo": "133649462",
 "tumblr": "http://openscreencast.tumblr.com/post/122678784950/linktipp-2-feine-tutorialsammlungen-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/3779532"
+},
+"LibreOffice_Calc_Ausblenden_von_Daten": {
+"path": "LibreOffice_Calc_Ausblenden_von_Daten",
+"title": "LibreOffice - Calc - Ausblenden und Anzeigen von Daten",
+"creator": "Heiko",
+"pubDate": "1438292317",
+"category": "CC by,Linux,Neueinsteiger,screencast,Linux Mint,LibreOffice,Calc",
+"album": "http://www.openscreencast.de",
+"duration": "160000",
+"description": "LibreOffice - Calc - Ausblenden und Anzeigen von Daten",
+"license": "http://creativecommons.org/licenses/by/3.0/",
+"content": "LibreOffice - Calc - Ausblenden und Anzeigen von Daten, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/3.0/\">http://creativecommons.org/licenses/by/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://de.libreoffice.org/hilfe-kontakt/handbuecher/\">http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (http://creativecommons.org/licenses/by/3.0/)</a>",
+"youtube": "MZF7uWcwqv0",
+"vimeo": "134985751",
+"tumblr": "http://openscreencast.tumblr.com/post/125456090700/libreoffice-calc-ausblenden-und-anzeigen-von",
+"diaspora": "https://pod.geraspora.de/posts/3888008"
+},
+"dnf_die_wichtigsten_Kommandos": {
+"path": "dnf_die_wichtigsten_Kommandos",
+"title": "dnf - die wichtigsten Kommandos (Fedora)",
+"creator": "Heiko",
+"pubDate": "1438292593",
+"category": "CC by,Linux,Neueinsteiger,screencast,Fedora,dnf",
+"album": "http://www.openscreencast.de",
+"duration": "234000",
+"description": "dnf - die wichtigsten Kommandos (Fedora)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "dnf - die wichtigsten Kommandos, Fedora 22<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"http://dnf.baseurl.org/\">dnf</a></li><li><a href=\"http://dnf.readthedocs.org/en/latest/\">dnf doc</a></li></ul>",
+"youtube": "ZG3gs28_hmk",
+"vimeo": "134985752",
+"tumblr": "http://openscreencast.tumblr.com/post/125456137110/dnf-die-wichtigsten-kommandos-fedora-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3888016"
+},
+"Git_fuer_Einsteiger_Branches_anlegen": {
+"path": "Git_fuer_Einsteiger_Branches_anlegen",
+"title": "Git für Einsteiger - Branches anlegen",
+"creator": "Heiko",
+"pubDate": "1438292841",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git,Branching",
+"album": "http://www.openscreencast.de",
+"duration": "188000",
+"description": "Git für Einsteiger - Branches anlegen",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Git für Einsteiger - Branches anlegen, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"https://svij.org/blog/2014/11/01/git-fur-einsteiger-teil-2/\">Git für Einsteiger - Teil 2</a> von <a href=\"http://svij.org/\">Sujeevan Vijayakumaran</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"http://de.wikipedia.org/wiki/Git\" title=\"Link zu wikipedia.org/\">WP:Git</a></li></ul>",
+"youtube": "_g8ItehO7gA",
+"vimeo": "134985750",
+"tumblr": "http://openscreencast.tumblr.com/post/125456194665/git-f&uuml;r-einsteiger-branches-anlegen-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3888030"
+},
+"Python_beginners_was_brauchst_du": {
+"path": "Python_beginners_was_brauchst_du",
+"title": "Python für Anfänger - Was brauchst du",
+"creator": "Heiko",
+"pubDate": "1438331019",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.openscreencast.de/archive/python_beginners_was_brauchst_du.ogg",
+"duration": "172000",
+"description": "Python für Anfänger - Was brauchst du",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Python für Anfänger - Was brauchst du, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://opentechschool.github.io/python-beginners/de/index.html\">Programmiereinführung mit Python</a> von <a href=\"http://www.opentechschool.org/\">OpenTechSchool and contributors</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"https://github.com/OpenTechSchool/python-beginners\" title=\"Link zu github.com\">https://github.com/OpenTechSchool/python-beginners</a></li><li><a href=\"https://github.com/OpenTechSchool/python-beginners/graphs/contributors\" title=\"Link zu github.com\">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
+"vimeo": "134985749",
+"tumblr": "http://openscreencast.tumblr.com/post/125458009885/python-f&uuml;r-anf&auml;nger-was-brauchst-du-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3888121"
 }
+
 
 }
 
