@@ -16594,6 +16594,54 @@
 "vimeo": "134985749",
 "tumblr": "http://openscreencast.tumblr.com/post/125458009885/python-f&uuml;r-anf&auml;nger-was-brauchst-du-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/3888121"
+},
+"Git_fuer_Einsteiger_Branches_anlegen_teil2": {
+"path": "Git_fuer_Einsteiger_Branches_anlegen_teil2",
+"title": "Git für Einsteiger - Branches anlegen - Teil 2",
+"creator": "Heiko",
+"pubDate": "1438415399",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git,Branching",
+"album": "http://www.openscreencast.de",
+"duration": "202000",
+"description": "Git für Einsteiger - Branches anlegen- Teil 2",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Git für Einsteiger - Branches anlegen- Teil 2, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"https://svij.org/blog/2014/11/01/git-fur-einsteiger-teil-2/\">Git für Einsteiger - Teil 2</a> von <a href=\"http://svij.org/\">Sujeevan Vijayakumaran</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"http://de.wikipedia.org/wiki/Git\" title=\"Link zu wikipedia.org/\">WP:Git</a></li></ul>",
+"youtube": "TfvwbpxzSiI",
+"vimeo": "135066892",
+"tumblr": "http://openscreencast.tumblr.com/post/125527994730/git-f&uuml;r-einsteiger-branches-anlegen-teil-2",
+"diaspora": "https://pod.geraspora.de/posts/3891111"
+},
+"AngularJS_ngclick": {
+"path": "AngularJS_ngclick",
+"title": "AngularJS - Ereignisdirektiven (Event: ng-click)",
+"creator": "Heiko",
+"pubDate": "1438415586",
+"category": "CC by,Linux,Neueinsteiger,screencast,Linux Mint,Web,Javascript,AngularJS",
+"album": "http://www.openscreencast.de",
+"duration": "234000",
+"description": "AngularJS - Ereignisdirektiven (Event: ng-click)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "AngularJS - Ereignisdirektiven (Event: ng-click), Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"https://angularjs.org/\" title=\"Link zu angularjs.org\">angularjs</a></li><li><a href=\"http://de.wikipedia.org/wiki/AngularJS\" title=\"Link zu wikipedia.org\">WP:angularjs</a></li></ul>",
+"youtube": "qrRlIl1E6xw",
+"vimeo": "135066890",
+"tumblr": "http://openscreencast.tumblr.com/post/125528076785/angularjs-ereignisdirektiven-event-ng-click",
+"diaspora": "https://pod.geraspora.de/posts/3891117"
+},
+"Django_Vorbereitungen": {
+"path": "Django_Vorbereitungen",
+"title": "Django - Vorbereitungen",
+"creator": "Heiko",
+"pubDate": "1438415782",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,Django",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.openscreencast.de/archive/django_vorbereitungen.ogg",
+"duration": "242000",
+"description": "Django - Vorbereitungen",
+"license": "http://creativecommons.org/licenses/by-sa/4.0/",
+"content": "Django - Vorbereitungen, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">http://creativecommons.org/licenses/by-sa/4.0/</a><br /><br />Textquelle:<br /><a href=\"http://django-marcador.keimlink.de/de/\">django-marcador Tutorial</a> von <a href=\"http://www.keimlink.de/\">Markus Zapke-Gründemann</a> Lizenz: http://creativecommons.org/licenses/by-sa/4.0/<br />Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann, Sean Hammond<p>Links:</p><ul><li><a href=\"https://www.djangoproject.com/\" title=\"Link zu djangoproject.com/\">https://www.djangoproject.com/</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
+"vimeo": "135065282",
+"tumblr": "http://openscreencast.tumblr.com/post/125528189145/django-vorbereitungen-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3891132"
 }
 
 
