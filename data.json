@@ -16642,6 +16642,38 @@
 "vimeo": "135065282",
 "tumblr": "http://openscreencast.tumblr.com/post/125528189145/django-vorbereitungen-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/3891132"
+},
+"HTMLundCSS_Hosting": {
+"path": "HTMLundCSS_Hosting",
+"title": "HTML und CSS - Webseite veröffentlichen (Hosting)",
+"creator": "Heiko",
+"pubDate": "1438709227",
+"category": "CC by,Linux,Neueinsteiger,screencast,Web,www,HTML,CSS,Hosting",
+"album": "http://www.openscreencast.de",
+"duration": "411000",
+"description": "HTML und CSS - Webseite veröffentlichen (Hosting)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "HTML und CSS - Webseite veröffentlichen (Hosting), Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br />Textquelle:<br /><a href=\"http://code.makery.ch/library/html-css/de/\">HTML und CSS Tutorial</a> von <a href=\"http://code.makery.ch/about/\">Marco Jakob</a> Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">CC by 4.0</a><p>Links:</p><ul><li><a href=\"http://de.wikipedia.org/wiki/Hypertext_Markup_Language\" title=\"Link zu wikipedia.org\">WP:HTML</a></li><li><a href=\"http://de.wikipedia.org/wiki/Cascading_Style_Sheets\" title=\"Link zu wikipedia.org\">WP:CSS</a></li><li><a href=\"https://www.bitballoon.com/\" title=\"Link zu bitballoon.com/\">Bitballoon</a></li><li><a href=\"https://drive.google.com/\" title=\"Link zu google.com/\">Google Drive</a></li><li><a href=\"https://pancake.io/\" title=\"Link zu pancake.io/\">pancake.io</a></li><li><a href=\"http://droppages.com/\" title=\"Link zu droppages.com/\">Droppages</a></li><li><a href=\"https://pages.github.com/\" title=\"Link zu github.com/\">Github Pages</a></li><li><a href=\"http://goo.gl/\" title=\"Link zu goo.gl/\">goo.gl</a></li><li><a href=\"https://bitly.com/\" title=\"Link zu bitly.com/\">bitly.com</a></li><li><a href=\"http://tiny.cc/\" title=\"Link zu tiny.cc/\">tiny.cc</a></li></ul>",
+"youtube": "rnRCYP5dFrY",
+"vimeo": "135291095",
+"tumblr": "http://openscreencast.tumblr.com/post/125785550270/html-und-css-webseite-ver&ouml;ffentlichen-hosting",
+"diaspora": "https://pod.geraspora.de/posts/3901081"
+},
+"linux_docker_installieren": {
+"path": "linux_docker_installieren",
+"title": "docker installieren",
+"creator": "Heiko",
+"pubDate": "1438710000",
+"category": "CC by,Linux,Neueinsteiger,screencast,docker,Fedora",
+"album": "http://www.openscreencast.de",
+"duration": "218000",
+"description": "docker installieren",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "docker installieren, Fedora 22<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"https://www.docker.com/\" title=\"Link zu docker.com/\">docker</a></li><li><a href=\"https://de.wikipedia.org/wiki/Docker_%28Software%29\" title=\"Link zu wikipedia.org\">WP:docker</a></li></ul>",
+"youtube": "jcgrUJv7qGc",
+"vimeo": "135376056",
+"tumblr": "http://openscreencast.tumblr.com/post/125855714640/docker-installieren-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3903680"
 }
 
 
