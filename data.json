@@ -16674,6 +16674,38 @@
 "vimeo": "135376056",
 "tumblr": "http://openscreencast.tumblr.com/post/125855714640/docker-installieren-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/3903680"
+},
+"R_Webscraping_mit_rvest": {
+"path": "R_Webscraping_mit_rvest",
+"title": "R - Webscraping mit rvest",
+"creator": "Heiko",
+"pubDate": "1438873788",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Fedora,R,rvest,Scraping,Web",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.openscreencast.de/archive/r_webscraping_mit_rvest.ogg",
+"duration": "557000",
+"description": "R - Webscraping mit rvest",
+"license": "http://creativecommons.org/licenses/by-sa/4.0/",
+"content": "R - Webscraping mit rvest, Fedora 22<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">http://creativecommons.org/licenses/by-sa/4.0/</a><br /><br />Textquelle:<br /><a href=\"http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping\">Web Scraping mit R - freiesmagazin.de</a> von Markus Herrmann und Barbara Wolf Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">CC by-sa 4.0</a><p>Links:</p><ul><li><a href=\"http://www.r-project.org/\" title=\"Link zu r-project.org/\">r-project</a></li><li><a href=\"http://de.wikibooks.org/wiki/GNU_R\" title=\"Link zu de.wikibooks.org\">GNU_R</a></li><li><a href=\"http://cran.r-project.org/web/views/WebTechnologies.html\" title=\"Link zu r-project.org\">CRAN Web</a></li><li><a href=\"http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland\" title=\"Link zu wikipedia.org\">WP:Liste der Groß- und Mittelstädte in Deutschland</a>, <a href=\"http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&action=history\" title=\"Link zu wikipedia.org\">Versionsgeschichte</a> Lizenz: <a href=\"http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported\">CC by-sa</a></li></ul>",
+"vimeo": "135466234",
+"tumblr": "http://openscreencast.tumblr.com/post/125931205775/web-scraping-mit-r-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3906536"
+},
+"R_Vektoren_barplot": {
+"path": "R_Vektoren_barplot",
+"title": "R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern",
+"creator": "Heiko",
+"pubDate": "1438874556",
+"category": "CC by,Linux,Neueinsteiger,screencast,Linux Mint,R,barplot",
+"album": "http://www.openscreencast.de",
+"duration": "369000",
+"description": "R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://www.r-project.org/\" title=\"Link zu r-project.org/\">r-project</a></li><li><a href=\"http://de.wikibooks.org/wiki/GNU_R\" title=\"Link zu de.wikibooks.org\">GNU_R</a></li></ul>",
+"youtube": "i-T_rX8vw_w",
+"vimeo": "135574162",
+"tumblr": "http://openscreencast.tumblr.com/post/126013135395/r-vektoren-ein-balkendiagramm-erstellen-und-als",
+"diaspora": "https://pod.geraspora.de/posts/3910039"
 }
 
 
