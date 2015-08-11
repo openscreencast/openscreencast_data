@@ -16706,6 +16706,38 @@
 "vimeo": "135574162",
 "tumblr": "http://openscreencast.tumblr.com/post/126013135395/r-vektoren-ein-balkendiagramm-erstellen-und-als",
 "diaspora": "https://pod.geraspora.de/posts/3910039"
+},
+"Python_beginners_was_ist_python": {
+"path": "Python_beginners_was_ist_python",
+"title": "Python für Anfänger - Was ist Python",
+"creator": "Heiko",
+"pubDate": "1439308791",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.openscreencast.de/archive/python_beginners_was_ist_python.ogg",
+"duration": "212000",
+"description": "Python für Anfänger - Was ist Python",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Python für Anfänger - Was ist Python, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://opentechschool.github.io/python-beginners/de/index.html\">Programmiereinführung mit Python</a> von <a href=\"http://www.opentechschool.org/\">OpenTechSchool and contributors</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"https://github.com/OpenTechSchool/python-beginners\" title=\"Link zu github.com\">https://github.com/OpenTechSchool/python-beginners</a></li><li><a href=\"https://github.com/OpenTechSchool/python-beginners/graphs/contributors\" title=\"Link zu github.com\">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
+"vimeo": "135802843",
+"tumblr": "http://openscreencast.tumblr.com/post/126278720665/python-f&uuml;r-anf&auml;nger-was-ist-python-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/3920309"
+},
+"d3_einleitung": {
+"path": "d3_einleitung",
+"title": "d3 - Einleitung (ein Balkendiagramm erstellen)",
+"creator": "Heiko",
+"pubDate": "1439309168",
+"category": "CC by,Linux,Neueinsteiger,screencast,Linux Mint,d3,web,visualisierung,d3js",
+"album": "http://www.openscreencast.de",
+"duration": "354000",
+"description": "d3 - Einleitung (ein Balkendiagramm erstellen)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "d3 - Einleitung (ein Balkendiagramm erstellen), Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://d3js.org/\" title=\"Link zu d3js.org/\">d3js</a></li><li><a href=\"https://github.com/mbostock/d3/wiki/Tutorials\" title=\"Link zu github.com\">d3 Tutorials</a></li><li><a href=\"https://www.codecademy.com/courses/web-beginner-en-kcP9b/0/1\" title=\"Link zu codecademy.com\">codecademy - d3</a></li></ul>",
+"youtube": "Z4Vr0wkWEAM",
+"vimeo": "135805359",
+"tumblr": "http://openscreencast.tumblr.com/post/126278536565/d3-einleitung-ein-balkendiagramm-erstellen",
+"diaspora": "https://pod.geraspora.de/posts/3920270"
 }
 
 
