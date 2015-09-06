@@ -16962,8 +16962,54 @@
 "vimeo": "137696877",
 "tumblr": "http://openscreencast.tumblr.com/post/127874752210/git-f&uuml;r-einsteiger-branches-mergen-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/3984695"
+},
+"Python_beginners_pyprogramme_ausfuehren": {
+"path": "Python_beginners_pyprogramme_ausfuehren",
+"title": "Python für Anfänger - Python-Programme ausführen",
+"creator": "Heiko",
+"pubDate": "1441546046",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python",
+"album": "http://www.openscreencast.de",
+"duration": "244000",
+"description": "Python für Anfänger - Python-Programme ausführen",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Python für Anfänger - Python-Programme ausführen, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://opentechschool.github.io/python-beginners/de/index.html\">Programmiereinführung mit Python</a> von <a href=\"http://www.opentechschool.org/\">OpenTechSchool and contributors</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"https://github.com/OpenTechSchool/python-beginners\" title=\"Link zu github.com\">https://github.com/OpenTechSchool/python-beginners</a></li><li><a href=\"https://github.com/OpenTechSchool/python-beginners/graphs/contributors\" title=\"Link zu github.com\">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
+"vimeo": "138085115",
+"tumblr": "http://openscreencast.tumblr.com/post/128261946995/python-f&uuml;r-anf&auml;nger-python-programme-ausf&uuml;hren",
+"diaspora": "https://pod.geraspora.de/posts/4002772"
+},
+"linktipp_learnxinyminutes": {
+"path": "linktipp_learnxinyminutes",
+"title": "Linktipp - Lerne X in Y Minuten",
+"creator": "Heiko",
+"pubDate": "1441546350",
+"category": "CC by,Linux,Neueinsteiger,screencast,Web,Linktipp,Programmierung",
+"album": "http://www.openscreencast.de",
+"duration": "107000",
+"description": "Linktipp - Lerne X in Y Minuten",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Linktipp - Lerne X in Y Minuten, Linux Mint 17.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"http://learnxinyminutes.com/\" title=\"Link zu learnxinyminutes.com\">http://learnxinyminutes.com</a></li><li><a href=\"https://github.com/adambard/learnxinyminutes-docs\" title=\"Link zu github.com\">https://github.com/adambard/learnxinyminutes-docs</a></li></ul>",
+"youtube": "912UNZmcRWs",
+"vimeo": "138199586",
+"tumblr": "http://openscreencast.tumblr.com/post/128261999205/linktipp-lerne-x-in-y-minuten-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/4002783"
+},
+"Fedora_powerline": {
+"path": "Fedora_powerline",
+"title": "Fedora - powerline - die Eingabeaufforderung verändern",
+"creator": "Heiko",
+"pubDate": "1441546635",
+"category": "CC by,Linux,Neueinsteiger,screencast,powerline,Fedora",
+"album": "http://www.openscreencast.de",
+"duration": "158000",
+"description": "Fedora - powerline - die Eingabeaufforderung verändern",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Fedora - powerline - die Eingabeaufforderung verändern, Fedora 22<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"http://fedoramagazine.org/add-power-terminal-powerline/\" title=\"Link zu fedoramagazine.org\">fedoramagazine - powerline</a></li><li><a href=\"http://powerline.readthedocs.org/en/latest/configuration.html\" title=\"Link zu powerline.readthedocs.org\">powerline - Dokumentation</a></li><li><a href=\"https://github.com/powerline/powerline\" title=\"Link zu github.com\">github - powerline</a></li></ul>",
+"youtube": "EWIHT74RMts",
+"vimeo": "138400429",
+"tumblr": "http://openscreencast.tumblr.com/post/128414831115/fedora-powerline-die-eingabeaufforderung",
+"diaspora": "https://pod.geraspora.de/posts/4010775"
 }
-
 
 
 
