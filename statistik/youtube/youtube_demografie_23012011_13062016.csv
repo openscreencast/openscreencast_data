@@ -1,0 +1,139 @@
+Geography,Geography ID,Viewer age,Viewer gender,Views,Viewer Percent
+Germany,DE,65-,m,186298,1.5
+Germany,DE,35-44,f,186298,0.7
+Germany,DE,45-54,f,186298,0.3
+Germany,DE,25-34,f,186298,1.9
+Germany,DE,13-17,f,186298,0.5
+Germany,DE,18-24,f,186298,2.2
+Germany,DE,35-44,m,186298,14.1
+Germany,DE,55-64,f,186298,0.1
+Germany,DE,45-54,m,186298,9.4
+Germany,DE,13-17,m,186298,4.8
+Germany,DE,65-,f,186298,0.1
+Germany,DE,25-34,m,186298,36.8
+Germany,DE,55-64,m,186298,3.1
+Germany,DE,18-24,m,186298,24.5
+United States,US,65-,m,30402,2.9
+United States,US,35-44,f,30402,0.8
+United States,US,45-54,f,30402,0.6
+United States,US,18-24,f,30402,1.5
+United States,US,13-17,f,30402,0.2
+United States,US,25-34,f,30402,2.4
+United States,US,35-44,m,30402,17.8
+United States,US,55-64,f,30402,0.3
+United States,US,45-54,m,30402,10.0
+United States,US,13-17,m,30402,2.4
+United States,US,65-,f,30402,0.2
+United States,US,25-34,m,30402,36.1
+United States,US,55-64,m,30402,4.5
+United States,US,18-24,m,30402,20.2
+Austria,AT,65-,m,15514,1.9
+Austria,AT,35-44,f,15514,0.8
+Austria,AT,45-54,f,15514,0.6
+Austria,AT,25-34,f,15514,1.7
+Austria,AT,13-17,f,15514,0.6
+Austria,AT,18-24,f,15514,1.9
+Austria,AT,35-44,m,15514,13.1
+Austria,AT,55-64,f,15514,0.1
+Austria,AT,45-54,m,15514,8.5
+Austria,AT,13-17,m,15514,6.4
+Austria,AT,65-,f,15514,0.2
+Austria,AT,25-34,m,15514,35.7
+Austria,AT,55-64,m,15514,2.6
+Austria,AT,18-24,m,15514,25.8
+Switzerland,CH,65-,m,10955,2.7
+Switzerland,CH,35-44,f,10955,1.9
+Switzerland,CH,45-54,f,10955,0.5
+Switzerland,CH,18-24,f,10955,1.9
+Switzerland,CH,13-17,f,10955,0.7
+Switzerland,CH,25-34,f,10955,1.5
+Switzerland,CH,35-44,m,10955,12.7
+Switzerland,CH,55-64,f,10955,0.1
+Switzerland,CH,45-54,m,10955,5.5
+Switzerland,CH,13-17,m,10955,7.1
+Switzerland,CH,65-,f,10955,0.2
+Switzerland,CH,25-34,m,10955,32.9
+Switzerland,CH,55-64,m,10955,2.6
+Switzerland,CH,18-24,m,10955,29.8
+Brazil,BR,65-,m,10249,1.0
+Brazil,BR,35-44,f,10249,0.4
+Brazil,BR,45-54,f,10249,0.3
+Brazil,BR,18-24,f,10249,1.4
+Brazil,BR,13-17,f,10249,0.2
+Brazil,BR,25-34,f,10249,1.2
+Brazil,BR,35-44,m,10249,13.5
+Brazil,BR,55-64,f,10249,0.1
+Brazil,BR,45-54,m,10249,3.8
+Brazil,BR,13-17,m,10249,2.5
+Brazil,BR,65-,f,10249,0.0
+Brazil,BR,25-34,m,10249,41.8
+Brazil,BR,55-64,m,10249,2.8
+Brazil,BR,18-24,m,10249,31.0
+Italy,IT,65-,m,9023,2.1
+Italy,IT,35-44,f,9023,1.0
+Italy,IT,45-54,f,9023,0.3
+Italy,IT,25-34,f,9023,1.0
+Italy,IT,13-17,f,9023,0.1
+Italy,IT,18-24,f,9023,1.0
+Italy,IT,35-44,m,9023,23.8
+Italy,IT,55-64,f,9023,0.1
+Italy,IT,45-54,m,9023,9.4
+Italy,IT,13-17,m,9023,2.6
+Italy,IT,65-,f,9023,0.0
+Italy,IT,25-34,m,9023,34.4
+Italy,IT,55-64,m,9023,2.8
+Italy,IT,18-24,m,9023,21.3
+France,FR,65-,m,8498,4.9
+France,FR,35-44,f,8498,0.7
+France,FR,45-54,f,8498,0.5
+France,FR,18-24,f,8498,1.9
+France,FR,13-17,f,8498,0.2
+France,FR,25-34,f,8498,1.4
+France,FR,35-44,m,8498,18.5
+France,FR,55-64,f,8498,0.6
+France,FR,45-54,m,8498,6.7
+France,FR,13-17,m,8498,3.8
+France,FR,65-,f,8498,0.3
+France,FR,25-34,m,8498,31.7
+France,FR,55-64,m,8498,5.2
+France,FR,18-24,m,8498,23.6
+Spain,ES,65-,m,8477,2.0
+Spain,ES,35-44,f,8477,1.3
+Spain,ES,45-54,f,8477,0.6
+Spain,ES,18-24,f,8477,1.5
+Spain,ES,13-17,f,8477,0.1
+Spain,ES,25-34,f,8477,2.2
+Spain,ES,35-44,m,8477,24.4
+Spain,ES,55-64,f,8477,0.1
+Spain,ES,45-54,m,8477,9.7
+Spain,ES,13-17,m,8477,1.4
+Spain,ES,65-,f,8477,0.2
+Spain,ES,25-34,m,8477,34.6
+Spain,ES,55-64,m,8477,3.0
+Spain,ES,18-24,m,8477,18.9
+United Kingdom,GB,65-,m,8020,2.0
+United Kingdom,GB,35-44,f,8020,0.9
+United Kingdom,GB,45-54,f,8020,0.4
+United Kingdom,GB,25-34,f,8020,1.2
+United Kingdom,GB,13-17,f,8020,0.2
+United Kingdom,GB,18-24,f,8020,1.0
+United Kingdom,GB,35-44,m,8020,20.4
+United Kingdom,GB,55-64,f,8020,0.2
+United Kingdom,GB,45-54,m,8020,8.5
+United Kingdom,GB,13-17,m,8020,2.6
+United Kingdom,GB,25-34,m,8020,37.3
+United Kingdom,GB,55-64,m,8020,3.9
+United Kingdom,GB,18-24,m,8020,21.4
+India,IN,65-,m,7261,0.0
+India,IN,35-44,f,7261,0.5
+India,IN,45-54,f,7261,0.1
+India,IN,18-24,f,7261,4.1
+India,IN,13-17,f,7261,0.1
+India,IN,25-34,f,7261,2.3
+India,IN,35-44,m,7261,6.9
+India,IN,45-54,m,7261,1.3
+India,IN,13-17,m,7261,1.7
+India,IN,65-,f,7261,0.0
+India,IN,25-34,m,7261,39.4
+India,IN,55-64,m,7261,0.6
+India,IN,18-24,m,7261,42.8

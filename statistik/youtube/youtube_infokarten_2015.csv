@@ -1,0 +1,73 @@
+Card,Card type,Video,Video id,Card teaser clicks,Card teaser click rate,Card clicks,Card click rate,Card impressions,Card teaser impressions
+AngularJS - Hallo Welt - Teil 2,VIDEO_CARD,AngularJS - Hallo Welt,66opQphBDkI,14,5.02,9,47.37,19,279
+AngularJS,PLAYLIST_CARD,AngularJS - Ereignisdirektiven (Event: ng-click),qrRlIl1E6xw,7,10.61,4,66.67,6,66
+AngularJS - Ereignisdirektiven (Event: ng-click),VIDEO_CARD,AngularJS - Schleifen (ng-repeat),V_FMev-Ab_A,5,20.83,4,80.00,5,24
+AngularJS - Schleifen (ng-repeat),VIDEO_CARD,AngularJS - Listen,QvQuB0PfrBA,5,12.50,4,80.00,5,40
+Fedora,PLAYLIST_CARD,Fedora 23 Alpha (Workstation) - Demo,drmZqz3xtyQ,13,1.16,3,23.08,13,1121
+AngularJS - Listen,VIDEO_CARD,AngularJS - Hallo Welt - Teil 2,oUZuyXYcoLQ,4,11.76,3,100.00,3,34
+Ubuntu - Dateien richtig löschen,VIDEO_CARD,Linux - gelöschte Dateien wiederherstellen,9DoDY09AAdg,1,1.14,2,28.57,7,88
+AngularJS - Was ist angular.js,VIDEO_CARD,AngularJS - Hallo Welt,66opQphBDkI,6,0.50,2,10.00,20,1194
+reveal.js,PLAYLIST_CARD,Präsentationen mit Markdown und remark.js,klnPM15jqg4,2,2.33,1,50.00,2,86
+AngularJS - Hallo Welt,VIDEO_CARD,AngularJS - Was ist angular.js,7YjKmFQhh4k,1,0.36,1,100.00,1,276
+Git für Einsteiger - Allgemeines zum Branching,VIDEO_CARD,Git für Einsteiger - Der erste Commit - Teil 2,9aUbuVohqaM,1,10.00,1,100.00,1,10
+Linux,PLAYLIST_CARD,Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow,dZKfFs3qoR4,1,3.85,1,100.00,1,26
+HTML und CSS,PLAYLIST_CARD,HTML und CSS - Webseite veröffentlichen (Hosting),rnRCYP5dFrY,0,0.00,1,100.00,1,80
+HTML und CSS - Webseite veröffentlichen (Hosting),VIDEO_CARD,HTML und CSS - Ein Bild einfügen (img),diiikCQbmlA,1,6.25,1,100.00,1,16
+git,PLAYLIST_CARD,Git für Einsteiger - Branches mergen,ChSt1ozMlVA,0,0.00,1,100.00,1,10
+AngularJS - Hallo Welt - Teil 2,VIDEO_CARD,AngularJS - Listen,QvQuB0PfrBA,0,0.00,0,0.00,5,76
+Git für Einsteiger - Branches anlegen - Teil 2,VIDEO_CARD,Git für Einsteiger - Branches mergen,ChSt1ozMlVA,1,3.12,0,0.00,1,32
+Linux - cut (schneiden),VIDEO_CARD,"Linux - Programme finden - which, whereis und type",pgnpEI3QGiU,0,0.00,0,0.00,0,21
+HTML und CSS - Ein HTML-Dokument erstellen,VIDEO_CARD,HTML und CSS - HTML-Elemente,1rjhqpDHGCM,1,3.45,0,0.00,1,29
+docker - Images auflisten,VIDEO_CARD,docker installieren,jcgrUJv7qGc,0,0.00,0,0.00,0,9
+Fedora - Sicheres Löschen einer Datei,VIDEO_CARD,Linux - gelöschte Dateien wiederherstellen,9DoDY09AAdg,2,2.78,0,0.00,7,72
+docker,PLAYLIST_CARD,docker installieren,jcgrUJv7qGc,0,0.00,0,0.00,0,22
+SD-Karte des Raspberry Pi mit partclone sichern,VIDEO_CARD,Raspberry Pi - SD-Karte mit gnome-disks sichern,IO25A5YopvE,1,7.14,0,0.00,1,14
+Daten und Visualisierung,PLAYLIST_CARD,"R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern",i-T_rX8vw_w,0,0.00,0,0.00,0,33
+Daten und Visualisierung,PLAYLIST_CARD,d3 - Einleitung (ein Balkendiagramm erstellen),Z4Vr0wkWEAM,0,0.00,0,0.00,0,11
+AngularJS - Listen,VIDEO_CARD,AngularJS - Schleifen (ng-repeat),V_FMev-Ab_A,1,1.01,0,0.00,6,99
+Javascript,PLAYLIST_CARD,Javascript - Zahlen,WJvlUMvNiUo,1,20.00,0,0.00,1,5
+R,PLAYLIST_CARD,"R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern",i-T_rX8vw_w,0,0.00,0,0.00,0,73
+AngularJS - Hallo Welt,VIDEO_CARD,AngularJS - Hallo Welt - Teil 2,oUZuyXYcoLQ,1,1.09,0,0.00,3,92
+Screencasts mit Gnome3 erstellen,VIDEO_CARD,Gnome - einfache Bildschirmaufnahmen mit EasyScreenCast (Linux), -JFC6J8rg5Q,0,0.00,0,0.00,0,36
+LibreOffice,PLAYLIST_CARD,LibreOffice 5 installieren (Linux),gb1IYzofAAc,0,0.00,0,0.00,0,95
+LibreOffice - Calc - Gruppen und Gliederung,VIDEO_CARD,LibreOffice - Calc - Ausblenden und Anzeigen von Daten,MZF7uWcwqv0,0,0.00,0,0.00,0,4
+Linux - USB-Sticks als Bootmedium vorbereiten,VIDEO_CARD,Live-DVDs mit Anonymisierungsdiensten,8N1cOrfTRec,0,0.00,0,0.00,0,30
+Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow,VIDEO_CARD,Screencasting auf dem Linux-Desktop in der Cloud - Demo,aqKMryxUeZs,0,0.00,0,0.00,0,97
+Git für Einsteiger - Branches mergen,VIDEO_CARD,Git für Einsteiger - Branches anlegen - Teil 2,TfvwbpxzSiI,0,0.00,0,0.00,0,4
+HTML und CSS - Eine CSS-Datei einbinden,VIDEO_CARD,HTML und CSS - Webseite veröffentlichen (Hosting),rnRCYP5dFrY,0,0.00,0,0.00,0,5
+Firefox OS,PLAYLIST_CARD,Firefox OS - ein Bildschirmfoto (Screenshot) machen,oeSS6v3TUsw,0,0.00,0,0.00,0,15
+HTML und CSS - Ein Bild einfügen (img),VIDEO_CARD,HTML und CSS - Grundgerüst einer HTML-Seite,TbfOV-bBQIc,0,0.00,0,0.00,0,3
+HTML und CSS,PLAYLIST_CARD,HTML und CSS - Eine CSS-Datei einbinden,4wUssMxrjss,0,0.00,0,0.00,0,11
+Linux,PLAYLIST_CARD,"Linux - Programme finden - which, whereis und type",pgnpEI3QGiU,0,0.00,0,0.00,0,37
+Fedora,PLAYLIST_CARD,Fedora - powerline - die Eingabeaufforderung verändern,EWIHT74RMts,0,0.00,0,0.00,0,63
+HTML und CSS - Grundgerüst einer HTML-Seite,VIDEO_CARD,HTML und CSS - Ein Bild einfügen (img),diiikCQbmlA,0,0.00,0,0.00,1,140
+Git für Einsteiger - Der erste Commit - Teil 2,VIDEO_CARD,Git für Einsteiger - Allgemeines zum Branching,rvBXmjXqpN8,0,0.00,0,0.00,0,37
+docker installieren,VIDEO_CARD,docker - Images auflisten,sWAtigw5HSE,0,0.00,0,0.00,0,26
+Git für Einsteiger - Branches anlegen,VIDEO_CARD,Git für Einsteiger - Branches anlegen - Teil 2,TfvwbpxzSiI,0,0.00,0,0.00,0,10
+git,PLAYLIST_CARD,Git für Einsteiger - Branches anlegen - Teil 2,TfvwbpxzSiI,0,0.00,0,0.00,0,10
+R - Zeichenketten,VIDEO_CARD,R - RStudio installieren und starten,vCuMhy_Qb-w,0,0.00,0,0.00,0,28
+Privacy,PLAYLIST_CARD,Linux - USB-Sticks als Bootmedium vorbereiten,AcmlAMFIl_8,6,10.91,0,0.00,1,55
+photorec und recoverjpeg - gelöschte Dateien wiederherstellen,VIDEO_CARD,Linux - gelöschte Dateien wiederherstellen,9DoDY09AAdg,4,2.50,0,0.00,7,160
+SD-Karte des Raspberry Pi mit dd sichern,VIDEO_CARD,Raspberry Pi - SD-Karte mit gnome-disks sichern,IO25A5YopvE,0,0.00,0,0.00,1,19
+R - einfache Datentypen,VIDEO_CARD,R - RStudio installieren und starten,vCuMhy_Qb-w,0,0.00,0,0.00,0,46
+docker,PLAYLIST_CARD,docker - Images auflisten,sWAtigw5HSE,0,0.00,0,0.00,0,12
+HTML und CSS - Grundgerüst einer HTML-Seite,VIDEO_CARD,HTML und CSS - HTML-Elemente,1rjhqpDHGCM,0,0.00,0,0.00,1,5
+Git für Einsteiger - Branches anlegen,VIDEO_CARD,Git für Einsteiger - Allgemeines zum Branching,rvBXmjXqpN8,0,0.00,0,0.00,0,5
+Daten und Visualisierung,PLAYLIST_CARD,OpenLayers 3 - eine Karte auf eine Webseite setzen,3xiI_v9TopE,1,1.45,0,0.00,1,69
+LibreOffice,PLAYLIST_CARD,"LibreOffice - Calc - Filtern, welche Zellen sichtbar sind",Dre0GPY_E88,0,0.00,0,0.00,0,25
+HTML und CSS - Die notwendigen Tools,VIDEO_CARD,HTML und CSS - Ein HTML-Dokument erstellen,vA3ATuPb_4s,0,0.00,0,0.00,0,44
+HTML und CSS - HTML-Elemente,VIDEO_CARD,HTML und CSS - Grundgerüst einer HTML-Seite,TbfOV-bBQIc,0,0.00,0,0.00,0,36
+LibreOffice,PLAYLIST_CARD,LibreOffice - Calc - Sortieren von Zellen,b78o2PkBjus,0,0.00,0,0.00,0,9
+R - RStudio installieren und starten,VIDEO_CARD,R - Zeichenketten,53Q4s6MLCfM,0,0.00,0,0.00,0,9
+HTML und CSS - HTML-Elemente,VIDEO_CARD,HTML und CSS - Ein HTML-Dokument erstellen,vA3ATuPb_4s,0,0.00,0,0.00,0,11
+LibreOffice,PLAYLIST_CARD,LibreOffice - Calc - Ausblenden und Anzeigen von Daten,MZF7uWcwqv0,0,0.00,0,0.00,0,8
+R - Zeichenketten,VIDEO_CARD,R - RStudio installieren und starten,vCuMhy_Qb-w,0,0.00,0,0.00,0,1
+Git für Einsteiger - Allgemeines zum Branching,VIDEO_CARD,Git für Einsteiger - Branches anlegen,_g8ItehO7gA,0,0.00,0,0.00,0,31
+Git für Einsteiger - Branches anlegen - Teil 2,VIDEO_CARD,Git für Einsteiger - Branches anlegen,_g8ItehO7gA,0,0.00,0,0.00,0,8
+Privacy,PLAYLIST_CARD,Live-DVDs mit Anonymisierungsdiensten,8N1cOrfTRec,0,0.00,0,0.00,0,20
+Javascript - Hallo Welt,VIDEO_CARD,Javascript - Zahlen,WJvlUMvNiUo,0,0.00,0,0.00,1,21
+HTML und CSS - Webseite veröffentlichen (Hosting),VIDEO_CARD,HTML und CSS - Eine CSS-Datei einbinden,4wUssMxrjss,0,0.00,0,0.00,0,25
+LibreOffice,PLAYLIST_CARD,LibreOffice - Calc - Gruppen und Gliederung,l3IoSinZ61k,0,0.00,0,0.00,0,27
+Raspberry Pi,PLAYLIST_CARD,Raspberry Pi - SD-Karte mit gnome-disks sichern,IO25A5YopvE,0,0.00,0,0.00,1,11
+Linux,PLAYLIST_CARD,Linux - cut (schneiden),Fjtw5QjQwxE,0,0.00,0,0.00,0,22
+Web,PLAYLIST_CARD,Linktipp - Lerne X in Y Minuten,912UNZmcRWs,0,0.00,0,0.00,0,31

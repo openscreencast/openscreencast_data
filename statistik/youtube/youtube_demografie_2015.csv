@@ -1,0 +1,134 @@
+Geography,Geography ID,Viewer age,Viewer gender,Views,Viewer Percent
+Germany,DE,65-,m,51337,1.8
+Germany,DE,35-44,f,51337,1.1
+Germany,DE,45-54,f,51337,0.4
+Germany,DE,25-34,f,51337,2.4
+Germany,DE,13-17,f,51337,0.2
+Germany,DE,18-24,f,51337,2.7
+Germany,DE,35-44,m,51337,18.5
+Germany,DE,55-64,f,51337,0.2
+Germany,DE,45-54,m,51337,9.4
+Germany,DE,13-17,m,51337,0.9
+Germany,DE,65-,f,51337,0.0
+Germany,DE,25-34,m,51337,36.0
+Germany,DE,55-64,m,51337,7.0
+Germany,DE,18-24,m,51337,19.4
+United States,US,65-,m,7199,4.0
+United States,US,35-44,f,7199,0.8
+United States,US,45-54,f,7199,0.7
+United States,US,18-24,f,7199,1.7
+United States,US,13-17,f,7199,0.2
+United States,US,25-34,f,7199,3.4
+United States,US,35-44,m,7199,18.4
+United States,US,55-64,f,7199,0.4
+United States,US,45-54,m,7199,10.3
+United States,US,13-17,m,7199,2.2
+United States,US,65-,f,7199,0.4
+United States,US,25-34,m,7199,35.7
+United States,US,55-64,m,7199,4.2
+United States,US,18-24,m,7199,17.6
+Austria,AT,65-,m,4112,1.3
+Austria,AT,35-44,f,4112,0.8
+Austria,AT,45-54,f,4112,1.1
+Austria,AT,18-24,f,4112,2.4
+Austria,AT,13-17,f,4112,0.9
+Austria,AT,25-34,f,4112,2.5
+Austria,AT,35-44,m,4112,14.0
+Austria,AT,55-64,f,4112,0.1
+Austria,AT,45-54,m,4112,7.9
+Austria,AT,13-17,m,4112,6.6
+Austria,AT,65-,f,4112,0.5
+Austria,AT,25-34,m,4112,41.2
+Austria,AT,55-64,m,4112,3.7
+Austria,AT,18-24,m,4112,17.1
+Switzerland,CH,65-,m,2854,4.3
+Switzerland,CH,35-44,f,2854,1.3
+Switzerland,CH,45-54,f,2854,0.9
+Switzerland,CH,18-24,f,2854,2.9
+Switzerland,CH,13-17,f,2854,0.9
+Switzerland,CH,25-34,f,2854,3.4
+Switzerland,CH,35-44,m,2854,12.4
+Switzerland,CH,45-54,m,2854,6.9
+Switzerland,CH,13-17,m,2854,5.9
+Switzerland,CH,65-,f,2854,0.3
+Switzerland,CH,25-34,m,2854,30.4
+Switzerland,CH,55-64,m,2854,3.4
+Switzerland,CH,18-24,m,2854,27.1
+Brazil,BR,65-,m,2634,1.3
+Brazil,BR,35-44,f,2634,0.9
+Brazil,BR,45-54,f,2634,0.1
+Brazil,BR,25-34,f,2634,1.1
+Brazil,BR,13-17,f,2634,0.2
+Brazil,BR,18-24,f,2634,1.4
+Brazil,BR,35-44,m,2634,16.0
+Brazil,BR,55-64,f,2634,0.2
+Brazil,BR,45-54,m,2634,5.0
+Brazil,BR,13-17,m,2634,1.8
+Brazil,BR,65-,f,2634,0.1
+Brazil,BR,25-34,m,2634,45.3
+Brazil,BR,55-64,m,2634,2.0
+Brazil,BR,18-24,m,2634,24.7
+Italy,IT,65-,m,2278,2.1
+Italy,IT,35-44,f,2278,1.5
+Italy,IT,45-54,f,2278,0.5
+Italy,IT,25-34,f,2278,1.1
+Italy,IT,13-17,f,2278,0.2
+Italy,IT,18-24,f,2278,1.0
+Italy,IT,35-44,m,2278,23.1
+Italy,IT,55-64,f,2278,0.2
+Italy,IT,45-54,m,2278,12.2
+Italy,IT,13-17,m,2278,2.8
+Italy,IT,25-34,m,2278,32.0
+Italy,IT,55-64,m,2278,3.9
+Italy,IT,18-24,m,2278,19.6
+India,IN,45-54,f,2221,0.1
+India,IN,35-44,f,2221,0.5
+India,IN,13-17,f,2221,0.4
+India,IN,25-34,f,2221,3.5
+India,IN,25-34,m,2221,39.5
+India,IN,35-44,m,2221,7.3
+India,IN,45-54,m,2221,2.1
+India,IN,13-17,m,2221,1.5
+India,IN,65-,f,2221,0.1
+India,IN,18-24,f,2221,4.5
+India,IN,55-64,m,2221,0.7
+India,IN,18-24,m,2221,39.8
+France,FR,65-,m,2130,11.1
+France,FR,35-44,f,2130,0.7
+France,FR,45-54,f,2130,0.3
+France,FR,18-24,f,2130,2.4
+France,FR,13-17,f,2130,0.3
+France,FR,25-34,f,2130,0.9
+France,FR,35-44,m,2130,16.2
+France,FR,55-64,f,2130,0.9
+France,FR,45-54,m,2130,6.0
+France,FR,13-17,m,2130,2.8
+France,FR,65-,f,2130,0.7
+France,FR,25-34,m,2130,33.5
+France,FR,55-64,m,2130,4.5
+France,FR,18-24,m,2130,19.7
+United Kingdom,GB,65-,m,1948,1.0
+United Kingdom,GB,35-44,f,1948,1.0
+United Kingdom,GB,45-54,f,1948,0.5
+United Kingdom,GB,25-34,f,1948,1.8
+United Kingdom,GB,13-17,f,1948,0.3
+United Kingdom,GB,18-24,f,1948,0.8
+United Kingdom,GB,35-44,m,1948,21.0
+United Kingdom,GB,55-64,f,1948,0.3
+United Kingdom,GB,45-54,m,1948,11.9
+United Kingdom,GB,13-17,m,1948,1.3
+United Kingdom,GB,25-34,m,1948,38.1
+United Kingdom,GB,55-64,m,1948,3.8
+United Kingdom,GB,18-24,m,1948,18.3
+Spain,ES,65-,m,1845,2.3
+Spain,ES,35-44,f,1845,1.1
+Spain,ES,45-54,f,1845,1.1
+Spain,ES,18-24,f,1845,2.3
+Spain,ES,13-17,f,1845,0.2
+Spain,ES,25-34,f,1845,1.8
+Spain,ES,35-44,m,1845,26.4
+Spain,ES,45-54,m,1845,9.7
+Spain,ES,13-17,m,1845,0.5
+Spain,ES,25-34,m,1845,34.9
+Spain,ES,55-64,m,1845,3.0
+Spain,ES,18-24,m,1845,16.9
