@@ -17342,6 +17342,38 @@
 "vimeo": "154343736",
 "tumblr": "http://openscreencast.tumblr.com/post/138740652845/tails-20-demo-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/4471321"
+},
+"Lumina087_Demo": {
+"path": "Lumina087_Demo",
+"title": "Lumina 0.8.7 (Lumina-Desktop on Ubuntu 15.10) - Demo",
+"creator": "Heiko",
+"pubDate": "1456424675",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,Ubuntu,Lumina",
+"album": "http://www.openscreencast.de",
+"duration": "352000",
+"description": "Lumina 0.8.7 (Lumina-Desktop on Ubuntu 15.10) - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Lumina 0.8.7 (Lumina-Desktop on Ubuntu 15.10) - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://www.lumina-desktop.org/\">http://www.lumina-desktop.org/</a></li></ul>",
+"youtube": "AW1762zr4qE",
+"vimeo": "155150986",
+"tumblr": "http://openscreencast.tumblr.com/post/139181484110/lumina-087-lumina-desktop-on-ubuntu-1510",
+"diaspora": "https://pod.geraspora.de/posts/4494763"
+},
+"RebeccaBlackOS_Wayland_Demo": {
+"path": "RebeccaBlackOS_Wayland_Demo",
+"title": "RebeccaBlackOS 2016-02-08 (Wayland) - Demo",
+"creator": "Heiko",
+"pubDate": "1456424996",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,Wayland,RebeccaBlackOS",
+"album": "http://www.openscreencast.de",
+"duration": "376000",
+"description": "RebeccaBlackOS 2016-02-08 (Wayland) - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "RebeccaBlackOS 2016-02-08 (Wayland) - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://sourceforge.net/projects/rebeccablackos/\">RebeccaBlackOS</a></li></ul>",
+"youtube": "LoQg8zHLO7c",
+"vimeo": "155228780",
+"tumblr": "http://openscreencast.tumblr.com/post/139235927130/rebeccablackos-2016-02-08-wayland-demo",
+"diaspora": "https://pod.geraspora.de/posts/4497451"
 }
 
 
