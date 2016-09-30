@@ -17778,6 +17778,23 @@
 "vimeo": "155228780",
 "tumblr": "http://openscreencast.tumblr.com/post/139235927130/rebeccablackos-2016-02-08-wayland-demo",
 "diaspora": "https://pod.geraspora.de/posts/4497451"
+},
+"chapeau_24_demo": {
+"path": "chapeau_24_demo",
+"title": "Chapeau 24 - Demo",
+"creator": "Heiko",
+"pubDate": "1475234665",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,chapeau,Gnome",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/chapeau_24_demo.ogg",
+"duration": "460000",
+"description": "Chapeau 24 - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Chapeau 24 - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://chapeaulinux.org/\">Chapeau</a></li></ul>",
+"youtube": "AiqEWX0yiAA",
+"vimeo": "184878701",
+"tumblr": "http://openscreencast.tumblr.com/post/151104460765/chapeau-24-demo-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/5287145"
 }
 
 
