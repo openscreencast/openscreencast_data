@@ -17795,8 +17795,16 @@
 "vimeo": "184878701",
 "tumblr": "http://openscreencast.tumblr.com/post/151104460765/chapeau-24-demo-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/5287145"
+},
+"ScreencastProgramme_im_Test": {
+	"path": "ScreencastProgramme_im_Test",
+	"title": "Screencast-Programme im Test",
+	"creator": "Heiko",
+	"pubDate": "1475404200",
+	"category": "linux,News,Screencast-Tool,Screencasting",
+	"description": "Screencast-Programme im Test",
+	"content": "Im neuen <a href=\"http://www.linux-magazin.de/\">Linux-Magazin</a> 11/2016 gibt es einen Beitrag über <a href=\"https://de.wikipedia.org/wiki/Screencast\">Screencast</a>-Tools. In der Kategorie Software - Bitparade schreibt Erik Bärwaldt in dem Artikel \"Und - Action!\" über Programme fürs Screencasting. Die 5 Screencasting-Tools <a href=\"https://launchpad.net/kazam\">Kazam</a>, <a href=\"http://recordmydesktop.sourceforge.net/about.php\">Record My Desktop</a>, <a href=\"http://www.maartenbaert.be/simplescreenrecorder/\">Simple Screen Recorder</a>, <a href=\"http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html\">Vokoscreen</a> und <a href=\"http://krut.sourceforge.net/\">Krut</a> werden unter die Lupe genommen. Sie werden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in der Praxis miteinander verglichen. Eine weitere Übersicht mit momentan 10 Screencasting-Tools findet man im <a href=\"https://wiki.ubuntuusers.de/Screencasts/\">Wiki von ubuntuusers.de</a>. Eine Liste mit allen mir bekannten Screencast-Tools findet man <a href=\"https://github.com/openscreencast/openscreencast_material/blob/master/tools.md\">hier bei github</a>."
 }
-
 
 }
 
