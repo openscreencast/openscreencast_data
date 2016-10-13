@@ -17804,6 +17804,40 @@
 	"category": "linux,News,Screencast-Tool,Screencasting",
 	"description": "Screencast-Programme im Test",
 	"content": "Im neuen <a href=\"http://www.linux-magazin.de/\">Linux-Magazin</a> 11/2016 gibt es einen Beitrag über <a href=\"https://de.wikipedia.org/wiki/Screencast\">Screencast</a>-Tools. In der Kategorie Software - Bitparade schreibt Erik Bärwaldt in dem Artikel \"Und - Action!\" über Programme fürs Screencasting. Die 5 Screencasting-Tools <a href=\"https://launchpad.net/kazam\">Kazam</a>, <a href=\"http://recordmydesktop.sourceforge.net/about.php\">Record My Desktop</a>, <a href=\"http://www.maartenbaert.be/simplescreenrecorder/\">Simple Screen Recorder</a>, <a href=\"http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html\">Vokoscreen</a> und <a href=\"http://krut.sourceforge.net/\">Krut</a> werden unter die Lupe genommen. Sie werden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in der Praxis miteinander verglichen. Eine weitere Übersicht mit momentan 10 Screencasting-Tools findet man im <a href=\"https://wiki.ubuntuusers.de/Screencasts/\">Wiki von ubuntuusers.de</a>. Eine Liste mit allen mir bekannten Screencast-Tools findet man <a href=\"https://github.com/openscreencast/openscreencast_material/blob/master/tools.md\">hier bei github</a>."
+},
+"fedora25beta_workstation_installation_demo": {
+"path": "fedora25beta_workstation_installation_demo",
+"title": "Fedora 25 Beta (Workstation) - Installation - Demo",
+"creator": "Heiko",
+"pubDate": "1476361347",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,Fedora,Gnome",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora_25beta_install_demo.ogg",
+"duration": "224000",
+"description": "Fedora 25 Beta (Workstation) - Installation - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Fedora 25 Beta (Workstation) - Installation - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://getfedora.org/en/\">Fedora</a></li></ul>",
+"youtube": "lJeWg1-W8Ps",
+"vimeo": "187167637",
+"tumblr": "http://openscreencast.tumblr.com/post/151746619265/fedora-25-beta-workstation-installation-demo",
+"diaspora": "https://pod.geraspora.de/posts/5342820"
+},
+"fedora25beta_workstation_demo": {
+"path": "fedora25beta_workstation_demo",
+"title": "Fedora 25 Beta (Workstation) - Demo",
+"creator": "Heiko",
+"pubDate": "1476361576",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,Fedora,Gnome",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora_25beta_demo.ogg",
+"duration": "539000",
+"description": "Fedora 25 Beta (Workstation) - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Fedora 25 Beta (Workstation) - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://getfedora.org/en/\">Fedora</a></li></ul>",
+"youtube": "gpAdo9RNcnM",
+"vimeo": "187167650",
+"tumblr": "http://openscreencast.tumblr.com/post/151746638515/fedora-25-beta-workstation-demo-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/5342826"
 }
 
 }
