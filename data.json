@@ -17855,6 +17855,23 @@
 "vimeo": "187807973",
 "tumblr": "http://openscreencast.tumblr.com/post/151974973005/budgie-remix-1610-budgie-desktop-demo",
 "diaspora": "https://pod.geraspora.de/posts/5362134"
+},
+"salentos_10_demo": {
+"path": "salentos_10_demo",
+"title": "SalentOS 1.0 (Openbox) - Demo",
+"creator": "Heiko",
+"pubDate": "1477404850",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,SalentOS,Openbox",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/salentos_10_demo.ogg",
+"duration": "340000",
+"description": "SalentOS 1.0 (Openbox) - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "SalentOS 1.0 (Openbox) - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://www.salentos.it/\">SalentOS</a></li></ul>",
+"youtube": "Ac3BixOtWp0",
+"vimeo": "188668514",
+"tumblr": "http://openscreencast.tumblr.com/post/152293328095/salentos-10-openbox-demo-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/5391353"
 }
 
 }
