@@ -17872,6 +17872,23 @@
 "vimeo": "188668514",
 "tumblr": "http://openscreencast.tumblr.com/post/152293328095/salentos-10-openbox-demo-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/5391353"
+},
+"maui_2_linux_demo": {
+"path": "maui_2_linux_demo",
+"title": "Maui 2 (Linux) - Demo",
+"creator": "Heiko",
+"pubDate": "1477747461",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,Maui,KDE,Plasma",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/maui_2_demo.ogg",
+"duration": "464000",
+"description": "Maui 2 (Linux) - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Maui 2 (Linux) - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://mauilinux.org/\">Maui</a></li></ul>",
+"youtube": "OJFcKZCBPpc",
+"vimeo": "189335969",
+"tumblr": "http://openscreencast.tumblr.com/post/152463275800/maui-2-blue-tang-linux-demo-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/5409238"
 }
 
 }
