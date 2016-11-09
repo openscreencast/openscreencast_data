@@ -17889,6 +17889,23 @@
 "vimeo": "189335969",
 "tumblr": "http://openscreencast.tumblr.com/post/152463275800/maui-2-blue-tang-linux-demo-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/5409238"
+},
+"geckolinux_cinnamon_demo": {
+"path": "geckolinux_cinnamon_demo",
+"title": "GeckoLinux 999.161031.0 Rolling Cinnamon - Demo",
+"creator": "Heiko",
+"pubDate": "1478694374",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,GeckoLinux,Gecko,cinnamon",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/geckolinux_demo.ogg",
+"duration": "432000",
+"description": "GeckoLinux 999.161031.0 Rolling Cinnamon - Demo",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "GeckoLinux 999.161031.0 Rolling Cinnamon - Demo<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://geckolinux.github.io/\">GeckoLinux</a></li></ul>",
+"youtube": "ioVLXsEAJjs",
+"vimeo": "190713187",
+"tumblr": "http://openscreencast.tumblr.com/post/152946380675/geckolinux-9991610310-rolling-cinnamon-demo",
+"diaspora": "https://pod.geraspora.de/posts/5457588"
 }
 
 }
