@@ -1,0 +1,125 @@
+total_loads,total_plays,code,country,rank
+43695,483,us,Vereinigte Staaten,1
+2717,800,de,Deutschland,2
+2072,0,cn,China,3
+1658,20,tw,Taiwan,4
+843,158,fr,Frankreich,5
+860,101,it,Italien,6
+715,137,br,Brasilien,7
+569,60,ca,Kanada,8
+441,94,pl,Polen,9
+439,86,gb,Vereinigtes Königreich,10
+399,88,in,Indien,11
+438,34,id,Indonesien,12
+409,45,nl,Niederlande,13
+327,67,ru,Russische Föderation,14
+315,74,es,Spanien,15
+272,88,at,Österreich,16
+267,39,ua,Ukraine,17
+215,38,tr,Türkei,18
+189,41,be,Belgien,19
+187,22,vn,Vietnam,20
+129,73,ar,Argentinien,21
+142,55,ch,Schweiz,22
+155,42,mx,Mexiko,23
+172,19,hu,Ungarn,24
+160,17,jp,Japan,25
+169,7,th,Thailand,26
+141,32,se,Schweden,27
+159,11,sk,Slowakei,28
+120,28,ro,Rumänien,29
+121,23,au,Australien,30
+109,26,kr,Republik Korea,31
+89,21,pt,Portugal,32
+89,21,gr,Griechenland,33
+84,15,cz,Tschechische Republik,34
+70,28,fi,Finnland,35
+77,16,il,Israel,36
+65,22,rs,Serbien,37
+57,28,co,Kolumbien,38
+60,22,ma,Marokko,39
+54,27,cl,Chile,40
+63,15,bg,Bulgarien,41
+69,7,ie,Irland,42
+54,14,hr,Kroatien,43
+56,10,my,Malaysia,44
+44,22,pk,Pakistan,45
+45,13,dk,Dänemark,46
+48,8,ph,Philippinen,47
+41,8,za,Südafrika,48
+33,12,no,Norwegen,49
+37,6,hk,Sonderverwaltungszone Hongkong,50
+28,13,pe,Peru,51
+30,7,eg,Ägypten,52
+28,6,lt,Litauen,53
+34,0,sc,Seychellen,54
+27,6,ve,Venezuela,55
+28,4,nz,Neuseeland,56
+27,3,tn,Tunesien,57
+23,6,dz,Algerien,58
+23,3,lk,Sri Lanka,59
+21,5,cr,Costa Rica,60
+20,5,sg,Singapur,61
+19,6,ba,Bosnien und Herzegowina,62
+22,3,do,Dominikanische Republik,63
+20,4,ee,Estland,64
+20,4,ec,Ecuador,65
+21,1,iq,Irak,66
+16,6,ge,Georgien,67
+14,6,uy,Uruguay,68
+17,2,sa,Saudi-Arabien,69
+14,4,bd,Bangladesch,70
+15,3,lv,Lettland,71
+15,2,is,Island,72
+13,4,by,Belarus,73
+10,6,md,Republik Moldau,74
+15,1,al,Albanien,75
+12,3,si,Slowenien,76
+14,1,gt,Guatemala,77
+13,2,kh,Kambodscha,78
+12,2,ae,Vereinigte Arabische Emirate,79
+9,5,qa,Katar,80
+9,3,lu,Luxemburg,81
+11,1,tz,Tansania,82
+8,3,sv,El Salvador,83
+9,2,mz,Mosambik,84
+8,3,py,Paraguay,85
+7,2,cy,Zypern,86
+7,2,tt,Trinidad und Tobago,87
+7,2,ke,Kenia,88
+7,1,am,Armenien,89
+6,2,pa,Panama,90
+8,0,sn,Senegal,91
+5,2,bo,Bolivien,92
+6,1,ps,Palästinensische Autonomiegebiete,93
+6,0,ao,Angola,94
+5,1,pr,Puerto Rico,95
+4,2,jo,Jordanien,96
+5,1,mm,Myanmar,97
+6,0,zw,Simbabwe,98
+6,0,kz,Kasachstan,99
+6,0,lb,Libanon,100
+5,1,hn,Honduras,101
+5,0,sd,Sudan,102
+4,1,sy,Syrien,103
+3,1,kw,Kuwait,104
+4,0,mg,Madagaskar,105
+3,1,re,Réunion,106
+2,1,mo,Sonderverwaltungszone Macao,107
+3,0,mv,Malediven,108
+3,0,vg,Britische Jungferninseln,109
+3,0,np,Nepal,110
+2,1,bf,Burkina Faso,111
+2,1,om,Oman,112
+2,1,mk,Mazedonien,113
+2,1,et,Äthiopien,114
+1,1,gq,Äquatorialguinea,115
+1,1,gp,Guadeloupe,116
+2,0,cw,Curaçao,117
+2,0,ci,Côte d’Ivoire,118
+2,0,ir,Iran,119
+1,1,af,Afghanistan,120
+1,1,zm,Sambia,121
+1,0,jm,Jamaika,122
+1,0,kg,Kirgisistan,123
+1,0,ye,Jemen,124
