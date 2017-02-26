@@ -17906,6 +17906,23 @@
 "vimeo": "190713187",
 "tumblr": "http://openscreencast.tumblr.com/post/152946380675/geckolinux-9991610310-rolling-cinnamon-demo",
 "diaspora": "https://pod.geraspora.de/posts/5457588"
+},
+"trueos_20170222_demo": {
+"path": "trueos_20170222_demo",
+"title": "TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)",
+"creator": "Heiko",
+"pubDate": "1478694374",
+"category": "CC by,Linux,Neueinsteiger,screencast,Demo,GeckoLinux,Gecko,cinnamon",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/geckolinux_demo.ogg",
+"duration": "432000",
+"description": "TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://www.trueos.org/\">TrueOS</a></li><li>Musik: Sprite by <a href=\"http://freemusicarchive.org/music/Michett/\">Michett</a>, Lizenz: <a href=\"http://creativecommons.org/licenses/by/3.0/nl\">http://creativecommons.org/licenses/by/3.0/nl</a></li></ul>",
+"youtube": "T18Cp8C0ME4",
+"vimeo": "205681429",
+"tumblr": "http://openscreencast.tumblr.com/post/157728851545/trueos-2017-02-22-demo-based-on-freebsd-lumina",
+"diaspora": "https://pod.geraspora.de/posts/5959737"
 }
 
 }
