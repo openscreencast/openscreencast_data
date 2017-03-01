@@ -17923,6 +17923,23 @@
 "vimeo": "205681429",
 "tumblr": "http://openscreencast.tumblr.com/post/157728851545/trueos-2017-02-22-demo-based-on-freebsd-lumina",
 "diaspora": "https://pod.geraspora.de/posts/5959737"
+},
+"peek_screencasts_als_gif": {
+"path": "peek_screencasts_als_gif",
+"title": "Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild",
+"creator": "Heiko",
+"pubDate": "1488370221",
+"category": "CC by,Linux,Neueinsteiger,screencast,gif,byzanz,peek,Screencasting",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/peek_screencasts_als_gif.ogg",
+"duration": "372000",
+"description": "Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://github.com/phw/peek\">peek</a></li><li><a href=\"https://github.com/GNOME/byzanz\">byzanz</a></li><li>Textquelle: <a href=\"https://linuxundich.de/gnu-linux/peek-erstellt-auf-einfache-art-screencasts-als-animiertes-gif-bild-und-demaechst-als-webm-video/\">Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild und demächst als WebM-Video</a> von <a href=\"http://linuxundich.de/\">Christoph Langner</a>, Lizenz: <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a></li></ul>",
+"youtube": "dwi-6VX83eQ",
+"vimeo": "206219717",
+"tumblr": "http://openscreencast.tumblr.com/post/157859350835/linux-peek-erstellt-auf-einfache-art-screencasts",
+"diaspora": "https://pod.geraspora.de/posts/5974704"
 }
 
 }
