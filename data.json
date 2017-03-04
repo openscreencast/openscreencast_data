@@ -17940,6 +17940,23 @@
 "vimeo": "206219717",
 "tumblr": "http://openscreencast.tumblr.com/post/157859350835/linux-peek-erstellt-auf-einfache-art-screencasts",
 "diaspora": "https://pod.geraspora.de/posts/5974704"
+},
+"raspberrypi_etcher": {
+"path": "raspberrypi_etcher",
+"title": "Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben",
+"creator": "Heiko",
+"pubDate": "1488632395",
+"category": "CC by,Linux,Neueinsteiger,screencast,RaspberryPi,RaspPi,etcher",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/etcher.ogg",
+"duration": "413000",
+"description": "Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben",
+"license": "http://creativecommons.org/licenses/by/3.0/",
+"content": "Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/3.0/\">http://creativecommons.org/licenses/by/3.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://etcher.io/\">etcher</a></li><li><a href=\"https://libreelec.tv/downloads/\">libreelec</a></li><li><a href=\"http://www.pibakery.org/\">pibakery</a></li><li>Textquelle: <a href=\"https://www.bitblokes.de/2016/11/raspbian-oder-andere-abbilder-sehr-einfach-mit-etcher-auf-eine-sd-karte-schreiben/\">Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben</a> von <a href=\"https://www.bitblokes.de/\">bitblokes.de</a>, Lizenz: <a href=\"http://creativecommons.org/licenses/by/3.0/\">CC by</a></li></ul>",
+"youtube": "dZgJMf5FQ9g",
+"vimeo": "206702449",
+"tumblr": "http://openscreencast.tumblr.com/post/157980429830/raspbian-oder-andere-abbilder-sehr-einfach-mit",
+"diaspora": "https://pod.geraspora.de/posts/5989563"
 }
 
 }
