@@ -18041,9 +18041,24 @@
 "vimeo": "207923224",
 "tumblr": "http://openscreencast.tumblr.com/post/158268466060/python-f&uuml;r-anf&auml;nger-ein-rechteck-zeichnen",
 "diaspora": "https://pod.geraspora.de/posts/6023276"
+},
+"python_docstring_pydoc": {
+"path": "python_docstring_pydoc",
+"title": "Python-Programmierung - docstring und pydoc (Dokumentation)",
+"creator": "Heiko",
+"pubDate": "1489409672",
+"category": "CC by,Linux,Neueinsteiger,screencast,Linux Mint,Python",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_docstring_pydoc.ogg",
+"duration": "227000",
+"description": "Python-Programmierung - docstring und pydoc (Dokumentation)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Python-Programmierung - docstring und pydoc (Dokumentation), Linux Mint 18.1<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"http://docs.python-guide.org/en/latest/writing/documentation/\" title=\"Link zu python-guide.org\">Python - Dokumentation</a></li><li><a href=\"https://en.wikipedia.org/wiki/Docstring\" title=\"Link zu wikipedia.org\">WP:docstring</a></li><li><a href=\"https://wiki.python.org/moin/DocumentationTools\" title=\"Link zu python.org\">Python - DocumentationTools</a></li><li><a href=\"https://python.swaroopch.com/\" title=\"Link zu swaroopch.com/\">Python</a></li></ul>",
+"youtube": "2XkOhri__Ew",
+"vimeo": "208125363",
+"tumblr": "http://openscreencast.tumblr.com/post/158350948915/python-programmierung-docstring-und-pydoc",
+"diaspora": "https://pod.geraspora.de/posts/6030551"
 }
-
-
 
 
 }
