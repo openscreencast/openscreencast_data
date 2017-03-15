@@ -18058,6 +18058,23 @@
 "vimeo": "208125363",
 "tumblr": "http://openscreencast.tumblr.com/post/158350948915/python-programmierung-docstring-und-pydoc",
 "diaspora": "https://pod.geraspora.de/posts/6030551"
+},
+"linux_findmnt": {
+"path": "linux_findmnt",
+"title": "Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an",
+"creator": "Heiko",
+"pubDate": "1489582759",
+"category": "CC by,Linux,Neueinsteiger,screencast,gnome-disks,findmnt,mount,lsblk",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/findmnt.ogg",
+"duration": "241000",
+"description": "Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an, Linux Mint 18.1<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://wiki.ubuntuusers.de/mount/\">mount</a></li><li><a href=\"https://wiki.ubuntuusers.de/Laufwerksverwaltung/\">Laufwerksverwaltung</a></li><li><a href=\"https://wiki.ubuntuusers.de/lsblk/\">lsblk</a></li><li>Textquelle: <a href=\"https://linuxundich.de/gnu-linux/findmnt-zeigt-eingebundene-laufwerke-uebersichtlich-an/\">Findmnt zeigt eingebundene Laufwerke übersichtlich an</a> von <a href=\"http://linuxundich.de/\">Christoph Langner</a>, Lizenz: <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a></li></ul>",
+"youtube": "kV5tHwGYO94",
+"vimeo": "208478722",
+"tumblr": "http://openscreencast.tumblr.com/post/158433383160/linux-findmnt-zeigt-eingebundene-laufwerke",
+"diaspora": "https://pod.geraspora.de/posts/6040579"
 }
 
 
