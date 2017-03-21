@@ -18109,6 +18109,23 @@
 "vimeo": "209223534",
 "tumblr": "http://openscreencast.tumblr.com/post/158629656000/scratch-tutorial-teil-2-anlegen-der-vier",
 "diaspora": "https://pod.geraspora.de/posts/6064666"
+},
+"linux_terminix_wird_tilix": {
+"path": "linux_terminix_wird_tilix",
+"title": "Aus Terminix wird Tilix",
+"creator": "Heiko",
+"pubDate": "1490113799",
+"category": "CC by,Linux,Neueinsteiger,screencast,terminix,terminal,tilix",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/terminix_wird_tilix.ogg",
+"duration": "245000",
+"description": "Aus Terminix wird Tilix",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Aus Terminix wird Tilix, Linux Mint 18.1<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://gnunn1.github.io/tilix-web/\">tilix</a></li><li><a href=\"https://github.com/gnunn1/tilix/\">github tilix</a></li><li>Textquelle: <a href=\"https://linuxundich.de/gnu-linux/bug-jaeger-vs-terminal-entwickler-aus-terminix-wird-tilix/\">Bug-Jäger vs. Terminal-Entwickler: Aus Terminix wird Tilix</a> von <a href=\"http://linuxundich.de/\">Christoph Langner</a>, Lizenz: <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a></li></ul>",
+"youtube": "QM0XBMUndgo",
+"vimeo": "209224417",
+"tumblr": "http://openscreencast.tumblr.com/post/158629686790/linux-aus-terminix-wird-tilix-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/6064674"
 }
 
 
