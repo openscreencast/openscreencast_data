@@ -18228,7 +18228,25 @@
 "vimeo": "209792724",
 "tumblr": "http://openscreencast.tumblr.com/post/158748493500/gnome-324-recipes-demo-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/6080655"
+},
+"linux_greenrecorder": {
+"path": "linux_greenrecorder",
+"title": "Linux - Green Recorder (Screencasting unter Wayland)",
+"creator": "Heiko",
+"pubDate": "1490445974",
+"category": "CC by,Neueinsteiger,screencast,Linux,Screencasting,Green Recorder",
+"album": "http://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/greenrecorder.ogg",
+"duration": "215000",
+"description": "Linux - Green Recorder (Screencasting unter Wayland)",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "Linux - Green Recorder (Screencasting unter Wayland), Linux Mint 18.1<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"https://github.com/green-project/green-recorder\">Green Recorder</a></li></ul>",
+"youtube": "0mGX410deIA",
+"vimeo": "209909327",
+"tumblr": "http://openscreencast.tumblr.com/post/158777036930/linux-green-recorder-screencasting-unter",
+"diaspora": "https://pod.geraspora.de/posts/6084199"
 }
+
 
 
 
