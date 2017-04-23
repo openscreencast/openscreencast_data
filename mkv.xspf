@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+	<location>http://www.openscreencast.de/archive/wmctrl_082.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>wmctrl - Fenster per Kommando steuern</title>
+	<annotation>Das Tool wmctrl ermöglicht es Fenster per Kommando zu steuern.</annotation>
+	<duration>391000</duration>
+	<image>http://www.openscreencast.de/archive/wmctrl_082.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_close_081.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Schliessen</title>
+	<annotation>Wie schliesst man ein Dokument oder Writer ?</annotation>
+	<duration>239000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_close_081.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Hilfe erhalten</title>
+	<annotation>Wo bekommt man Hilfe bei OpenOffice.org ?</annotation>
+	<duration>138000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_hilfe_080.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Gallery - Ein neues Thema anlegen</title>
+	<annotation>Wie legt man in der Gallery ein neues Thema an ?</annotation>
+	<duration>236000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Nach PDF exportieren</title>
+	<annotation>Wie exportiert man bei OpenOffice.org Writer nach PDF ?</annotation>
+	<duration>155000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_pdf_078.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/juice_077.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Medienwiedergabe in der Konsole - juice</title>
+	<annotation>Medienwiedergabe in der Konsole - juice<br />! Hinweis: juice ist bei Ubuntu 9.10 nicht mehr mit dabei,also funktioniert die Installation wie sie im Video angegeben wird nicht mehr so.<br />Installation:<br />Terminal: sudo apt-get install mpg123<br />Paket juice (intrepid) herunterladen und installieren.</annotation>
+	<duration>207000</duration>
+	<image>http://www.openscreencast.de/archive/juice_077.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Ubuntu 10.04 LTS RC</title>
+	<annotation>Ubuntu 10.04 LTS RC - die ersten Eindrücke</annotation>
+	<duration>254000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Gallery - Grafiken hinzufügen</title>
+	<annotation>Wie fügt man Grafiken in die Gallery ein ? Wie löscht man Grafiken aus der Gallery ?</annotation>
+	<duration>150000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Ubuntu 9.10</title>
+	<annotation>Ubuntu 9.10</annotation>
+	<duration>331000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/cmus_075.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Medienwiedergabe in der Konsole - cmus</title>
+	<annotation>Medienwiedergabe in der Konsole - cmus</annotation>
+	<duration>239000</duration>
+	<image>http://www.openscreencast.de/archive/cmus_075.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Gallery - Objekte in ein Dokument einfügen</title>
+	<annotation>Wie fügt man Objekte aus der Gallery in ein Dokument ein ?</annotation>
+	<duration>191000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Was ist die Gallery</title>
+	<annotation>Was ist die Gallery ?</annotation>
+	<duration>127000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_gallery_073.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/mp3blaster_072.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Medienwiedergabe in der Konsole - mp3blaster</title>
+	<annotation>Medienwiedergabe in der Konsole - mp3blaster</annotation>
+	<duration>287000</duration>
+	<image>http://www.openscreencast.de/archive/mp3blaster_072.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Ein Dokument drucken</title>
+	<annotation>Möglichkeiten werden gezeigt wie man ein Dokument bei OpenOffice.org Writer drucken kann.</annotation>
+	<duration>238000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Ubuntu 9.04 Installation</title>
+	<annotation>Ubuntu 9.04 Installation</annotation>
+	<duration>413000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Ubuntu 9.04</title>
+	<annotation>Ubuntu 9.04</annotation>
+	<duration>241000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Verknüpfungen</title>
+	<annotation>Wie verknüpft man einen Dateityp mit einem Programm ?</annotation>
+	<duration>84000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_verknuepfungen_070.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/pidgin_otr_069.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Pidgin - Nachrichtenverschlüsselung mit OTR</title>
+	<annotation>Wie verschlüsselt man seine Nachrichten mit Pidgin - OTR ?</annotation>
+	<duration>247000</duration>
+	<image>http://www.openscreencast.de/archive/pidgin_otr_069.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Ein Dokument speichern</title>
+	<annotation>Möglichkeiten werden gezeigt wie man ein Dokument bei OpenOffice.org Writer speichert.</annotation>
+	<duration>111000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>PCLinuxOS 2009.1 Installation</title>
+	<annotation>Eine kurze Demo von der PCLinuxOS 2009.1 Installation</annotation>
+	<duration>317000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>PCLinuxOS 2009.1</title>
+	<annotation>Eine kurze Demo von PCLinuxOS 2009.1</annotation>
+	<duration>335000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/sweeper_067.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Sweeper</title>
+	<annotation>Sweeper - Browserdaten oder diverse Verlaufdaten löschen</annotation>
+	<duration>104000</duration>
+	<image>http://www.openscreencast.de/archive/sweeper_067.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Kwin - Videoaufnahme</title>
+	<annotation>Es wird der Effekt Kwin - Videoaufnahme und Mausspur gezeigt.</annotation>
+	<duration>304000</duration>
+	<image>http://www.openscreencast.de/archive/kwin_videoaufnahme_066.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Modus ändern</title>
+	<annotation>Nautilus - Modus ändern, Seitenleiste und Zielort direkt eingeben werden gezeigt </annotation>
+	<duration>132000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_modus_aendern_065.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Ein Dokument öffnen</title>
+	<annotation>Möglichkeiten werden gezeigt wie man ein Dokument bei OpenOffice.org Writer öffnet.</annotation>
+	<duration>115000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/wallpapoz_063.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Wallpapoz</title>
+	<annotation>Wallpapoz macht es möglich jede Arbeitsfläche mit einem anderen Hintergrundbild zu schmücken.</annotation>
+	<duration>177000</duration>
+	<image>http://www.openscreencast.de/archive/wallpapoz_063.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Kubuntu 8.10 Installation</title>
+	<annotation>Eine kurze Demo von Kubuntu 8.10 Installation</annotation>
+	<duration>372000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Kubuntu 8.10</title>
+	<annotation>Eine kurze Demo von Kubuntu 8.10</annotation>
+	<duration>299000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Tastenkürzel</title>
+	<annotation>Tastenkürzel - Die wichtigsten Tastenkürzel vom Dateibrowser Nautilus werden kurz vorgestellt.</annotation>
+	<duration>179000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Ein neues Dokument erstellen</title>
+	<annotation>Möglichkeiten werden gezeigt wie man ein neues Dokument bei OpenOffice.org Writer erstellt.</annotation>
+	<duration>183000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Mandriva Linux One 2009 KDE4 Installation</title>
+	<annotation>Eine kurze Demo von der Mandriva Linux One 2009 KDE4 Installation</annotation>
+	<duration>369000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Mandriva Linux One 2009 KDE4</title>
+	<annotation>Eine kurze Demo von Mandriva Linux One 2009 KDE4</annotation>
+	<duration>406000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/wallpaper-tray_060.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>wallpaper-tray</title>
+	<annotation>wallpaper-tray - Das Hintergrundbild ändern</annotation>
+	<duration>109000</duration>
+	<image>http://www.openscreencast.de/archive/wallpaper-tray_060.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Dateivorschau</title>
+	<annotation>Dateivorschau - Wie kann man die Dateivorschau aktivieren und deaktivieren ?</annotation>
+	<duration>142000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_dateivorschau_059.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Navigator verwenden</title>
+	<annotation>Der Navigator hilft einen schnell in einem Dokument an sein Ziel zu gelangen und die Übersicht zu behalten.</annotation>
+	<duration>231000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/desktop_drapes_057.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Desktop Drapes</title>
+	<annotation>Desktop Drapes - Das Hintergrundbild ändern</annotation>
+	<duration>81000</duration>
+	<image>http://www.openscreencast.de/archive/desktop_drapes_057.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Lesezeichen</title>
+	<annotation>Lesezeichen - kurzer Weg zu einem bestimmten Ordner</annotation>
+	<duration>142000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Linux Mint 6 Universal Edition Installation</title>
+	<annotation>Eine kurze Demo von der Installation Linux Mint 6 Universal Edition</annotation>
+	<duration>332000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Linux Mint 6 Universal Edition</title>
+	<annotation>Eine kurze Demo von Linux Mint 6 Universal Edition</annotation>
+	<duration>351000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Writer - Dokumentenansicht ändern</title>
+	<annotation>Die Dokumentenansicht der Textverarbeitung wird vorgestellt.</annotation>
+	<duration>149000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_ansicht_055.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Dateien verstecken</title>
+	<annotation>Lernen eine Datei zu verstecken</annotation>
+	<duration>126000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Nautilus - Vorlagen</title>
+	<annotation>Vorlagen machen es etwas einfacher neue Dateien zu erstellen. Wie aber installiert man Vorlagen ?</annotation>
+	<duration>90000</duration>
+	<image>http://www.openscreencast.de/archive/nautilus_vorlagen_053.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Die Writer-Benutzeroberfläche</title>
+	<annotation>Wie sieht die Benutzeroberfläche von OpenOffice.org - Writer eigentlich aus. Ein paar Sätze dazu ?</annotation>
+	<duration>435000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenSolaris 2008.11 - Installation</title>
+	<annotation>Eine kurze Demo von der Installation OpenSolaris 2008.11</annotation>
+	<duration>273000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenSolaris 2008.11</title>
+	<annotation>Eine kurze Demo von OpenSolaris 2008.11</annotation>
+	<duration>274000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>opensuse 11.1rc1 - Installation</title>
+	<annotation>Eine kurze Demo von der Installation openSUSE 11.1 RC1.</annotation>
+	<duration>539000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>opensuse 11.1rc1</title>
+	<annotation>Eine kurze Demo von openSUSE 11.1 RC1.</annotation>
+	<duration>283000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Ubuntu im Textmodus</title>
+	<annotation>Eine kurze Anleitung wie man es bei Ubuntu erreicht gleich nach dem Start im Textmodus zu landen.</annotation>
+	<duration>187000</duration>
+	<image>http://www.openscreencast.de/archive/ubuntu_im_textmodus_051.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/nano_050.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>nano - Texteditor</title>
+	<annotation>Nano ist ein kommandozeilenorientierter Texteditor.</annotation>
+	<duration>143000</duration>
+	<image>http://www.openscreencast.de/archive/nano_050.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/logout_049.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>logout - Abmeldung</title>
+	<annotation>Welche Möglichkeiten gibt es um sich vom System abzumelden bzw. den Rechner herunterzufahren ?</annotation>
+	<duration>298000</duration>
+	<image>http://www.openscreencast.de/archive/logout_049.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/ooo_writer_starten_048.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>OpenOffice.org - Textverarbeitung starten</title>
+	<annotation>Welche Möglichkeiten bestehen um OpenOffice.org - Textverarbeitung zu starten ?</annotation>
+	<duration>393000</duration>
+	<image>http://www.openscreencast.de/archive/ooo_writer_starten_048.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glipper_047.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>glipper - Zwischenablagenverwalter</title>
+	<annotation>Glipper, ein Programm das Zwischenablagen verwaltet wird vorgestellt. Temporäres Speichern von mehreren Textstellen ist nun möglich.</annotation>
+	<duration>211000</duration>
+	<image>http://www.openscreencast.de/archive/glipper_047.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/login_046.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>login - Anmeldung</title>
+	<annotation>x</annotation>
+	<duration>170000</duration>
+	<image>http://www.openscreencast.de/archive/login_046.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Fedora 10 Preview Installation</title>
+	<annotation>x</annotation>
+	<duration>618000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Fedora 10 Preview</title>
+	<annotation>x</annotation>
+	<duration>160000</duration>
+	<image>http://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Passwort aendern</title>
+	<annotation>x</annotation>
+	<duration>59000</duration>
+	<image>http://www.openscreencast.de/archive/short/passwort_aendern_short_047.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+<track>
+	<location>http://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv</location>
+	<creator>Heiko</creator>
+	<album>http://www.openscreencast.de</album>
+	<title>Gnomepanel Ausgangszustand</title>
+	<annotation>x</annotation>
+	<duration>91000</duration>
+	<image>http://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.png</image>
+	<info>http://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</track>
+</trackList>
+</playlist>
