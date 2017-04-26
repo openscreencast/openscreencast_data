@@ -1,9 +1,9 @@
 {
-    "domain": "http://www.openscreencast.de",
+    "domain": "https://www.openscreencast.de",
     "name": "openscreencast",
     "path": "/blog/",
     "title": "openscreencast - Screencasts und Video-Tutorials ueber Open-Source-Software und Linux",
-    "logo": "http://www.openscreencast.de/video.png",
+    "logo": "https://www.openscreencast.de/video.png",
     "description": "Screencasts und Video-Tutorials ueber Open-Source-Software und Linux",
     "language": "de-DE",
     "email": "info@openscreencast.de",
@@ -16,6 +16,6 @@
     "diaspora": "https://pod.geraspora.de/u/openscreencast",
     "gnusocial": "https://gnusocial.de/openscreencast",
     "github": "https://github.com/openscreencast",   
-    "gpg-key": "http://www.openscreencast.de/gpg-key.asc"
+    "gpg-key": "https://www.openscreencast.de/gpg-key.asc"
 }
 	

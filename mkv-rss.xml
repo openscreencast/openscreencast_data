@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>openscreencast - Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</title>
-<link>http://www.openscreencast.de</link>
+<link>https://www.openscreencast.de</link>
 <description>Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</description>
 <lastBuildDate>Thu, 20 Apr 2017 13:54:08 +0100</lastBuildDate>
 <language>de-DE</language>
@@ -10,18 +10,18 @@
 <webMaster>info@openscreencast.de (Heiko)</webMaster>
 <ttl>1440</ttl>
 <image>
-	<url>http://www.openscreencast.de/video.png</url>
+	<url>https://www.openscreencast.de/video.png</url>
 	<title>openscreencast - Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</title>
-	<link>http://www.openscreencast.de</link>
+	<link>https://www.openscreencast.de</link>
 	<width>144</width>
 	<height>144</height>
 </image>
 <atom:link href="http://www.openscreencast.de/mkv-rss.xml" rel="self" type="application/rss+xml" />
 <item>
 	<title>wmctrl - Fenster per Kommando steuern</title>
-	<link>http://www.openscreencast.de/blog/wmctrl.html</link>
+	<link>https://www.openscreencast.de/blog/wmctrl.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/wmctrl_082.mkv">http://www.openscreencast.de/archive/wmctrl_082.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/wmctrl_082.mkv">https://www.openscreencast.de/archive/wmctrl_082.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/C8dgLEVpDgY">http://www.youtube-nocookie.com/embed/C8dgLEVpDgY</a>
 
@@ -29,30 +29,30 @@ Ausgangspunkt: Ubuntu 10.04, GNOME 2.30<br />Zielgruppe: Neueinsteiger<br /><p>K
 	<pubDate>Wed, 16 Jun 2010 05:25:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
 	<category><![CDATA[wmctrl]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wmctrl.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/wmctrl_082.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wmctrl.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/wmctrl_082.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Schliessen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_close.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_close.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_close_081.mkv">http://www.openscreencast.de/archive/ooo_writer_close_081.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_close_081.mkv">https://www.openscreencast.de/archive/ooo_writer_close_081.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/LI6ED8h8cIo">http://www.youtube-nocookie.com/embed/LI6ED8h8cIo</a>
 
@@ -60,34 +60,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sat, 01 May 2010 01:40:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_close.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_close_081.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_close.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_close_081.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Hilfe erhalten</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_hilfe.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_hilfe.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv">http://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv">https://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/wcnguKKGAl4">http://www.youtube-nocookie.com/embed/wcnguKKGAl4</a>
 
@@ -95,34 +95,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Wed, 28 Apr 2010 22:57:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_hilfe.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_hilfe_080.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Gallery - Ein neues Thema anlegen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv">http://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv">https://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/YIEPW7s2MwE">http://www.youtube-nocookie.com/embed/YIEPW7s2MwE</a>
 
@@ -130,34 +130,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Wed, 28 Apr 2010 03:56:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_thema.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_gallery_thema_079.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Nach PDF exportieren</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_pdf.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_pdf.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv">http://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv">https://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/-GAbp2UPMbc">http://www.youtube-nocookie.com/embed/-GAbp2UPMbc</a>
 
@@ -165,63 +165,63 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Mon, 26 Apr 2010 02:36:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_pdf.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_pdf_078.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Medienwiedergabe in der Konsole - juice</title>
-	<link>http://www.openscreencast.de/blog/juice.html</link>
+	<link>https://www.openscreencast.de/blog/juice.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/juice_077.mkv">http://www.openscreencast.de/archive/juice_077.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/juice_077.mkv">https://www.openscreencast.de/archive/juice_077.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: apt-get, juice</p><p>Links:</p><ul><li><a href="http://www.freiesmagazin.de/yalm">yalm</a> </li></ul>]]></description>
 	<pubDate>Sun, 25 Apr 2010 02:08:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
 	<category><![CDATA[juice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/juice.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/juice_077.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/juice.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/juice_077.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Ubuntu 10.04 LTS RC</title>
-	<link>http://www.openscreencast.de/blog/ubuntu1004.html</link>
+	<link>https://www.openscreencast.de/blog/ubuntu1004.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv">http://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv">https://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Rf9eMbe7wUo">http://www.youtube-nocookie.com/embed/Rf9eMbe7wUo</a>
 
@@ -229,28 +229,28 @@ Ausgangspunkt: Ubuntu 10.04 LTS RC, Gnome 2.30<br />Zielgruppe: Neueinsteiger<br
 	<pubDate>Sat, 24 Apr 2010 07:39:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu1004.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu1004.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/ubuntu1004_glimpse_024.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Gallery - Grafiken hinzufügen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv">http://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv">https://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/6XOvWvGZvjw">http://www.youtube-nocookie.com/embed/6XOvWvGZvjw</a>
 
@@ -258,34 +258,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 15 Nov 2009 18:53:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_grafiken_hinzufuegen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_gallery_grafiken_hinzufuegen_076.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Ubuntu 9.10</title>
-	<link>http://www.openscreencast.de/blog/ubuntu910.html</link>
+	<link>https://www.openscreencast.de/blog/ubuntu910.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv">http://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv">https://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/FrMaRAyyzCA">http://www.youtube-nocookie.com/embed/FrMaRAyyzCA</a>
 
@@ -293,57 +293,57 @@ Ausgangspunkt: Ubuntu 9.10 RC, Gnome 2.28<br />Zielgruppe: Neueinsteiger<br /><p
 	<pubDate>Wed, 28 Oct 2009 15:03:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu910.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu910.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/ubuntu910_glimpse_023.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Medienwiedergabe in der Konsole - cmus</title>
-	<link>http://www.openscreencast.de/blog/cmus.html</link>
+	<link>https://www.openscreencast.de/blog/cmus.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/cmus_075.mkv">http://www.openscreencast.de/archive/cmus_075.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/cmus_075.mkv">https://www.openscreencast.de/archive/cmus_075.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: apt-get, cmus</p><p>Links:</p><ul><li><a href="http://www.yalmagazine.org/">yalm</a> </li></ul>]]></description>
 	<pubDate>Sat, 22 Aug 2009 23:41:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
 	<category><![CDATA[cmus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/cmus.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/cmus_075.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/cmus.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/cmus_075.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Gallery - Objekte in ein Dokument einfügen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv">http://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv">https://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Se3R4bz0jVI">http://www.youtube-nocookie.com/embed/Se3R4bz0jVI</a>
 
@@ -351,34 +351,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 26 Jul 2009 19:59:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery_objekte.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_gallery_objekte_074.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Was ist die Gallery</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_gallery.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_gallery.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv">http://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv">https://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/UaLrpPmiyec">http://www.youtube-nocookie.com/embed/UaLrpPmiyec</a>
 
@@ -386,63 +386,63 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Mon, 29 Jun 2009 15:39:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_gallery.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_gallery_073.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Medienwiedergabe in der Konsole - mp3blaster</title>
-	<link>http://www.openscreencast.de/blog/mp3blaster.html</link>
+	<link>https://www.openscreencast.de/blog/mp3blaster.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/mp3blaster_072.mkv">http://www.openscreencast.de/archive/mp3blaster_072.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/mp3blaster_072.mkv">https://www.openscreencast.de/archive/mp3blaster_072.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: apt-get</p><p>Links:</p><ul><li><a href="http://www.yalmagazine.org/">yalm</a> </li></ul>]]></description>
 	<pubDate>Fri, 12 Jun 2009 22:32:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
 	<category><![CDATA[mp3blaster]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mp3blaster.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/mp3blaster_072.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mp3blaster.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/mp3blaster_072.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Ein Dokument drucken</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv">http://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv">https://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/ZogRuOMIxtQ">http://www.youtube-nocookie.com/embed/ZogRuOMIxtQ</a>
 
@@ -450,34 +450,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 17 May 2009 23:20:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_drucken.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_dokument_drucken_071.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Ubuntu 9.04 Installation</title>
-	<link>http://www.openscreencast.de/blog/ubuntu904_install.html</link>
+	<link>https://www.openscreencast.de/blog/ubuntu904_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv">http://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv">https://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/iwCF2afiIDU">http://www.youtube-nocookie.com/embed/iwCF2afiIDU</a>
 
@@ -485,28 +485,28 @@ Ausgangspunkt: Ubuntu 9.04, GNOME 2.26<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Mon, 11 May 2009 02:10:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/ubuntu904_install_glimpse_022.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Ubuntu 9.04</title>
-	<link>http://www.openscreencast.de/blog/ubuntu904.html</link>
+	<link>https://www.openscreencast.de/blog/ubuntu904.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv">http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv">https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/OPtToG4cSU0">http://www.youtube-nocookie.com/embed/OPtToG4cSU0</a>
 
@@ -514,28 +514,28 @@ Ausgangspunkt: Ubuntu 9.04, GNOME 2.26<br />Zielgruppe: Neueinsteiger<br /><p>Ko
 	<pubDate>Wed, 06 May 2009 05:43:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu904.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu904.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Verknüpfungen</title>
-	<link>http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv">http://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv">https://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/0bk8WfEH3Xs">http://www.youtube-nocookie.com/embed/0bk8WfEH3Xs</a>
 
@@ -543,32 +543,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Tue, 28 Apr 2009 01:09:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_verknuepfungen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_verknuepfungen_070.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Pidgin - Nachrichtenverschlüsselung mit OTR</title>
-	<link>http://www.openscreencast.de/blog/pidgin_otr.html</link>
+	<link>https://www.openscreencast.de/blog/pidgin_otr.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/pidgin_otr_069.mkv">http://www.openscreencast.de/archive/pidgin_otr_069.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/pidgin_otr_069.mkv">https://www.openscreencast.de/archive/pidgin_otr_069.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/5N72g3ONsl0">http://www.youtube-nocookie.com/embed/5N72g3ONsl0</a>
 
@@ -576,36 +576,36 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Thu, 23 Apr 2009 05:41:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Sicherheit]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[pidgin]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[otr]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
 	<category><![CDATA[Verschlüsselung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pidgin_otr.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/pidgin_otr_069.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pidgin_otr.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/pidgin_otr_069.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Ein Dokument speichern</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv">http://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv">https://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/AsupDErhCeU">http://www.youtube-nocookie.com/embed/AsupDErhCeU</a>
 
@@ -613,34 +613,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 29 Mar 2009 00:52:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_speichern.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_dokument_speichern_068.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>PCLinuxOS 2009.1 Installation</title>
-	<link>http://www.openscreencast.de/blog/pclinuxos20091_install.html</link>
+	<link>https://www.openscreencast.de/blog/pclinuxos20091_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv">http://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv">https://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/qnQSHtVNzWI">http://www.youtube-nocookie.com/embed/qnQSHtVNzWI</a>
 
@@ -648,28 +648,28 @@ Ausgangspunkt: PCLinuxOS 2009.1<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p
 	<pubDate>Wed, 25 Mar 2009 04:25:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
 	<category><![CDATA[PCLinuxOS]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/pclinuxos20091_install_glimpse_020.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>PCLinuxOS 2009.1</title>
-	<link>http://www.openscreencast.de/blog/pclinuxos20091.html</link>
+	<link>https://www.openscreencast.de/blog/pclinuxos20091.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv">http://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv">https://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Tiu2N5-6epE">http://www.youtube-nocookie.com/embed/Tiu2N5-6epE</a>
 
@@ -677,57 +677,57 @@ Ausgangspunkt: PCLinuxOS 2009.1<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p
 	<pubDate>Fri, 20 Mar 2009 04:18:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
 	<category><![CDATA[PCLinuxOS]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/pclinuxos20091.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/pclinuxos20091.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/pclinuxos20091_glimpse_019.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Sweeper</title>
-	<link>http://www.openscreencast.de/blog/sweeper.html</link>
+	<link>https://www.openscreencast.de/blog/sweeper.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/sweeper_067.mkv">http://www.openscreencast.de/archive/sweeper_067.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/sweeper_067.mkv">https://www.openscreencast.de/archive/sweeper_067.mkv</a>
 
 Ausgangspunkt: Kubuntu 8.10, KDE 4.1<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: apt-get, sudo</p><p>Links:</p><ul><li><a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Sweeper">Sweeper</a> </li></ul>]]></description>
 	<pubDate>Sat, 14 Mar 2009 18:50:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[Kubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
 	<category><![CDATA[sweeper]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/sweeper.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/sweeper_067.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/sweeper.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/sweeper_067.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Kwin - Videoaufnahme</title>
-	<link>http://www.openscreencast.de/blog/kwin_videoaufnahme.html</link>
+	<link>https://www.openscreencast.de/blog/kwin_videoaufnahme.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv">http://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv">https://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/nRzp6Iyengw">http://www.youtube-nocookie.com/embed/nRzp6Iyengw</a>
 
@@ -735,36 +735,36 @@ Ausgangspunkt: Kubuntu 8.10, KDE 4.1<br />Zielgruppe: Neueinsteiger<br /><p>Komm
 	<pubDate>Wed, 11 Mar 2009 04:24:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[Kubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[Kwin]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[ffmpeg2theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[capseo]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
 	<category><![CDATA[cpsrecode]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kwin_videoaufnahme.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/kwin_videoaufnahme_066.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Modus ändern</title>
-	<link>http://www.openscreencast.de/blog/nautilus_modus_aendern.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_modus_aendern.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv">http://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv">https://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/YI4I6mO1ifo">http://www.youtube-nocookie.com/embed/YI4I6mO1ifo</a>
 
@@ -772,32 +772,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Fri, 06 Mar 2009 05:50:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_modus_aendern.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_modus_aendern_065.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Ein Dokument öffnen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv">http://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv">https://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/goUKdj12jHc">http://www.youtube-nocookie.com/embed/goUKdj12jHc</a>
 
@@ -805,65 +805,65 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 01 Mar 2009 22:57:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_dokument_oeffnen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_dokument_oeffnen_064.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Wallpapoz</title>
-	<link>http://www.openscreencast.de/blog/wallpapoz.html</link>
+	<link>https://www.openscreencast.de/blog/wallpapoz.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/wallpapoz_063.mkv">http://www.openscreencast.de/archive/wallpapoz_063.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/wallpapoz_063.mkv">https://www.openscreencast.de/archive/wallpapoz_063.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p><ul><li><a href="http://wallpapoz.akbarhome.com/">wallpapoz</a> </li></ul>]]></description>
 	<pubDate>Fri, 27 Feb 2009 05:26:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[wallpaper]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
 	<category><![CDATA[wallpapoz]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapoz.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/wallpapoz_063.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapoz.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/wallpapoz_063.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Kubuntu 8.10 Installation</title>
-	<link>http://www.openscreencast.de/blog/kubuntu810_install.html</link>
+	<link>https://www.openscreencast.de/blog/kubuntu810_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv">http://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv">https://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Lt1iZbyX4Oc">http://www.youtube-nocookie.com/embed/Lt1iZbyX4Oc</a>
 
@@ -871,28 +871,28 @@ Ausgangspunkt: Kubuntu 8.10<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p><ul
 	<pubDate>Fri, 20 Feb 2009 05:24:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
 	<category><![CDATA[Kubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/kubuntu810_install_glimpse_018.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Kubuntu 8.10</title>
-	<link>http://www.openscreencast.de/blog/kubuntu810.html</link>
+	<link>https://www.openscreencast.de/blog/kubuntu810.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv">http://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv">https://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/VGBjvpoxGT8">http://www.youtube-nocookie.com/embed/VGBjvpoxGT8</a>
 
@@ -900,28 +900,28 @@ Ausgangspunkt: Kubuntu 8.10<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p><ul
 	<pubDate>Tue, 17 Feb 2009 02:30:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
 	<category><![CDATA[Kubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/kubuntu810.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/kubuntu810.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/kubuntu810_glimpse_017.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Tastenkürzel</title>
-	<link>http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv">http://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv">https://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/bxi8y6blUYs">http://www.youtube-nocookie.com/embed/bxi8y6blUYs</a>
 
@@ -929,34 +929,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Fri, 13 Feb 2009 05:33:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[Tastenkombination]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_tastenkuerzel.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_tastenkuerzel_062.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Ein neues Dokument erstellen</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv">http://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv">https://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/yx41h7Jy8y8">http://www.youtube-nocookie.com/embed/yx41h7Jy8y8</a>
 
@@ -964,34 +964,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Wed, 11 Feb 2009 04:10:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_neues_dokument_erstellen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_neues_dokument_erstellen_061.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Mandriva Linux One 2009 KDE4 Installation</title>
-	<link>http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</link>
+	<link>https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv">http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv">https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/4NjNNaKQ5pA">http://www.youtube-nocookie.com/embed/4NjNNaKQ5pA</a>
 
@@ -999,28 +999,28 @@ Ausgangspunkt: Mandriva Linux One 2009 KDE4<br />Zielgruppe: Neueinsteiger<br />
 	<pubDate>Mon, 02 Feb 2009 01:25:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
 	<category><![CDATA[Mandriva]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_install_glimpse_016.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Mandriva Linux One 2009 KDE4</title>
-	<link>http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</link>
+	<link>https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv">http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv">https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/SdCwo1Xe0vk">http://www.youtube-nocookie.com/embed/SdCwo1Xe0vk</a>
 
@@ -1028,59 +1028,59 @@ Ausgangspunkt: Mandriva Linux One 2009 KDE4<br />Zielgruppe: Neueinsteiger<br />
 	<pubDate>Sun, 01 Feb 2009 03:25:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
 	<category><![CDATA[Mandriva]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/mandrivalinuxone2009kde4_glimpse_015.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>wallpaper-tray</title>
-	<link>http://www.openscreencast.de/blog/wallpapertray.html</link>
+	<link>https://www.openscreencast.de/blog/wallpapertray.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/wallpaper-tray_060.mkv">http://www.openscreencast.de/archive/wallpaper-tray_060.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/wallpaper-tray_060.mkv">https://www.openscreencast.de/archive/wallpaper-tray_060.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p><ul><li><a href="http://planetearthworm.com/projects/wp_tray/">wallpaper-tray</a> </li></ul>]]></description>
 	<pubDate>Tue, 27 Jan 2009 02:49:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[wallpaper]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
 	<category><![CDATA[wallpaper-tray]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/wallpapertray.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/wallpaper-tray_060.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/wallpapertray.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/wallpaper-tray_060.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Dateivorschau</title>
-	<link>http://www.openscreencast.de/blog/nautilus_dateivorschau.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_dateivorschau.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv">http://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv">https://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/5oFC_tKQz0o">http://www.youtube-nocookie.com/embed/5oFC_tKQz0o</a>
 
@@ -1088,32 +1088,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Tue, 27 Jan 2009 02:40:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateivorschau.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_dateivorschau_059.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Navigator verwenden</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv">http://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv">https://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Lb7UILavLYg">http://www.youtube-nocookie.com/embed/Lb7UILavLYg</a>
 
@@ -1121,34 +1121,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 25 Jan 2009 04:06:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_navigator_verwenden.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_navigator_verwenden_058.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Desktop Drapes</title>
-	<link>http://www.openscreencast.de/blog/desktop_drapes.html</link>
+	<link>https://www.openscreencast.de/blog/desktop_drapes.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/desktop_drapes_057.mkv">http://www.openscreencast.de/archive/desktop_drapes_057.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/desktop_drapes_057.mkv">https://www.openscreencast.de/archive/desktop_drapes_057.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/mSdNfeIlMBg">http://www.youtube-nocookie.com/embed/mSdNfeIlMBg</a>
 
@@ -1156,32 +1156,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 25 Jan 2009 03:59:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[Desktop Drapes]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
 	<category><![CDATA[wallpaper]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/desktop_drapes.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/desktop_drapes_057.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/desktop_drapes.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/desktop_drapes_057.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Lesezeichen</title>
-	<link>http://www.openscreencast.de/blog/nautilus_lesezeichen.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_lesezeichen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv">http://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv">https://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/-xFu9DjoHp0">http://www.youtube-nocookie.com/embed/-xFu9DjoHp0</a>
 
@@ -1189,32 +1189,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Wed, 31 Dec 2008 07:55:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_lesezeichen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_lesezeichen_056.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Linux Mint 6 Universal Edition Installation</title>
-	<link>http://www.openscreencast.de/blog/linuxmint6_install.html</link>
+	<link>https://www.openscreencast.de/blog/linuxmint6_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv">http://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv">https://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/E1LzK5PVYJU">http://www.youtube-nocookie.com/embed/E1LzK5PVYJU</a>
 
@@ -1222,28 +1222,28 @@ Ausgangspunkt: Linux Mint 6, Gnome 2.24<br />Zielgruppe: Neueinsteiger<br /><p>L
 	<pubDate>Mon, 29 Dec 2008 23:17:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
 	<category><![CDATA[Linux Mint]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/linuxmint6_install_glimpse_014.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Linux Mint 6 Universal Edition</title>
-	<link>http://www.openscreencast.de/blog/linuxmint6.html</link>
+	<link>https://www.openscreencast.de/blog/linuxmint6.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv">http://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv">https://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/NZtCaVMrfno">http://www.youtube-nocookie.com/embed/NZtCaVMrfno</a>
 
@@ -1251,28 +1251,28 @@ Ausgangspunkt: Linux Mint 6, Gnome 2.24<br />Zielgruppe: Neueinsteiger<br /><p>L
 	<pubDate>Sun, 28 Dec 2008 22:42:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
 	<category><![CDATA[Linux Mint]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/linuxmint6.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/linuxmint6.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/linuxmint6_glimpse_013.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Writer - Dokumentenansicht ändern</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_ansicht.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_ansicht.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv">http://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv">https://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/PjvtEFG6J7M">http://www.youtube-nocookie.com/embed/PjvtEFG6J7M</a>
 
@@ -1280,34 +1280,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sat, 27 Dec 2008 00:50:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_ansicht.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_ansicht_055.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Dateien verstecken</title>
-	<link>http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv">http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv">https://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/wwLT2VO59Kc">http://www.youtube-nocookie.com/embed/wwLT2VO59Kc</a>
 
@@ -1315,32 +1315,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Fri, 26 Dec 2008 01:50:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_dateien_verstecken.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_dateien_verstecken_054.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Nautilus - Vorlagen</title>
-	<link>http://www.openscreencast.de/blog/nautilus_vorlagen.html</link>
+	<link>https://www.openscreencast.de/blog/nautilus_vorlagen.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv">http://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv">https://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/EtpBN1Yth18">http://www.youtube-nocookie.com/embed/EtpBN1Yth18</a>
 
@@ -1348,32 +1348,32 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Wed, 17 Dec 2008 04:15:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[Dateimanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[nautilus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nautilus_vorlagen.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nautilus_vorlagen_053.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Die Writer-Benutzeroberfläche</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv">http://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv">https://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/AZ5mTsRF648">http://www.youtube-nocookie.com/embed/AZ5mTsRF648</a>
 
@@ -1381,36 +1381,36 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Sun, 14 Dec 2008 03:59:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
 	<category><![CDATA[Benutzeroberflaeche]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_benutzeroberflaeche.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_benutzeroberflaeche_052.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenSolaris 2008.11 - Installation</title>
-	<link>http://www.openscreencast.de/blog/opensolaris200811_install.html</link>
+	<link>https://www.openscreencast.de/blog/opensolaris200811_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv">http://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv">https://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/nY_wqSxp8NU">http://www.youtube-nocookie.com/embed/nY_wqSxp8NU</a>
 
@@ -1418,28 +1418,28 @@ Ausgangspunkt: OpenSolaris 2008.11, Gnome 2.24<br />Zielgruppe: Neueinsteiger<br
 	<pubDate>Tue, 09 Dec 2008 02:06:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
 	<category><![CDATA[OpenSolaris]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/opensolaris200811_install_glimpse_012.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenSolaris 2008.11</title>
-	<link>http://www.openscreencast.de/blog/opensolaris200811.html</link>
+	<link>https://www.openscreencast.de/blog/opensolaris200811.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv">http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv">https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/_7U1Bl8GbdQ">http://www.youtube-nocookie.com/embed/_7U1Bl8GbdQ</a>
 
@@ -1447,28 +1447,28 @@ Ausgangspunkt: OpenSolaris 2008.11, Gnome 2.24<br />Zielgruppe: Neueinsteiger<br
 	<pubDate>Mon, 08 Dec 2008 06:45:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
 	<category><![CDATA[OpenSolaris]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensolaris200811.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensolaris200811.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>opensuse 11.1rc1 - Installation</title>
-	<link>http://www.openscreencast.de/blog/opensuse111rc1_install.html</link>
+	<link>https://www.openscreencast.de/blog/opensuse111rc1_install.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv">http://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv">https://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/1A2eRl1D9jA">http://www.youtube-nocookie.com/embed/1A2eRl1D9jA</a>
 
@@ -1476,28 +1476,28 @@ Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1<br />Zielgruppe: Neueinsteiger<br /><p
 	<pubDate>Sun, 07 Dec 2008 02:30:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
 	<category><![CDATA[openSUSE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1_install.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/opensuse111rc1_install_glimpse_010.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>opensuse 11.1rc1</title>
-	<link>http://www.openscreencast.de/blog/opensuse111rc1.html</link>
+	<link>https://www.openscreencast.de/blog/opensuse111rc1.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv">http://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv">https://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/35aVGC2ICfw">http://www.youtube-nocookie.com/embed/35aVGC2ICfw</a>
 
@@ -1505,28 +1505,28 @@ Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1<br />Zielgruppe: Neueinsteiger<br /><p
 	<pubDate>Fri, 05 Dec 2008 06:35:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[KDE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
 	<category><![CDATA[openSUSE]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/opensuse111rc1.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/opensuse111rc1.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/opensuse111rc1_glimpse_009.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Ubuntu im Textmodus</title>
-	<link>http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</link>
+	<link>https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv">http://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv">https://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/tteIPu8Q8_U">http://www.youtube-nocookie.com/embed/tteIPu8Q8_U</a>
 
@@ -1534,114 +1534,114 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Ko
 	<pubDate>Sun, 30 Nov 2008 22:50:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[ln]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Textmodus]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[gdm]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
 	<category><![CDATA[Runlevel]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ubuntu_im_textmodus.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ubuntu_im_textmodus_051.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>nano - Texteditor</title>
-	<link>http://www.openscreencast.de/blog/nano_Texteditor.html</link>
+	<link>https://www.openscreencast.de/blog/nano_Texteditor.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/nano_050.mkv">http://www.openscreencast.de/archive/nano_050.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/nano_050.mkv">https://www.openscreencast.de/archive/nano_050.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: nano</p><p>Links:</p><ul><li><a href="http://de.wikipedia.org/wiki/Nano_(Texteditor)">nano</a> </li></ul>]]></description>
 	<pubDate>Sat, 29 Nov 2008 20:34:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[Texteditor]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
 	<category><![CDATA[nano]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/nano_Texteditor.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/nano_050.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/nano_Texteditor.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/nano_050.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>logout - Abmeldung</title>
-	<link>http://www.openscreencast.de/blog/logout_Abmeldung.html</link>
+	<link>https://www.openscreencast.de/blog/logout_Abmeldung.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/logout_049.mkv">http://www.openscreencast.de/archive/logout_049.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/logout_049.mkv">https://www.openscreencast.de/archive/logout_049.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Kommandos: logout, exit, shutdown, poweroff, init, reboot, halt</p><p>Links:</p><ul><li><a href="http://de.linwiki.org/wiki/Linuxfibel_-_Erste_Schritte_-_Abmelden">logout</a> </li></ul>]]></description>
 	<pubDate>Mon, 24 Nov 2008 00:37:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[logout]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[abmelden]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[reboot]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[shutdown]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[poweroff]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[halt]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[init]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[exit]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[herunterfahren]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
 	<category><![CDATA[abschalten]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/logout_049.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/logout_Abmeldung.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/logout_049.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>OpenOffice.org - Textverarbeitung starten</title>
-	<link>http://www.openscreencast.de/blog/ooo_writer_starten.html</link>
+	<link>https://www.openscreencast.de/blog/ooo_writer_starten.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/ooo_writer_starten_048.mkv">http://www.openscreencast.de/archive/ooo_writer_starten_048.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/ooo_writer_starten_048.mkv">https://www.openscreencast.de/archive/ooo_writer_starten_048.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/TwvPD6Tpqqg">http://www.youtube-nocookie.com/embed/TwvPD6Tpqqg</a>
 
@@ -1649,34 +1649,34 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Ko
 	<pubDate>Sat, 22 Nov 2008 01:54:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[OpenOffice]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[Textverarbeitung]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[CC by]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
 	<category><![CDATA[Writer]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/ooo_writer_starten_048.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ooo_writer_starten.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/ooo_writer_starten_048.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>glipper - Zwischenablagenverwalter</title>
-	<link>http://www.openscreencast.de/blog/glipper.html</link>
+	<link>https://www.openscreencast.de/blog/glipper.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glipper_047.mkv">http://www.openscreencast.de/archive/glipper_047.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glipper_047.mkv">https://www.openscreencast.de/archive/glipper_047.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/6eEu5jRMcKA">http://www.youtube-nocookie.com/embed/6eEu5jRMcKA</a>
 
@@ -1684,71 +1684,71 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Li
 	<pubDate>Mon, 17 Nov 2008 02:07:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
 	<category><![CDATA[glipper]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/glipper.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glipper_047.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/glipper.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glipper_047.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>login - Anmeldung</title>
-	<link>http://www.openscreencast.de/blog/login_Anmeldung.html</link>
+	<link>https://www.openscreencast.de/blog/login_Anmeldung.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/login_046.mkv">http://www.openscreencast.de/archive/login_046.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/login_046.mkv">https://www.openscreencast.de/archive/login_046.mkv</a>
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Links:</p><ul><li><a href="http://wiki.ubuntuusers.de/Displaymanager">Displaymanager</a> </li><li><a href="http://de.linwiki.org/wiki/Linuxfibel_-_Erste_Schritte_-_Anmelden">Anmeldung</a> </li></ul>]]></description>
 	<pubDate>Sun, 16 Nov 2008 06:52:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Passwort]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Loginmanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Displaymanager]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[Benutzername]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[gdm]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[login]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
 	<category><![CDATA[anmelden]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/login_Anmeldung.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/login_046.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/login_Anmeldung.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/login_046.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Fedora 10 Preview Installation</title>
-	<link>http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</link>
+	<link>https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv">http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv">https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/PRpqla0SU6s">http://www.youtube-nocookie.com/embed/PRpqla0SU6s</a>
 
@@ -1756,28 +1756,28 @@ Ausgangspunkt: Fedora 10 Preview, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /
 	<pubDate>Sun, 09 Nov 2008 05:27:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[Fedora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview_Installation.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Fedora 10 Preview</title>
-	<link>http://www.openscreencast.de/blog/Fedora10_Preview.html</link>
+	<link>https://www.openscreencast.de/blog/Fedora10_Preview.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv">http://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv">https://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/fnEiulLpVTA">http://www.youtube-nocookie.com/embed/fnEiulLpVTA</a>
 
@@ -1785,28 +1785,28 @@ Ausgangspunkt: Fedora 10 Preview, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /
 	<pubDate>Fri, 07 Nov 2008 01:32:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[Fedora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[glimpse]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Fedora10_Preview.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/glimpse/fedora10_glimpse_007.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Passwort aendern</title>
-	<link>http://www.openscreencast.de/blog/Passwort_aendern.html</link>
+	<link>https://www.openscreencast.de/blog/Passwort_aendern.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv">http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv">https://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/8or7Xw-TZqQ">http://www.youtube-nocookie.com/embed/8or7Xw-TZqQ</a>
 
@@ -1814,36 +1814,36 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Ko
 	<pubDate>Sat, 01 Nov 2008 23:56:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[short]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Sicherheit]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[passwd]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
 	<category><![CDATA[Passwort]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Passwort_aendern.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Passwort_aendern.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv" type="video/mkv" />
 </item>
 <item>
 	<title>Gnomepanel Ausgangszustand</title>
-	<link>http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</link>
+	<link>https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</link>
 	<description><![CDATA[
-mkv-Datei: <a href="http://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv">http://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv</a>
+mkv-Datei: <a href="https://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv">https://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/0MeXYbgTPMw">http://www.youtube-nocookie.com/embed/0MeXYbgTPMw</a>
 
@@ -1851,30 +1851,30 @@ Ausgangspunkt: Ubuntu 8.10, GNOME 2.24<br />Zielgruppe: Neueinsteiger<br /><p>Ko
 	<pubDate>Wed, 14 Nov 2007 03:46:00 +0100</pubDate>
 	<dc:creator>Heiko</dc:creator>
 	<category><![CDATA[CC by-sa]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[gconftool-2]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[Gnome]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[Linux]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[Neueinsteiger]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[Ogg Theora]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[ohne Musik]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[Panel]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[screencast]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[short]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[ubuntu]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
 	<category><![CDATA[pkill]]></category>
-	<guid isPermaLink="false">http://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
-<enclosure url="http://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv" type="video/mkv" />
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Gnomepanel_Ausgangszustand.html</guid>
+<enclosure url="https://www.openscreencast.de/archive/short/gnomepanel_ausgangszustand_short_048.mkv" type="video/mkv" />
 </item>
 </channel>
 </rss>
