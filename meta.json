@@ -16,6 +16,7 @@
     "diaspora": "https://pod.geraspora.de/u/openscreencast",
     "gnusocial": "https://gnusocial.de/openscreencast",
     "github": "https://github.com/openscreencast",   
-    "gpg-key": "https://www.openscreencast.de/gpg-key.asc"
+    "gpg-key": "https://www.openscreencast.de/gpg-key.asc",
+    "keybase": "https://keybase.io/openscreencast"
 }
 	
