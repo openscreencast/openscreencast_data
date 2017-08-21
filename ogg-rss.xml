@@ -18,10 +18,35 @@
 </image>
 <atom:link href="http://www.openscreencast.de/ogg-rss.xml" rel="self" type="application/rss+xml" />
 <item>
+	<title>feren OS 2017.08 - Demo</title>
+	<link>https://www.openscreencast.de/blog/ferenos_demo.html</link>
+	<description><![CDATA[
+Ogg-Datei: <a href="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/ferenos_demo.ogg">http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/ferenos_demo.ogg</a>
+
+Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/aof-Yt5e7vY">http://www.youtube-nocookie.com/embed/aof-Yt5e7vY</a>
+
+feren OS 2017.08 - Demo<br />Lizenz: <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href="http://ferenos.weebly.com/">feren OS</a></li></ul>]]></description>
+	<pubDate>Mon, 21 Aug 2017 13:52:34 +0100</pubDate>
+	<dc:creator>Heiko</dc:creator>
+	<category><![CDATA[CC by]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+	<category><![CDATA[Neueinsteiger]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+	<category><![CDATA[screencast]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+	<category><![CDATA[Demo]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+	<category><![CDATA[Linux]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+	<category><![CDATA[ferenOS]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/ferenos_demo.html</guid>
+<enclosure url="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/ferenos_demo.ogg" type="video/ogv" />
+</item>
+<item>
 	<title>MX Linux 16.1 - Demo</title>
 	<link>https://www.openscreencast.de/blog/mx_linux_demo.html</link>
 	<description><![CDATA[
-Ogg-Datei: <a href="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/mx_linux_demo.ogg">http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/mx_linux_demo.ogg</a>
+Ogg-Datei: <a href="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/mx_linux_demo.ogg">http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/mx_linux_demo.ogg</a>
 
 Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/e0IImJdsIJ8">http://www.youtube-nocookie.com/embed/e0IImJdsIJ8</a>
 
@@ -42,7 +67,7 @@ MX Linux 16.1 - Demo<br />Lizenz: <a href="http://creativecommons.org/licenses/b
 	<guid isPermaLink="false">https://www.openscreencast.de/blog/mx_linux_demo.html</guid>
 	<category><![CDATA[Xfce]]></category>
 	<guid isPermaLink="false">https://www.openscreencast.de/blog/mx_linux_demo.html</guid>
-<enclosure url="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/mx_linux_demo.ogg" type="video/ogv" />
+<enclosure url="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/mx_linux_demo.ogg" type="video/ogv" />
 </item>
 <item>
 	<title>Python-Programmierung - die Adressen der Bilder einer HTML-Seite herausfiltern</title>
