@@ -18296,6 +18296,23 @@
 "vimeo": "230427093",
 "tumblr": "http://openscreencast.tumblr.com/post/164440728530/feren-os-201708-demo-ohne-audio-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/6735872"
+},
+"mkdocs_doku_gen": {
+"path": "mkdocs_doku_gen",
+"title": "mkdocs - eine Dokumentation im HTML-Format generieren",
+"creator": "Heiko",
+"pubDate": "1510513178",
+"category": "CC by,Neueinsteiger,screencast,Linux,Python,mkdocs",
+"album": "https://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/mkdocs.ogg",
+"duration": "362000",
+"description": "mkdocs - eine Dokumentation im HTML-Format generieren",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "mkdocs - eine Dokumentation im HTML-Format generieren, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li><a href=\"http://www.mkdocs.org/\">mkdocs</a></li><li><a href=\"http://www.mkdocs.org/user-guide/configuration/\">mkdocs Conf</a></li><li><a href=\"https://www.gitbook.com/\">gitbook</a></li><li><a href=\"http://www.sphinx-doc.org/en/stable/\">sphinx</a></li><li><a href=\"https://github.com/rust-lang-nursery/mdBook\">mdBook</a></li><li><a href=\"https://www.staticgen.com/\">staticgen.com</a></li></ul>",
+"youtube": "fw4yUkBUMQU",
+"vimeo": "242468898",
+"tumblr": "http://openscreencast.tumblr.com/post/167418973855/mkdocs-eine-dokumentation-im-html-format",
+"diaspora": "https://pod.geraspora.de/posts/f37b5b90aa0701351c33101b0e8ace24"
 }
 
 
