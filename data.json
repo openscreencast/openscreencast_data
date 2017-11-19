@@ -18312,9 +18312,24 @@
 "youtube": "fw4yUkBUMQU",
 "vimeo": "242468898",
 "tumblr": "http://openscreencast.tumblr.com/post/167418973855/mkdocs-eine-dokumentation-im-html-format",
-"diaspora": "https://pod.geraspora.de/posts/f37b5b90aa0701351c33101b0e8ace24"
+"diaspora": "https://pod.geraspora.de/posts/7124169"
+},
+"Python_beginners_variablen": {
+"path": "Python_beginners_variablen",
+"title": "Python für Anfänger - Variablen",
+"creator": "Heiko",
+"pubDate": "1511111411",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,turtle",
+"album": "https://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python_fuer_anfaenger/python_beginners_variablen.ogg",
+"duration": "225000",
+"description": "Python für Anfänger - Variablen",
+"license": "http://creativecommons.org/licenses/by-sa/3.0/",
+"content": "Python für Anfänger - Variablen, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://opentechschool.github.io/python-beginners/de/index.html\">Programmiereinführung mit Python</a> von <a href=\"http://www.opentechschool.org/\">OpenTechSchool and contributors</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"https://github.com/OpenTechSchool/python-beginners\" title=\"Link zu github.com\">https://github.com/OpenTechSchool/python-beginners</a></li><li><a href=\"https://github.com/OpenTechSchool/python-beginners/graphs/contributors\" title=\"Link zu github.com\">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
+"vimeo": "243531746",
+"tumblr": "http://openscreencast.tumblr.com/post/167664220590/python-f&uuml;r-anf&auml;nger-variablen-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/7158947"
 }
-
 
 
 }
