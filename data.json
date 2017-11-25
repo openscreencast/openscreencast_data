@@ -18322,13 +18322,30 @@
 "category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,turtle",
 "album": "https://www.openscreencast.de",
 "ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python_fuer_anfaenger/python_beginners_variablen.ogg",
-"duration": "225000",
+"duration": "240000",
 "description": "Python für Anfänger - Variablen",
 "license": "http://creativecommons.org/licenses/by-sa/3.0/",
 "content": "Python für Anfänger - Variablen, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">http://creativecommons.org/licenses/by-sa/3.0/</a><br /><br />Textquelle:<br /><a href=\"http://opentechschool.github.io/python-beginners/de/index.html\">Programmiereinführung mit Python</a> von <a href=\"http://www.opentechschool.org/\">OpenTechSchool and contributors</a> Lizenz: http://creativecommons.org/licenses/by-sa/3.0/<p>Links:</p><ul><li><a href=\"https://github.com/OpenTechSchool/python-beginners\" title=\"Link zu github.com\">https://github.com/OpenTechSchool/python-beginners</a></li><li><a href=\"https://github.com/OpenTechSchool/python-beginners/graphs/contributors\" title=\"Link zu github.com\">(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)</a></li><li>Bild: <a href=\"https://thenounproject.com/search/?q=snake&i=24037\" title=\"Link zu thenounproject.com\">https://thenounproject.com/search/?q=snake&i=24037</a> von <a href=\"https://thenounproject.com/olamoller\" title=\"Link zu thenounproject.com\">Ola Möller</a> (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)</li></ul>",
 "vimeo": "243531746",
 "tumblr": "http://openscreencast.tumblr.com/post/167664220590/python-f&uuml;r-anf&auml;nger-variablen-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/7158947"
+},
+"HTMLundCSS_CSSRegeln": {
+"path": "HTMLundCSS_CSSRegeln",
+"title": "HTML und CSS - CSS-Regeln",
+"creator": "Heiko",
+"pubDate": "1511626207",
+"category": "CC by,Linux,Neueinsteiger,screencast,Web,www,HTML,CSS",
+"album": "https://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_html_und_css/htmlundcss_cssregeln.ogg",
+"duration": "372000",
+"description": "HTML und CSS - CSS-Regeln",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "HTML und CSS - CSS-Regeln, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><br /><br />Textquelle:<br /><a href=\"http://code.makery.ch/library/html-css/de/\">HTML und CSS Tutorial</a> von <a href=\"http://code.makery.ch/about/\">Marco Jakob</a> Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">CC by 4.0</a><p>Links:</p><ul><li><a href=\"http://de.wikipedia.org/wiki/Hypertext_Markup_Language\" title=\"Link zu wikipedia.org\">WP:HTML</a></li><li><a href=\"http://de.wikipedia.org/wiki/Cascading_Style_Sheets\" title=\"Link zu wikipedia.org\">WP:CSS</a></li></ul>",
+"youtube": "k2KXavMEIHw",
+"vimeo": "244451648",
+"tumblr": "http://openscreencast.tumblr.com/post/167870857440/html-und-css-css-regeln-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/7186609"
 }
 
 
