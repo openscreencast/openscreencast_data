@@ -18346,6 +18346,23 @@
 "vimeo": "244451648",
 "tumblr": "http://openscreencast.tumblr.com/post/167870857440/html-und-css-css-regeln-lizenz",
 "diaspora": "https://pod.geraspora.de/posts/7186609"
+},
+"Linux_glances": {
+"path": "Linux_glances",
+"title": "glances - Systeminformationen auf einen Blick",
+"creator": "Heiko",
+"pubDate": "1512320407",
+"category": "CC by,Linux,Neueinsteiger,screencast,Monitoring,glances",
+"album": "https://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/glances.ogg",
+"duration": "249000",
+"description": "glances - Systeminformationen auf einen Blick",
+"license": "http://creativecommons.org/licenses/by/4.0/",
+"content": "glances - Systeminformationen auf einen Blick, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by/4.0/\">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href=\"https://nicolargo.github.io/glances/\" title=\"Link zu glances\">glances</a></li><li><a href=\"https://glances.readthedocs.io/en/latest/\" title=\"Link zu glances DOKU\">glances Doku</a></li></ul>",
+"youtube": "izanVm9lLBg",
+"vimeo": "245609601",
+"tumblr": "http://openscreencast.tumblr.com/post/168151990045/glances-systeminformationen-auf-einen-blick",
+"diaspora": "https://pod.geraspora.de/posts/7224382"
 }
 
 
