@@ -2,6 +2,16 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
 <trackList>
 <track>
+	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/glances.ogg</location>
+	<creator>Heiko</creator>
+	<album>https://www.openscreencast.de</album>
+	<title>glances - Systeminformationen auf einen Blick</title>
+	<annotation>glances - Systeminformationen auf einen Blick</annotation>
+	<duration>249000</duration>
+	<info>https://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/4.0/</license>
+</track>
+<track>
 	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_html_und_css/htmlundcss_cssregeln.ogg</location>
 	<creator>Heiko</creator>
 	<album>https://www.openscreencast.de</album>
