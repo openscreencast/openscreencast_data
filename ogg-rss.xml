@@ -4,7 +4,7 @@
 <title>openscreencast - Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</title>
 <link>https://www.openscreencast.de</link>
 <description>Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</description>
-<lastBuildDate>Sun, 03 Dec 2017 18:10:13 +0100</lastBuildDate>
+<lastBuildDate>Sun, 10 Dec 2017 17:07:24 +0100</lastBuildDate>
 <language>de-DE</language>
 <managingEditor>info@openscreencast.de (Heiko)</managingEditor>
 <webMaster>info@openscreencast.de (Heiko)</webMaster>
@@ -17,6 +17,35 @@
 	<height>144</height>
 </image>
 <atom:link href="http://www.openscreencast.de/ogg-rss.xml" rel="self" type="application/rss+xml" />
+<item>
+	<title>Gnome - Firefox 57 mit Client Side Decorations</title>
+	<link>https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</link>
+	<description><![CDATA[
+Ogg-Datei: <a href="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_firefox_csd.ogg">http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_firefox_csd.ogg</a>
+
+Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/Ggp3qfq0U-4">http://www.youtube-nocookie.com/embed/Ggp3qfq0U-4</a>
+
+Gnome - Firefox 57 mit Client Side Decorations, Fedora 27 Gnome 3.26<br />Lizenz: <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a><br /><br /><p>Links:</p><ul><li>Textquelle: <a href="https://linuxundich.de/gnu-linux/firefox-57-mit-client-side-decorations-unter-gnome/">Firefox 57 mit Client Side Decorations unter Gnome</a> von <a href="http://linuxundich.de/">Christoph Langner</a>, Lizenz: <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a></li></ul>]]></description>
+	<pubDate>Sun, 10 Dec 2017 17:02:01 +0100</pubDate>
+	<dc:creator>Heiko</dc:creator>
+	<category><![CDATA[CC by]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Linux]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Neueinsteiger]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[screencast]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Firefox]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Gnome]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Gnome3]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+	<category><![CDATA[Fedora]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/gnome_firefox_client_side_decorations.html</guid>
+<enclosure url="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_firefox_csd.ogg" type="video/ogv" />
+</item>
 <item>
 	<title>glances - Systeminformationen auf einen Blick</title>
 	<link>https://www.openscreencast.de/blog/Linux_glances.html</link>
