@@ -18380,6 +18380,23 @@
 "vimeo": "246673260",
 "tumblr": "http://openscreencast.tumblr.com/post/168394626280/gnome-firefox-57-mit-client-side",
 "diaspora": "https://pod.geraspora.de/posts/7286570"
+},
+"Git_fuer_Einsteiger_Merge_Konflikte": {
+"path": "Git_fuer_Einsteiger_Merge_Konflikte",
+"title": "Git für Einsteiger - Merge-Konflikte",
+"creator": "Heiko",
+"pubDate": "1514832370",
+"category": "CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git,Branching",
+"album": "https://www.openscreencast.de",
+"ogg_file": "http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_merge_konflikte.ogg",
+"duration": "360000",
+"description": "Git für Einsteiger - Merge-Konflikte",
+"license": "http://creativecommons.org/licenses/by-sa/4.0/",
+"content": "Git für Einsteiger - Merge-Konflikte, Linux Mint 18.2<br />Lizenz: <a href=\"http://creativecommons.org/licenses/by-sa/4.0/\">http://creativecommons.org/licenses/by-sa/4.0/</a><br /><br />Textquelle:<br /><a href=\"https://svij.org/blog/2014/11/01/git-fur-einsteiger-teil-2/\">Git für Einsteiger - Teil 2</a> von <a href=\"http://svij.org/\">Sujeevan Vijayakumaran</a> Lizenz: http://creativecommons.org/licenses/by-sa/4.0/<p>Links:</p><ul><li><a href=\"http://de.wikipedia.org/wiki/Git\" title=\"Link zu wikipedia.org/\">WP:Git</a></li></ul>",
+"youtube": "R_YHRLfyeSE",
+"vimeo": "249313599",
+"tumblr": "http://openscreencast.tumblr.com/post/169191984450/git-f&uuml;r-einsteiger-merge-konflikte-lizenz",
+"diaspora": "https://pod.geraspora.de/posts/7387939"
 }
 
 

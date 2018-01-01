@@ -2,6 +2,16 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
 <trackList>
 <track>
+	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_merge_konflikte.ogg</location>
+	<creator>Heiko</creator>
+	<album>https://www.openscreencast.de</album>
+	<title>Git für Einsteiger - Merge-Konflikte</title>
+	<annotation>Git für Einsteiger - Merge-Konflikte</annotation>
+	<duration>360000</duration>
+	<info>https://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by-sa/4.0/</license>
+</track>
+<track>
 	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_firefox_csd.ogg</location>
 	<creator>Heiko</creator>
 	<album>https://www.openscreencast.de</album>
