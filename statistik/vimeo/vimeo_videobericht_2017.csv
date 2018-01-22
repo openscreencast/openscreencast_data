@@ -1,0 +1,929 @@
+"plays","downloads","loads","finishes","likes","comments","uri","name","duration","created_time","sizes","mean_percent","mean_seconds","sum_seconds","total_seconds"
+1716,1,3261,58,0,0,/videos/128161641,"Tails 0.22 - Demo (The Amnesic Incognito Live System)",367,2015-05-18T16:28:11+00:00,Array,14,29,51164,358926
+142,3,276,31,0,0,/videos/83659375,"Google Fusion Tables Tutorial - Beispiel WLAN-Standorte in Berlin auf Karte eintragen",649,2014-01-08T08:07:16+00:00,Array,63,367,52181,81773
+95,0,254,9,0,0,/videos/138085115,"Python für Anfänger - Python-Programme ausführen",244,2015-09-02T14:18:45+00:00,Array,62,137,13060,20984
+79,1,210,11,0,0,/videos/26970253,"Webcambilder mit Python und OpenCV am Bildschirm anzeigen",265,2011-07-27T17:11:25+00:00,Array,68,169,13363,19610
+61,2,584,3,0,0,/videos/207923224,"Python für Anfänger - ein Rechteck zeichnen",225,2017-03-11T13:47:02+00:00,Array,48,86,5274,10848
+48,0,190,11,0,0,/videos/140204552,"Python für Anfänger - Einfaches Zeichnen mit turtle",255,2015-09-23T16:31:56+00:00,Array,74,174,8383,11220
+41,1,122,7,0,0,/videos/205681429,"TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)",346,2017-02-25T15:02:39+00:00,Array,44,116,4780,10725
+34,0,127,2,0,0,/videos/138640900,"Web Scraping mit R - Webscraping mit rvest und dem Selector Gadget",229,2015-09-08T16:05:52+00:00,Array,49,93,3171,6435
+32,0,178,4,0,0,/videos/134985749,"Python für Anfänger - Was brauchst du",172,2015-07-30T20:12:34+00:00,Array,36,25,805,2236
+31,0,80,3,0,0,/videos/38235343,"ein Video oder ein Bild drehen - ffmpeg - Videofilter transpose",159,2012-03-09T18:10:35+00:00,Array,47,66,2057,4319
+27,0,61,9,0,0,/videos/83659370,"einfache Karten (Maps) erstellen - Geo-diagramme",219,2014-01-08T08:07:10+00:00,Array,66,113,3057,4620
+26,0,74,0,0,0,/videos/208125363,"Python-Programmierung - docstring und pydoc (Dokumentation)",226,2017-03-13T12:38:55+00:00,Array,26,15,415,1584
+22,1,90,3,0,0,/videos/152876074,"Cub Linux 1.5 (Chromium + Ubuntu) - Demo",474,2016-01-24T13:20:52+00:00,Array,41,170,3752,9006
+22,0,76,5,0,0,/videos/209791609,"Gnome 3.24 - Night light - Demo",51,2017-03-23T18:51:34+00:00,Array,68,27,607,884
+19,0,51,5,0,0,/videos/140501148,"Gnome 3.18 - gedit - Minikarte (Overview Map) - Demo",64,2015-09-26T07:30:22+00:00,Array,75,48,916,1216
+17,2,73,1,0,0,/videos/187167650,"Fedora 25 Beta (Workstation) - Demo",538,2016-10-13T12:03:42+00:00,Array,54,122,2075,3773
+16,1,412,2,0,0,/videos/243531746,"Python für Anfänger - Variablen",239,2017-11-19T16:46:07+00:00,Array,66,29,478,719
+15,1,64,1,0,0,/videos/132930954,"Git für Einsteiger - Was ist Git ?",448,2015-07-08T13:31:57+00:00,Array,43,168,2521,5824
+15,2,87,1,0,0,/videos/208644865,"Scratch-Tutorial - Was ist Scratch ?",273,2017-03-16T11:45:38+00:00,Array,34,81,1226,3561
+15,0,100,1,0,0,/videos/15807422,"Screencast glimpse 011 - OpenSolaris 2008.11",274,2010-10-13T14:56:06+00:00,Array,62,126,1891,3024
+15,0,44,0,0,0,/videos/87058266,"DEFT Linux 8 (Digital Evidence & Forensic Toolkit) - Demo",346,2014-02-19T05:04:15+00:00,Array,44,102,1539,3469
+14,0,44,0,0,0,/videos/27406360,"Firefox - HTTPS Everywhere",165,2011-08-07T18:28:14+00:00,Array,62,103,1453,2324
+13,1,50,4,0,0,/videos/132917749,"Privacy Badger - die Datenschutz-Erweiterung für Firefox",182,2015-07-08T10:35:06+00:00,Array,55,101,1316,2379
+12,1,38,0,0,0,/videos/132826524,"Python-Programmierung - pygments - Syntax-Highlighting",545,2015-07-07T14:15:36+00:00,Array,30,167,2008,6540
+12,0,103,2,0,0,/videos/135802843,"Python für Anfänger - Was ist Python",212,2015-08-09T16:54:12+00:00,Array,55,88,1058,1908
+11,0,40,1,0,0,/videos/91485692,"Ubuntu Studio 13.10 - Demo",618,2014-04-09T04:36:23+00:00,Array,20,104,1154,5562
+11,0,37,0,0,0,/videos/121216512,"Gnome3 - GPaste (Zwischenablage installieren)",293,2015-03-04T05:24:11+00:00,Array,58,157,1729,2940
+11,0,31,0,0,0,/videos/121216515,"Manjaro Linux 0.8.8 Xfce - Demo",447,2015-03-04T05:24:12+00:00,Array,43,88,977,2235
+11,1,34,0,0,0,/videos/133456528,"Vivaldi Browser - Demo",643,2015-07-14T14:46:55+00:00,Array,13,53,591,4501
+11,0,47,0,0,0,/videos/27021530,"Firefox - Referrer blockieren",298,2011-07-28T19:27:58+00:00,Array,53,145,1596,2980
+10,0,49,3,0,0,/videos/44162713,"bottle - abort",164,2012-06-16T17:35:03+00:00,Array,69,68,685,990
+10,1,47,0,0,0,/videos/151655450,"Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)",471,2016-01-13T15:26:54+00:00,Array,24,104,1040,4239
+10,1,63,2,0,0,/videos/209224417,"Linux - Aus Terminix wird Tilix",245,2017-03-20T15:19:35+00:00,Array,80,117,1176,1470
+9,1,38,2,0,0,/videos/98507711,"Raspberry Pi - arkos installieren (Self-Hosting ganz einfach)",341,2014-06-18T04:30:33+00:00,Array,78,296,2664,3410
+9,0,31,4,0,0,/videos/83659363,"Fedora 19 - Demo",323,2014-01-08T08:07:01+00:00,Array,87,189,1701,1944
+8,1,37,0,0,0,/videos/132210712,"CAELinux 2013 - Demo",470,2015-06-30T13:28:34+00:00,Array,80,380,3042,3760
+8,0,59,0,0,0,/videos/13413976,"Linux - Wikipedia (kurz)",100,2010-07-17T14:39:46+00:00,Array,54,34,277,505
+8,0,41,0,0,0,/videos/155228780,"RebeccaBlackOS 2016-02-08 (Wayland) - Demo",376,2016-02-13T16:04:06+00:00,Array,51,171,1368,2632
+8,0,55,1,0,0,/videos/187807973,"budgie-remix 16.10 (Budgie desktop) - Demo (Ubuntu-based)",382,2016-10-18T11:36:36+00:00,Array,35,134,1076,3056
+8,0,22,0,0,0,/videos/27542846,"LibreOffice - Dokument automatisch speichern",108,2011-08-10T17:18:42+00:00,Array,53,36,288,540
+7,0,23,0,0,0,/videos/98507717,"palava.tv testen und WebRTC ausprobieren (Demo) - Web-Echtzeitkommunikation über den Browser",252,2014-06-18T04:30:35+00:00,Array,13,19,133,1012
+7,0,23,2,0,0,/videos/40032113,"popcorn.js - Untertitel (subtitle)",292,2012-04-09T19:58:55+00:00,Array,57,144,1011,1758
+7,1,36,0,0,0,/videos/132922037,"Ubuntu Privacy Remix (UPR) 12.04r1 - Demo",407,2015-07-08T11:40:13+00:00,Array,39,91,637,1632
+7,1,36,2,0,0,/videos/133489839,"Präsentationen mit Markdown und remark.js",203,2015-07-14T20:17:50+00:00,Array,71,125,881,1224
+7,1,54,2,0,0,/videos/133493399,"HTML und CSS - Ein Bild einfügen (img)",241,2015-07-14T20:52:54+00:00,Array,31,87,611,1933
+7,0,87,0,0,0,/videos/135466234,"Web Scraping mit R",557,2015-08-05T14:22:03+00:00,Array,45,252,1766,3899
+7,0,52,0,0,0,/videos/220966282,"MX Linux 16.1 - Demo (ohne Audio)",310,2017-06-09T14:17:03+00:00,Array,23,62,437,1865
+7,0,36,1,0,0,/videos/27872363,"Firefox - Quick Locale Switcher",194,2011-08-18T18:17:38+00:00,Array,36,60,422,1164
+6,0,31,1,0,0,/videos/29564949,Webcamstudio,392,2011-09-25T17:50:08+00:00,Array,41,162,973,2358
+6,0,23,0,0,0,/videos/98507716,"Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - PDF erzeugen",353,2014-06-18T04:30:34+00:00,Array,66,194,1167,1765
+6,0,61,4,0,0,/videos/187167637,"Fedora 25 Beta (Workstation) - Installation - Demo",224,2016-10-13T12:03:38+00:00,Array,81,214,1284,1568
+6,0,33,0,0,0,/videos/52387087,"Open webOS - Desktop - Demo",210,2012-10-29T14:05:05+00:00,Array,65,138,828,1266
+6,0,46,1,0,0,/videos/142776684,"Opensuse Leap 42.1 RC1 - Installation - Demo",211,2015-10-18T11:58:04+00:00,Array,37,53,319,848
+6,2,55,1,0,0,/videos/190713187,"GeckoLinux 999.161031.0 ""Rolling"" Cinnamon - Demo",432,2016-11-08T13:26:26+00:00,Array,25,109,657,2592
+6,2,64,1,0,0,/videos/188668514,"SalentOS 1.0 (Openbox) - Demo",339,2016-10-24T14:34:59+00:00,Array,25,87,524,2040
+6,5,59,0,0,0,/videos/189335969,"Maui 2 ""Blue Tang"" (Linux) - Demo",464,2016-10-28T16:08:32+00:00,Array,24,114,688,2788
+6,0,65,0,0,0,/videos/207441609,"HTML und CSS - Farben",303,2017-03-08T11:28:35+00:00,Array,36,111,671,1818
+6,0,49,0,0,0,/videos/230427093,"feren OS 2017.08 - Demo (ohne Audio)",315,2017-08-21T10:27:05+00:00,Array,86,181,1086,1260
+6,0,43,0,0,0,/videos/209791928,"Gnome 3.24 - Web - Demo",136,2017-03-23T18:53:43+00:00,Array,20,27,164,816
+6,0,29,1,0,0,/videos/86819930,"stegdetect (Steganografieerkennung) - Linux",125,2014-02-16T12:22:40+00:00,Array,53,77,466,875
+5,0,57,0,0,0,/videos/13333000,"Linux - Wie ändere ich mein Hintergrundbild bei Gnome",450,2010-07-14T15:43:46+00:00,Array,7,19,99,1353
+5,0,26,0,0,0,/videos/89473195,"ffmpeg - Text in ein Video zeichnen (Videofilter drawtext)",232,2014-03-19T04:41:23+00:00,Array,56,131,655,1165
+5,0,23,0,0,0,/videos/90719715,"Raspberry Pi - Coder starten (HTML, CSS, Javascript ganz einfach lernen)",488,2014-04-02T04:01:27+00:00,Array,61,180,903,1466
+5,0,27,2,0,0,/videos/40037197,"popcorn.js - timeline",240,2012-04-09T21:18:24+00:00,Array,65,158,790,1200
+5,0,16,1,0,0,/videos/40365967,"PDF-Seiten in Bilder umwandeln",238,2012-04-14T18:00:09+00:00,Array,60,115,579,956
+5,1,31,0,0,0,/videos/132201284,"whistle und andere WhatsApp-Alternativen",152,2015-06-30T11:38:50+00:00,Array,83,101,509,608
+5,2,39,0,0,0,/videos/132219572,"Linux - Tor Browser Bundle installieren - anonym surfen",219,2015-06-30T14:48:29+00:00,Array,45,100,501,1095
+5,1,24,2,0,0,/videos/132331297,"LibreOffice Makro - Erweiterungen (Extensions), BundesGit für LibreOffice",383,2015-07-01T14:04:20+00:00,Array,85,328,1642,1920
+5,1,27,0,0,0,/videos/133454876,"OpenStreetMap ab sofort mit Routenplaner",211,2015-07-14T14:31:16+00:00,Array,9,16,83,848
+5,1,56,0,0,0,/videos/206702449,"Raspbian oder andere Abbilder sehr einfach mit Etcher auf eine SD-Karte schreiben",413,2017-03-04T12:48:26+00:00,Array,3,6,30,826
+5,1,39,0,0,0,/videos/133491431,"Linux - gelöschte Dateien wiederherstellen",222,2015-07-14T20:33:35+00:00,Array,75,100,504,666
+5,0,35,1,0,0,/videos/138400429,"Fedora - powerline - die Eingabeaufforderung verändern",158,2015-09-05T16:51:57+00:00,Array,71,112,564,790
+5,0,31,1,0,0,/videos/137696877,"Git für Einsteiger - Branches mergen",214,2015-08-29T17:00:51+00:00,Array,36,93,465,1284
+5,0,41,0,0,0,/videos/155150986,"Lumina 0.8.7 (Lumina-Desktop on Ubuntu 15.10) - Demo",351,2016-02-12T18:09:16+00:00,Array,29,103,515,1760
+5,0,45,1,0,0,/videos/154343736,"Tails 2.0 - Demo",429,2016-02-05T18:24:44+00:00,Array,26,115,578,2149
+5,2,55,1,0,0,/videos/209792452,"Gnome 3.24 - Games - Demo",65,2017-03-23T18:56:34+00:00,Array,48,31,158,325
+5,0,29,2,0,0,/videos/82658023,"Python-Programmierung - docopt - Befehle, Argumente und Optionen",121,2013-12-25T06:33:12+00:00,Array,75,92,463,610
+4,0,27,0,0,0,/videos/88224773,"Antergos 2013.08.20 - Demo",323,2014-03-05T05:35:50+00:00,Array,15,38,154,971
+4,0,25,0,0,0,/videos/90719751,"Linux - Liquid prompt",468,2014-04-02T04:02:06+00:00,Array,46,217,868,1872
+4,0,32,0,0,0,/videos/80423318,"blockdiag - nwdiag und seqdiag",310,2013-11-26T23:55:44+00:00,Array,73,170,682,930
+4,0,16,1,0,0,/videos/98507715,"Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - pandoc installieren",563,2014-06-18T04:30:34+00:00,Array,66,374,1499,2252
+4,0,15,1,0,0,/videos/39110926,"LibreOffice - Writer - Wortergänzung nutzen",166,2012-03-24T18:55:10+00:00,Array,99,41,165,166
+4,0,64,2,0,0,/videos/207098009,"Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&Drop und Transparenz",265,2017-03-06T11:46:27+00:00,Array,93,186,744,796
+4,0,22,0,0,0,/videos/123624358,"Python-Programmierung - subprocess - communicate",173,2015-03-30T14:00:49+00:00,Array,1,1,4,346
+4,1,23,0,0,0,/videos/131876204,"AV Linux 6.0.2 - Demo",468,2015-06-26T13:01:53+00:00,Array,47,220,883,1876
+4,1,29,0,0,0,/videos/132199962,"Linux - od (octal dump)",108,2015-06-30T11:19:10+00:00,Array,34,28,113,324
+4,0,16,0,0,0,/videos/16514060,"Screencast glimpse 027 - Fedora 14",261,2010-11-04T20:40:05+00:00,Array,40,52,210,522
+4,1,33,0,0,0,/videos/132203390,"SD-Karte des Raspberry Pi mit partclone sichern",522,2015-06-30T12:06:26+00:00,Array,55,217,871,1566
+4,0,32,0,0,0,/videos/49911156,"Linux - youtube-Download - ein youtube-Video herunterladen",313,2012-09-21T13:17:09+00:00,Array,72,170,681,942
+4,1,17,1,0,0,/videos/132822989,"SVGeneration erzeugt über 80 Muster für Wallpaper und Hintergründe als SVG",101,2015-07-07T13:42:51+00:00,Array,87,66,265,303
+4,1,29,0,0,0,/videos/132917748,"Raspberry Pi - eine LED ein- und ausschalten - Teil 2",384,2015-07-08T10:35:06+00:00,Array,97,93,374,384
+4,0,40,0,0,0,/videos/52075716,"python urllib",366,2012-10-24T12:50:01+00:00,Array,40,111,447,1101
+4,0,24,0,0,0,/videos/22134156,"svg-edit - web svg-editor",242,2011-04-08T17:09:57+00:00,Array,47,115,462,968
+4,1,23,0,0,0,/videos/133456531,"AngularJS - Listen (ng-list, orderBy)",420,2015-07-14T14:46:55+00:00,Array,27,115,461,1684
+4,1,24,0,0,0,/videos/133486760,"Ubuntu Mate 15.04 Beta 1 - Demo",275,2015-07-14T19:44:18+00:00,Array,67,185,740,1104
+4,0,28,1,0,0,/videos/15818345,"Screencast glimpse 014 - Linux Mint 6 Universal Edition Installation",333,2010-10-13T20:39:52+00:00,Array,80,268,1072,1332
+4,0,102,0,0,0,/videos/80423316,"awesome - ein Tiling-Fenstermanager - Steuerung",295,2013-11-26T23:55:44+00:00,Array,16,48,192,1180
+4,0,56,0,0,0,/videos/213997996,"Python-Programmierung - die Adressen der Bilder einer HTML-Seite herausfiltern",337,2017-04-20T11:28:14+00:00,Array,33,112,450,1348
+4,0,47,2,0,0,/videos/209790817,"Gnome 3.24 - Calendar week view - Demo",61,2017-03-23T18:46:27+00:00,Array,61,37,150,244
+4,0,57,3,0,0,/videos/209791299,"Gnome 3.24 - Weather in notifications area - Demo",53,2017-03-23T18:49:32+00:00,Array,79,42,168,212
+4,0,42,0,0,0,/videos/209792724,"Gnome 3.24 - Recipes - Demo",119,2017-03-23T18:58:27+00:00,Array,31,37,151,480
+4,0,27,3,0,0,/videos/82658029,"Python-Programmierung - docopt - Installation",352,2013-12-25T06:33:22+00:00,Array,99,264,1056,1059
+4,0,34,3,0,0,/videos/83604923,"sed - Was ist das ?",243,2014-01-07T17:27:24+00:00,Array,99,182,729,732
+4,0,32,1,0,0,/videos/26936254,"Gnome3 - Theme wechseln",242,2011-07-26T21:54:00+00:00,Array,55,67,271,484
+3,0,12,0,0,0,/videos/28269248,"LibreOffice - Nicht aufeinander folgenden Text markieren",173,2011-08-28T17:34:15+00:00,Array,0,0,0,0
+3,0,21,0,0,0,/videos/89473231,"ImageMagick - Bilder mit Text erstellen (Bildbearbeitung in der Kommandozeile mit dem Tool convert)",203,2014-03-19T04:41:57+00:00,Array,47,32,96,204
+3,0,45,0,0,0,/videos/13802199,"Linux - Links",440,2010-08-01T15:56:36+00:00,Array,47,139,418,882
+3,0,18,1,0,0,/videos/90719705,"Raspberry Pi - Coder installieren",248,2014-04-02T04:01:17+00:00,Array,69,171,514,744
+3,0,16,0,0,0,/videos/33982833,"LibreOffice - Einfügen von Gedankenstrichen sowie geschützten Leerzeichen und Bindestrichen",173,2011-12-20T18:40:28+00:00,Array,0,0,0,0
+3,0,19,1,0,0,/videos/90719770,"Slackel 5.0 “Openbox” edition - Demo",456,2014-04-02T04:02:32+00:00,Array,59,271,813,1368
+3,0,22,1,0,0,/videos/39852198,"CouchDB - erste Schritte",281,2012-04-05T19:35:21+00:00,Array,97,274,822,846
+3,0,30,1,0,0,/videos/40167084,"Ruby - die interaktive Ruby Shell",190,2012-04-11T17:11:18+00:00,Array,96,122,368,382
+3,1,30,0,0,0,/videos/131876212,"Video-Editor OpenShot - Transparente Bilder über Video legen",349,2015-06-26T13:01:56+00:00,Array,76,267,801,1047
+3,0,30,0,0,0,/videos/44065061,"bottle - redirect",108,2012-06-14T20:38:21+00:00,Array,52,38,115,218
+3,1,25,1,0,0,/videos/132206550,"Linux - linux-dash (Web-Dashboard für Linux-Systeme)",226,2015-06-30T12:44:12+00:00,Array,97,147,442,452
+3,1,15,0,0,0,/videos/132323797,"Ubuntu Touch - Weitere Apps",261,2015-07-01T12:45:40+00:00,Array,35,62,186,522
+3,1,22,0,0,0,/videos/132325016,"reveal.js - vertikale Navigation und Links",269,2015-07-01T13:00:13+00:00,Array,65,177,532,807
+3,0,28,0,0,0,/videos/46147338,"Matplotlib und Pylab - Installation",311,2012-07-21T16:23:43+00:00,Array,61,191,574,933
+3,1,20,1,0,0,/videos/132812406,"Linux - Spurenarm Surfen - JonDoFox",343,2015-07-07T11:33:38+00:00,Array,65,224,673,1029
+3,0,31,0,0,0,/videos/21556494,"Python-Programmierung - Unicode",203,2011-03-27T16:56:02+00:00,Array,41,83,251,612
+3,1,15,0,0,0,/videos/132929693,"Mit Steam Skin Manager das Aussehen des Steam Clients unter Linux verändern",263,2015-07-08T13:17:55+00:00,Array,32,84,254,789
+3,1,22,1,0,0,/videos/133448592,"Git für Einsteiger - den ersten Commit vorbereiten",348,2015-07-14T13:27:22+00:00,Array,77,270,810,1044
+3,0,19,0,0,0,/videos/52074590,"redis sets",263,2012-10-24T12:30:38+00:00,Array,47,124,374,789
+3,1,21,0,0,0,/videos/133452106,"Git für Einsteiger - Der erste Commit",168,2015-07-14T14:04:17+00:00,Array,72,123,369,507
+3,1,22,0,0,0,/videos/133456529,"Vivaldi Browser (Linux)",181,2015-07-14T14:46:55+00:00,Array,16,30,92,546
+3,1,48,0,0,0,/videos/133488634,"HTML und CSS - Ein HTML-Dokument erstellen",255,2015-07-14T20:04:19+00:00,Array,25,42,128,512
+3,1,37,0,0,0,/videos/133493398,"Debian 8 “Jessie” steht zur Verfügung",308,2015-07-14T20:52:54+00:00,Array,18,37,112,618
+3,1,16,0,0,0,/videos/133649462,"Linktipp: 2 feine Tutorialsammlungen",107,2015-07-16T12:03:10+00:00,Array,84,30,90,107
+3,0,38,0,0,0,/videos/135291095,"HTML und CSS - Webseite veröffentlichen (Hosting)",411,2015-08-03T20:31:53+00:00,Array,18,76,230,1233
+3,0,37,0,0,0,/videos/135574162,"R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern",369,2015-08-06T14:32:04+00:00,Array,33,123,369,1106
+3,0,21,0,0,0,/videos/242468898,"mkdocs - eine Dokumentation im HTML-Format generieren",361,2017-11-12T18:37:02+00:00,Array,0,0,0,722
+3,0,78,0,0,0,/videos/139474764,"Django - Das Django-Projekt beginnen",103,2015-09-16T15:17:51+00:00,Array,33,35,105,312
+3,0,23,0,0,0,/videos/139722981,"Live-DVDs mit Anonymisierungsdiensten",147,2015-09-18T16:48:25+00:00,Array,30,45,137,442
+3,0,21,0,0,0,/videos/140085091,"Firefox OS - ein Bildschirmfoto (Screenshot) machen",110,2015-09-22T16:48:32+00:00,Array,4,5,15,330
+3,0,17,1,0,0,/videos/139613764,"LibreOffice - Calc - Sortieren von Zellen",351,2015-09-17T17:35:28+00:00,Array,56,132,396,704
+3,0,32,1,0,0,/videos/140507651,"Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow",330,2015-09-26T11:13:33+00:00,Array,76,251,754,990
+3,0,55,0,0,0,/videos/207623395,"Linux - Minecraft installieren",247,2017-03-09T12:55:53+00:00,Array,3,8,26,741
+3,0,27,1,0,0,/videos/82658002,"Crashkurs LibreOffice Calc für Datenjournalismus - Calc-Funktionen",291,2013-12-25T06:32:34+00:00,Array,56,163,491,876
+3,0,23,2,0,0,/videos/82658012,"Python-Programmierung - docopt - Auswerten der Befehle, Argumente und Optionen",205,2013-12-25T06:33:05+00:00,Array,84,173,520,615
+3,0,30,3,0,0,/videos/82658026,"Python-Programmierung - docopt - automatische Hilfstexte",87,2013-12-25T06:33:17+00:00,Array,98,86,258,261
+3,0,30,2,0,0,/videos/83603271,"sed - Erste Schritte mit regulären Ausdrücken",454,2014-01-07T17:09:15+00:00,Array,74,337,1011,1365
+3,0,22,0,0,0,/videos/84442746,"LibreOffice - Calc - Titelleiste, Menüleiste, Symbolleisten",166,2014-01-18T01:08:14+00:00,Array,33,37,111,332
+3,0,18,1,0,0,/videos/86819891,"Firefox - Javascript PDF-Betrachter deaktivieren",92,2014-02-16T12:21:52+00:00,Array,66,40,122,184
+2,0,24,0,0,0,/videos/88224801,"Linux - dstat",151,2014-03-05T05:36:20+00:00,Array,64,97,195,302
+2,0,24,0,0,0,/videos/88224815,"LXLE 12.04.3 - Demo",433,2014-03-05T05:36:40+00:00,Array,43,283,567,1301
+2,0,16,0,0,0,/videos/89300113,"R - Was ist R",131,2014-03-17T12:55:37+00:00,Array,35,23,47,132
+2,0,23,0,0,0,/videos/89473272,"wattOS R7.5 (mit pekwm) - Demo",386,2014-03-19T04:42:39+00:00,Array,77,299,598,772
+2,0,17,0,0,0,/videos/36916632,"pdfinfo - Informationen, Metadaten über ein PDF-Dokument",143,2012-02-16T18:31:43+00:00,Array,73,106,213,288
+2,0,19,1,0,0,/videos/98225589,"Firefox - ungefähre Standortbestimmung (standortbezogenes Surfen) deaktivieren - geo.enabled deaktivieren",125,2014-06-14T19:25:28+00:00,Array,96,120,241,250
+2,0,37,0,0,0,/videos/37481117,"Videos spiegeln - ffmpeg - Videofilter hflip und vflip",197,2012-02-26T20:15:33+00:00,Array,0,0,0,0
+2,0,23,0,0,0,/videos/37331911,"ein Logo im Video anzeigen lassen - ffmpeg - Videofilter overlay",318,2012-02-23T19:44:12+00:00,Array,0,0,0,0
+2,0,17,0,0,0,/videos/38120226,"LibreOffice - Writer - Ausschneiden, Kopieren und Einfügen von Text",229,2012-03-07T20:59:23+00:00,Array,57,66,132,230
+2,0,14,1,0,0,/videos/38873977,"Gnome3 - Looking Glass",302,2012-03-20T20:09:43+00:00,Array,96,290,580,604
+2,0,25,0,0,0,/videos/120825607,"Firefox Nightly - Classic Theme Restorer",143,2015-02-27T19:02:23+00:00,Array,51,36,73,143
+2,0,16,1,0,0,/videos/39361713,"Gnome3 - NetSpeed",117,2012-03-28T19:01:43+00:00,Array,92,109,219,236
+2,0,18,1,0,0,/videos/120825611,"Linux - Benutzer benachrichtigen - die Datei /etc/issue.net",94,2015-02-27T19:02:24+00:00,Array,85,120,240,282
+2,0,21,1,0,0,/videos/120825612,"Manjaro Linux 0.8.8 Openbox - Demo",347,2015-02-27T19:02:24+00:00,Array,52,180,361,694
+2,0,22,1,0,0,/videos/39790196,"CouchDB - Installation",217,2012-04-04T19:50:16+00:00,Array,89,194,389,436
+2,0,15,1,0,0,/videos/39580822,"ffmpeg - Videofilter format, Video in schwarz/weiss oder grau",233,2012-04-01T15:37:12+00:00,Array,95,222,445,466
+2,0,18,1,0,0,/videos/39939673,"popcorn.js - Hallo Welt",235,2012-04-07T18:40:23+00:00,Array,99,117,235,236
+2,0,17,0,0,0,/videos/122235592,"Debian - dpkg - Informationen über installierte Pakete abfragen (Paketverwaltung .deb)",87,2015-03-15T14:02:47+00:00,Array,1,1,2,174
+2,0,30,0,0,0,/videos/142776685,"Opensuse Leap 42.1 RC1 - Demo",452,2015-10-18T11:58:04+00:00,Array,3,15,30,904
+2,0,28,1,0,0,/videos/39978139,"popcorn.js - wordriver",188,2012-04-08T20:02:34+00:00,Array,92,175,350,378
+2,0,18,2,0,0,/videos/40247147,"LibreOffice - Writer - AutoText benutzen",223,2012-04-12T17:59:17+00:00,Array,66,222,444,669
+2,0,19,0,0,0,/videos/123624367,"WebODF - ODF-Dokumente in Webseiten einbinden (.odt-Datei mittels Browser anschauen)",194,2015-03-30T14:00:51+00:00,Array,58,113,227,390
+2,1,29,0,0,0,/videos/132197271,"Korora 20 (Peach) MATE - Demo",421,2015-06-30T10:41:31+00:00,Array,74,315,630,844
+2,0,11,0,0,0,/videos/15390819,"Screencast 081 - OpenOffice.org - Writer - Schliessen",179,2010-09-29T12:40:42+00:00,Array,0,0,0,0
+2,0,20,1,0,0,/videos/43775242,"bottle - statische Inhalte",335,2012-06-10T18:22:41+00:00,Array,69,233,466,670
+2,0,23,0,0,0,/videos/15426771,"Screencast 083 - key-mon und screenkey",298,2010-09-30T14:41:00+00:00,Array,94,141,283,299
+2,0,79,0,0,0,/videos/13914378,"Linux - oggdec, oggenc und ogginfo",330,2010-08-05T16:47:51+00:00,Array,8,14,29,331
+2,0,18,0,0,0,/videos/15484436,"Screencast glimpse 001 - Ubuntu 7.04 Beta Feisty Fawn (ohne Audio)",390,2010-10-02T16:52:56+00:00,Array,7,29,58,782
+2,1,24,0,0,0,/videos/132215257,"Ubuntu Touch - Telefon-App",181,2015-06-30T14:11:06+00:00,Array,90,82,164,182
+2,1,30,0,0,0,/videos/132217986,"Ubuntu Touch - Messaging-App",129,2015-06-30T14:35:08+00:00,Array,23,15,30,130
+2,1,18,0,0,0,/videos/132317471,"Thesaurus / Synonyme in LibreOffice aktivieren",192,2015-07-01T11:21:10+00:00,Array,0,0,0,0
+2,1,19,0,0,0,/videos/132323798,"Firefox OS - Apps deinstallieren",65,2015-07-01T12:45:40+00:00,Array,69,45,90,130
+2,0,27,1,0,0,/videos/46145256,"DouDouLinux 1.2 - Demo",379,2012-07-21T15:21:39+00:00,Array,99,189,378,379
+2,1,20,0,0,0,/videos/132331294,"LibreOffice - Calc - Fixieren von Spalten und Zeilen",277,2015-07-01T14:04:20+00:00,Array,45,127,255,556
+2,1,16,0,0,0,/videos/132331296,"reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund beeinflussen)",273,2015-07-01T14:04:20+00:00,Array,33,90,181,546
+2,0,29,0,0,0,/videos/48789833,"Manjaro Linux 0.8.0 - Demo",277,2012-09-04T07:54:20+00:00,Array,40,112,225,556
+2,0,23,0,0,0,/videos/49313701,"opus - freier Audio-Codec",252,2012-09-12T14:29:14+00:00,Array,92,117,235,253
+2,1,14,2,0,0,/videos/132821533,"Eigene Pakete für Maxdome und Lovefilm im Pipelight-PPA",131,2015-07-07T13:28:18+00:00,Array,49,65,130,262
+2,1,19,1,0,0,/videos/132821534,"KaOS 2014.04 - Installation - Demo",296,2015-07-07T13:28:18+00:00,Array,50,151,302,594
+2,1,18,1,0,0,/videos/132821535,"KaOS 2014.04 - Demo",298,2015-07-07T13:28:18+00:00,Array,52,157,314,598
+2,1,16,0,0,0,/videos/132822990,"LibreOffice - Calc - Datum und Zeit eingeben",215,2015-07-07T13:42:51+00:00,Array,94,102,204,215
+2,0,30,0,0,0,/videos/134711889,"Firefox - bessere Verschlüsselung einstellen (How's my SSL ?)",276,2015-07-28T10:16:45+00:00,Array,56,78,157,276
+2,1,21,0,0,0,/videos/132914487,"Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten",306,2015-07-08T09:47:40+00:00,Array,69,317,634,918
+2,1,32,0,0,0,/videos/133495889,"Sonic Pi - Musik und Programmierung (Raspberry Pi)",255,2015-07-14T21:18:26+00:00,Array,28,36,73,256
+2,0,12,0,0,0,/videos/21174422,"photorec und recoverjpeg - gelöschte Dateien wiederherstellen",464,2011-03-17T22:00:53+00:00,Array,27,129,258,930
+2,1,12,0,0,0,/videos/132922041,"LibreOffice Makro - Makros schreiben ohne Recorder",275,2015-07-08T11:40:13+00:00,Array,35,49,98,275
+2,1,17,0,0,0,/videos/132923578,"AngularJS - Was ist angular.js",356,2015-07-08T12:00:22+00:00,Array,32,115,230,712
+2,0,27,0,0,0,/videos/21653190,"Firefox - NoScript",237,2011-03-29T16:26:31+00:00,Array,53,63,127,237
+2,1,23,1,0,0,/videos/132923579,"Linux - Festplattengeschwindigkeit mit hdparm vermessen",268,2015-07-08T12:00:22+00:00,Array,99,134,268,269
+2,1,26,0,0,0,/videos/132923580,"Crontab-Generator hilft beim Erstellen von Cronjobs",170,2015-07-08T12:00:22+00:00,Array,45,77,154,340
+2,0,22,0,0,0,/videos/21760764,"Trisquel GNU/Linux 4.5",277,2011-03-31T16:06:08+00:00,Array,21,30,60,278
+2,0,14,0,0,0,/videos/14831412,"Screencast 052 - OpenOffice.org - Die Writer-Benutzeroberfläche",436,2010-09-09T15:29:09+00:00,Array,6,28,56,872
+2,0,25,0,0,0,/videos/52078247,woof,284,2012-10-24T13:31:49+00:00,Array,5,8,17,285
+2,0,24,0,0,0,/videos/52386670,"nginx install",203,2012-10-29T13:59:13+00:00,Array,43,44,88,203
+2,0,29,0,0,0,/videos/22294981,"Firefox - Flashblock - Flash blockieren",129,2011-04-12T15:42:56+00:00,Array,0,0,0,0
+2,0,24,0,0,0,/videos/52387501,"lighttpd - PHP - CGI",368,2012-10-29T14:11:22+00:00,Array,30,111,223,736
+2,0,19,0,0,0,/videos/52388542,"lighttpd php fastcgi",395,2012-10-29T14:27:11+00:00,Array,2,4,9,396
+2,0,36,0,0,0,/videos/52389828,"nginx - PHP - FastCGI",304,2012-10-29T14:45:42+00:00,Array,12,38,77,610
+2,1,18,0,0,0,/videos/133484244,"Das Web-Cockpit aus Fedora 21 installieren",295,2015-07-14T19:18:13+00:00,Array,28,84,169,590
+2,1,15,0,0,0,/videos/133485597,"Linux - Webbrowsing in der Konsole mit links2",137,2015-07-14T19:32:16+00:00,Array,91,126,253,276
+2,0,24,0,0,0,/videos/79491464,"Redis - Datentypen - sorted sets",299,2013-11-15T15:16:23+00:00,Array,76,114,229,299
+2,0,20,0,0,0,/videos/79581015,"Informationen über ein Youtube-Video auslesen",282,2013-11-17T01:22:26+00:00,Array,15,44,89,564
+2,0,24,0,0,0,/videos/80029654,"Gnome 3.6 - ENTF-Taste aktivieren (zum Löschen von Dateien)",148,2013-11-22T00:26:06+00:00,Array,54,80,160,296
+2,0,30,0,0,0,/videos/140501564,"Gnome 3.18 - Builder - Demo",259,2015-09-26T07:45:05+00:00,Array,76,197,395,518
+2,0,22,0,0,0,/videos/80029669,"Taskwarrior - Datum und Uhrzeit - relative und sprachliche Datumsformate",288,2013-11-22T00:26:25+00:00,Array,35,102,204,576
+2,0,31,0,0,0,/videos/136945571,"OpenLayers 3 - eine Karte auf eine Webseite setzen",291,2015-08-21T16:47:52+00:00,Array,16,48,97,584
+2,0,83,0,0,0,/videos/137146777,"Django - Django installieren",162,2015-08-24T15:30:27+00:00,Array,21,17,35,163
+2,0,17,0,0,0,/videos/137616674,"LibreOffice - Calc - Filtern, welche Zellen sichtbar sind",214,2015-08-28T15:56:44+00:00,Array,42,45,90,214
+2,0,12,0,0,0,/videos/245609601,"glances - Systeminformationen auf einen Blick",248,2017-12-03T16:44:40+00:00,Array,0,0,0,0
+2,0,34,0,0,0,/videos/81575426,"Python-Programmierung - Reguläre Ausdrücke - Verwendung in Python",261,2013-12-11T06:10:15+00:00,Array,16,42,85,522
+2,0,53,0,0,0,/videos/206219717,"Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild",372,2017-03-01T11:50:41+00:00,Array,0,0,0,0
+2,0,18,2,0,0,/videos/82658008,"PHP-Programmierung - Code-Styling",69,2013-12-25T06:32:55+00:00,Array,98,69,138,140
+2,0,27,2,0,0,/videos/82658004,"LibreOffice Writer - Erste Schritte mit regulären Ausdrücken",628,2013-12-25T06:32:41+00:00,Array,99,627,1254,1256
+2,0,23,2,0,0,/videos/82658034,"Python-Programmierung - Reguläre Ausdrücke - Match-Objekte und Gruppen",309,2013-12-25T06:33:29+00:00,Array,99,309,618,620
+2,0,23,2,0,0,/videos/82658011,"PHP-Programmierung - die switch-Abfrage",225,2013-12-25T06:33:00+00:00,Array,99,224,448,450
+2,0,24,0,0,0,/videos/83659397,"Tabellen von Webseiten kopieren",331,2014-01-08T08:07:34+00:00,Array,12,42,85,664
+2,0,18,0,0,0,/videos/26804215,"Python - Programmierung - Listen durch Slices veraendern",223,2011-07-23T15:43:06+00:00,Array,40,90,181,446
+2,0,17,0,0,0,/videos/83659417,"sed - Reguläre Ausdrücke",234,2014-01-08T08:08:03+00:00,Array,0,0,0,0
+2,0,20,0,0,0,/videos/27068597,"Python-Programmierung - ein kleines Beispiel",212,2011-07-29T21:01:07+00:00,Array,24,52,105,424
+2,0,19,0,0,0,/videos/244451648,"HTML und CSS - CSS-Regeln",372,2017-11-25T15:53:38+00:00,Array,33,125,251,744
+2,0,25,0,0,0,/videos/87058268,"Elementary OS 0.2beta2 luna - Demo",261,2014-02-19T05:04:21+00:00,Array,65,170,341,524
+1,0,10,0,0,0,/videos/16248339,"Screencast short 021 - Gnome - Konfigurationseditor installieren",80,2010-10-27T16:09:18+00:00,Array,10,8,8,80
+1,0,24,0,0,0,/videos/88224808,"easystroke - Desktop-Gesten für X11 (Gestensteuerung auf dem Desktop - Linux)",512,2014-03-05T05:36:28+00:00,Array,96,496,496,512
+1,0,15,0,0,0,/videos/89473213,"Gnome 3.10 - Photos - Demo",75,2014-03-19T04:41:39+00:00,Array,84,64,64,76
+1,0,20,0,0,0,/videos/89473221,"Gnome 3.10 - Wetter (weather) - Demo",96,2014-03-19T04:41:49+00:00,Array,39,38,38,96
+1,1,12,0,0,0,/videos/132320708,"reveal.js - Präsentation betrachten",274,2015-07-01T12:05:07+00:00,Array,97,267,267,274
+1,1,18,0,0,0,/videos/89473227,"grml 2013.09 - Demo",255,2014-03-19T04:41:53+00:00,Array,50,130,130,255
+1,0,30,1,0,0,/videos/89473246,"R - starten und beenden",109,2014-03-19T04:42:11+00:00,Array,99,108,108,109
+1,0,21,0,0,0,/videos/89473253,"Raspberry Pi - pidora installieren",286,2014-03-19T04:42:14+00:00,Array,68,195,195,286
+1,0,19,0,0,0,/videos/89473244,"PHP-Programmierung - Arrays - Listen-Arrays",311,2014-03-19T04:42:07+00:00,Array,0,0,0,0
+1,0,17,0,0,0,/videos/90161075,"Linux - DM-Crypt - Gedanken zum Passwort",178,2014-03-26T20:46:31+00:00,Array,26,47,47,179
+1,0,23,0,0,0,/videos/32408255,"OpenCV - die Bildgroesse aendern",173,2011-11-20T18:49:45+00:00,Array,16,29,29,174
+1,0,15,0,0,0,/videos/32744099,"LibreOffice - Sonderzeichen einfuegen",149,2011-11-27T18:23:27+00:00,Array,32,49,49,150
+1,0,21,0,0,0,/videos/90161152,"Xubuntu 13.10 - Demo",257,2014-03-26T20:47:06+00:00,Array,0,0,0,0
+1,0,10,1,0,0,/videos/16248614,"Screencast short 022 - Gnome - Einzelklick einstellen",42,2010-10-27T16:18:36+00:00,Array,97,42,42,43
+1,0,20,0,0,0,/videos/90719757,"Lubuntu 13.10 - Demo",282,2014-04-02T04:02:16+00:00,Array,66,188,188,283
+1,0,16,0,0,0,/videos/33542312,"Linux - die Shell wechseln",152,2011-12-12T16:57:53+00:00,Array,5,8,8,152
+1,0,19,0,0,0,/videos/98225588,"Coder - Passwortreset (Passwort vergessen, was nun ? - Passwort neu setzen)",204,2014-06-14T19:25:28+00:00,Array,92,189,189,205
+1,0,10,0,0,0,/videos/98225593,"Linux - PDF-Dokumente schreiben mit Pandoc und Markdown",248,2014-06-14T19:25:29+00:00,Array,82,204,204,248
+1,0,43,0,0,0,/videos/209909327,"Linux - Green Recorder (Screencasting unter Wayland)",215,2017-03-24T14:12:46+00:00,Array,66,144,144,215
+1,0,14,0,0,0,/videos/98507713,"openSUSE 13.1 RC2 - Demo",544,2014-06-18T04:30:34+00:00,Array,0,0,0,0
+1,0,26,0,0,0,/videos/140501147,"Gnome 3.18 - Kalender - Demo",113,2015-09-26T07:30:22+00:00,Array,1,2,2,113
+1,0,82,0,0,0,/videos/13882594,"Linux - Audio-CD abspielen",431,2010-08-04T14:15:40+00:00,Array,21,91,91,431
+1,0,14,0,0,0,/videos/119676741,"Linux - die Hardwareparameter im /proc-Verzeichnis",217,2015-02-15T12:19:43+00:00,Array,0,0,0,0
+1,0,21,1,0,0,/videos/38628622,"MyPaint - Zeichenprogramm",478,2012-03-16T11:10:06+00:00,Array,99,478,478,479
+1,0,31,1,0,0,/videos/38644411,"Python-Programmierung - OOP - Klassen in Python Teil2",232,2012-03-16T16:22:01+00:00,Array,99,231,231,232
+1,0,17,1,0,0,/videos/38518545,"mehrere PDF-Dateien verbinden - pdftk und pdfunite",142,2012-03-14T18:25:21+00:00,Array,99,141,141,142
+1,0,16,1,0,0,/videos/39150670,"textualizer.js - Textanimationen auf der Webseite",288,2012-03-25T18:06:16+00:00,Array,99,288,288,289
+1,0,13,1,0,0,/videos/39543580,"ffmpeg - Videofilter showinfo",122,2012-03-31T18:59:02+00:00,Array,99,121,121,122
+1,1,22,0,0,0,/videos/132213573,"Ubuntu - klassisches Gnome-Menü installieren",135,2015-06-30T13:57:35+00:00,Array,97,132,132,136
+1,0,18,0,0,0,/videos/122235590,"Debian - dpkg - Auflisten der installierten Pakete (Paketverwaltung .deb)",97,2015-03-15T14:02:46+00:00,Array,88,86,86,97
+1,0,35,0,0,0,/videos/50927267,"Gnome3 - laufende Anwendungen im Panel anzeigen lassen",183,2012-10-07T14:40:14+00:00,Array,9,17,17,184
+1,0,27,1,0,0,/videos/39976388,"Python-Programmierung - Klassen in Python - Vererbung",316,2012-04-08T19:11:56+00:00,Array,99,315,315,316
+1,0,8,0,0,0,/videos/14548603,"Screencast 038 - Mauszeiger",157,2010-08-30T15:07:58+00:00,Array,82,131,131,158
+1,0,41,0,0,0,/videos/15275802,"Screencast 077 - Medienwiedergabe in der Konsole - juice",207,2010-09-25T12:03:05+00:00,Array,0,0,0,0
+1,0,19,0,0,0,/videos/122501927,"Debian - dpkg - Pakete installieren (Paketverwaltung .deb)",220,2015-03-18T04:03:32+00:00,Array,7,16,16,221
+1,0,13,0,0,0,/videos/122501932,"Easy Game Scripting mit Lua (EGSL) - Installation",409,2015-03-18T04:03:37+00:00,Array,0,0,0,0
+1,0,14,0,0,0,/videos/123624354,"Linux - Prozesse anzeigen, die Dateien auf einen bestimmten Mountpunkt benutzen",174,2015-03-30T14:00:48+00:00,Array,87,153,153,175
+1,0,21,0,0,0,/videos/40973542,"Python-Programmierung - Alles ist eine Klasse",367,2012-04-24T22:12:56+00:00,Array,13,51,51,368
+1,0,18,0,0,0,/videos/123624361,"SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test) - Teil 2",356,2015-03-30T14:00:50+00:00,Array,9,69,69,714
+1,0,22,0,0,0,/videos/41097828,"Ubuntu 12.04 LTS - Demo",265,2012-04-26T18:17:03+00:00,Array,5,15,15,265
+1,0,24,0,0,0,/videos/128161637,"Mit Gimp ganz einfach Pfeile erzeugen",334,2015-05-18T16:28:10+00:00,Array,0,0,0,334
+1,0,22,0,0,0,/videos/128161639,"SD-Karte des Raspberry Pi mit dd sichern",362,2015-05-18T16:28:11+00:00,Array,60,219,219,363
+1,0,25,0,0,0,/videos/42047707,"Linux - SimpleHTTPServer",163,2012-05-12T20:47:59+00:00,Array,87,143,143,163
+1,0,15,0,0,0,/videos/246673260,"Gnome - Firefox 57 mit Client Side Decorations",259,2017-12-10T15:39:33+00:00,Array,0,2,2,260
+1,0,21,0,0,0,/videos/42894835,"LibreOffice - Writer - Funktion AutoKorrektur verwenden",245,2012-05-26T18:12:03+00:00,Array,0,0,0,0
+1,0,15,0,0,0,/videos/43495332,"Linux Mint 13 ""Maya"" MATE Edition - Demo",314,2012-06-05T21:13:59+00:00,Array,6,21,21,314
+1,0,19,0,0,0,/videos/43558812,"Mageia 2 - Demo",407,2012-06-06T19:26:00+00:00,Array,44,180,180,407
+1,0,15,0,0,0,/videos/43562684,"jQuery - Hallo Welt",348,2012-06-06T20:22:13+00:00,Array,51,178,178,349
+1,0,13,0,0,0,/videos/14584018,"Screencast 040 - yum",411,2010-08-31T17:17:12+00:00,Array,54,225,225,412
+1,1,19,0,0,0,/videos/132199960,"GIMP - Sitzung zurücksetzen",228,2015-06-30T11:19:10+00:00,Array,0,1,1,229
+1,1,25,0,0,0,/videos/43625989,"Bottle - Ein WSGI-Microframework für Python",639,2012-06-07T19:02:14+00:00,Array,0,0,0,0
+1,1,22,0,0,0,/videos/132201285,"LibreOffice - Ein Makro selbst erstellen (der Makro-Recorder)",248,2015-06-30T11:38:50+00:00,Array,38,95,95,249
+1,0,27,0,0,0,/videos/43851172,"bottle - GET- und POST-Daten Abfragen",304,2012-06-11T19:56:09+00:00,Array,93,284,284,305
+1,0,30,0,0,0,/videos/43997942,"bottle - Simple Template",330,2012-06-13T20:44:35+00:00,Array,83,276,276,331
+1,1,22,0,0,0,/videos/132206548,"Linux - Verschlüsselten Container erstellen für Genießer",450,2015-06-30T12:44:11+00:00,Array,0,0,0,0
+1,1,19,0,0,0,/videos/132210711,"Ubuntu Touch - Bedienung",353,2015-06-30T13:28:33+00:00,Array,54,194,194,354
+1,0,44,0,0,0,/videos/137388297,"HTML und CSS - Eine CSS-Datei einbinden",182,2015-08-26T16:18:59+00:00,Array,35,64,64,182
+1,1,19,0,0,0,/videos/132914489,"Raspberry Pi - eine LED ein- und ausschalten",542,2015-07-08T09:47:40+00:00,Array,12,70,70,543
+1,1,16,0,0,0,/videos/132210710,"Ubuntu Touch Emulator installieren",371,2015-06-30T13:28:33+00:00,Array,92,343,343,371
+1,1,24,0,0,0,/videos/132213568,"Ubuntu Touch - Scopes",174,2015-06-30T13:57:34+00:00,Array,40,70,70,175
+1,0,23,1,0,0,/videos/18195832,"Screencast glimpse 028 - Linux Mint Debian 201012",288,2010-12-26T20:54:45+00:00,Array,99,288,288,289
+1,0,11,0,0,0,/videos/15501858,"Screencast glimpse 002 - Fedora 7 Test 4 (ohne Audio)",250,2010-10-03T14:06:25+00:00,Array,12,30,30,250
+1,1,16,0,0,0,/videos/132320703,"Linux - MakeHuman - 3D Charaktere erstellen",144,2015-07-01T12:05:06+00:00,Array,38,55,55,144
+1,1,21,1,0,0,/videos/132320709,"GNOME 3.12 geht an den Start",209,2015-07-01T12:05:08+00:00,Array,99,208,208,209
+1,0,18,0,0,0,/videos/15503795,"Screencast glimpse 003 - Ubuntu Studio 7.04 Teil 2 (ohne Audio)",570,2010-10-03T15:58:03+00:00,Array,2,15,15,571
+1,1,17,1,0,0,/videos/132325012,"reveal.js - Text einblenden",194,2015-07-01T13:00:13+00:00,Array,99,387,387,388
+1,1,14,0,0,0,/videos/132914490,"Linux - Suchen und Finden mit Ack, statt grep",374,2015-07-08T09:47:40+00:00,Array,0,0,0,0
+1,1,41,0,0,0,/videos/132327499,"Linux - commandlinefu liefert Beispiele zu Terminalbefehlen",321,2015-07-01T13:28:14+00:00,Array,65,210,210,322
+1,0,16,0,0,0,/videos/19873292,"Screencast 100 - Python-Programmierung - Das erste ""nützliche"" Programm",340,2011-02-12T20:40:05+00:00,Array,0,0,0,0
+1,1,18,0,0,0,/videos/132331295,"reveal.js - Theme wechseln",162,2015-07-01T14:04:20+00:00,Array,89,145,145,162
+1,1,23,0,0,0,/videos/133486759,"Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse nutzen",139,2015-07-14T19:44:18+00:00,Array,90,126,126,139
+1,0,19,1,0,0,/videos/46367001,"Bodhi Linux 1.4 - Demo",260,2012-07-25T15:21:38+00:00,Array,100,260,260,260
+1,1,13,0,0,0,/videos/132815108,"Firefox OS - Apps verschieben",100,2015-07-07T12:11:43+00:00,Array,95,95,95,100
+1,0,13,0,0,0,/videos/20114724,"Screencast 101 - LibreOffice - Textmarken",192,2011-02-18T19:45:39+00:00,Array,93,180,180,193
+1,1,19,1,0,0,/videos/132815112,"FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen",160,2015-07-07T12:11:43+00:00,Array,99,160,160,161
+1,1,16,0,0,0,/videos/132816663,"LibreOffice - Calc - Fenster teilen",261,2015-07-07T12:31:13+00:00,Array,0,1,1,262
+1,0,16,0,0,0,/videos/49107086,"Linux - bleachbit",228,2012-09-09T13:25:49+00:00,Array,0,0,0,0
+1,1,17,0,0,0,/videos/132819272,"Datensparsame Suchmaschinen",373,2015-07-07T13:02:46+00:00,Array,0,0,0,373
+1,1,19,0,0,0,/videos/132821532,"Firefox für den Betrieb in der GNOME-Shell optimieren",318,2015-07-07T13:28:17+00:00,Array,75,240,240,318
+1,1,20,1,0,0,/videos/132822987,"Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org",223,2015-07-07T13:42:51+00:00,Array,99,222,222,223
+1,0,15,0,0,0,/videos/20984873,"Python-Programmierung - Richtig einrücken",181,2011-03-13T17:32:15+00:00,Array,0,0,0,0
+1,0,13,0,0,0,/videos/49913015,"Gnome3 mit Menü",153,2012-09-21T13:48:28+00:00,Array,96,149,149,154
+1,0,13,0,0,0,/videos/15633556,"Screencast glimpse 009 - openSUSE 11.1 RC1",283,2010-10-07T16:00:33+00:00,Array,13,38,38,284
+1,1,13,0,0,0,/videos/132919991,"Linux - cat und tac - Dateien ausgeben",231,2015-07-08T11:10:41+00:00,Array,12,30,30,231
+1,1,20,0,0,0,/videos/132926060,"AngularJS - Hallo Welt (ng-model, ng-show, ng-hide, .length, limitTo)",309,2015-07-08T12:33:09+00:00,Array,0,0,0,0
+1,1,14,1,0,0,/videos/132929696,"Reguläre Ausdrücke mit Regex Cross­word lernen",130,2015-07-08T13:17:55+00:00,Array,99,130,130,131
+1,1,17,0,0,0,/videos/133485594,"HTML und CSS - Was sind HTML und CSS ?",160,2015-07-14T19:32:15+00:00,Array,0,0,0,0
+1,1,12,0,0,0,/videos/132819268,"LibreOffice - Calc - Zahlen und Text eingeben",223,2015-07-07T13:02:45+00:00,Array,94,210,210,223
+1,1,18,0,0,0,/videos/133448591,"Korora 21 Darla ist da",242,2015-07-14T13:27:22+00:00,Array,30,75,75,243
+1,1,22,0,0,0,/videos/133452107,"Python-Programmierung - Quelltextanalyse mit pylint",193,2015-07-14T14:04:17+00:00,Array,0,0,0,193
+1,0,20,0,0,0,/videos/15816264,"Screencast glimpse 013 - Linux Mint 6 Universal Edition",352,2010-10-13T19:36:56+00:00,Array,0,0,0,0
+1,0,33,0,0,0,/videos/14717712,"Screencast 050 - Nano - Texteditor",143,2010-09-05T17:38:28+00:00,Array,0,0,0,0
+1,1,19,0,0,0,/videos/133485596,"HTML und CSS - Die notwendigen Tools",127,2015-07-14T19:32:16+00:00,Array,0,0,0,0
+1,1,15,0,0,0,/videos/133497737,"Linktipp: Linux - The Art of Command Line",76,2015-07-14T21:38:35+00:00,Array,9,7,7,76
+1,0,17,1,0,0,/videos/79581014,"Zorin OS 6 Core - Demo",282,2013-11-17T01:22:25+00:00,Array,99,281,281,282
+1,1,22,0,0,0,/videos/133489838,"AngularJS - Schleifen (ng-repeat)",298,2015-07-14T20:17:50+00:00,Array,0,0,0,298
+1,1,34,0,0,0,/videos/133491432,"OpenIndiana 2015.03 Hipster - Demo",257,2015-07-14T20:33:35+00:00,Array,7,19,19,257
+1,1,23,0,0,0,/videos/133491433,"Bella OS 2.2 - Demo",266,2015-07-14T20:33:35+00:00,Array,78,210,210,267
+1,1,29,1,0,0,/videos/133491434,"HTML und CSS - Grundgerüst einer HTML-Seite",164,2015-07-14T20:33:35+00:00,Array,99,163,163,164
+1,1,19,0,0,0,/videos/133495887,"LibreOffice - Calc - Bedingte Formatierungen",277,2015-07-14T21:18:26+00:00,Array,99,275,275,277
+1,0,14,0,0,0,/videos/79595736,"Peppermint OS Three - Demo",225,2013-11-17T11:04:07+00:00,Array,26,60,60,226
+1,1,21,0,0,0,/videos/132812404,"Maxdome, Watchever und Amazon Instant Video mit Pipelight unter Linux",515,2015-07-07T11:33:37+00:00,Array,2,15,15,515
+1,0,18,0,0,0,/videos/46365129,"Matplotlib und Pylab - das Beispiel etwas aufgebessert",256,2012-07-25T14:50:08+00:00,Array,17,45,45,256
+1,1,19,0,0,0,/videos/133495890,"GIMP - moderne und schicke Splashscreens",141,2015-07-14T21:18:26+00:00,Array,0,0,0,141
+1,0,22,0,0,0,/videos/79595738,"redis - Publish-Subscribe",171,2013-11-17T11:04:07+00:00,Array,0,0,0,172
+1,0,59,0,0,0,/videos/135065282,"Django - Vorbereitungen",242,2015-07-31T16:34:51+00:00,Array,92,223,223,242
+1,0,24,0,0,0,/videos/80029632,"Elive 2.1.27 - Demo",352,2013-11-22T00:25:30+00:00,Array,72,256,256,353
+1,0,43,0,0,0,/videos/13761224,"Linux - history",341,2010-07-30T14:21:20+00:00,Array,82,282,282,342
+1,0,18,0,0,0,/videos/136310956,"Fedora 23 Alpha (Workstation) - Demo",306,2015-08-14T15:08:59+00:00,Array,46,142,142,307
+1,0,17,0,0,0,/videos/136390433,"LibreOffice 5 installieren (Linux)",186,2015-08-15T17:49:43+00:00,Array,40,75,75,187
+1,0,112,0,0,0,/videos/136621885,"Python für Anfänger - Mit Python interagieren",152,2015-08-18T15:11:49+00:00,Array,0,0,0,0
+1,0,22,1,0,0,/videos/46366291,"Python-Programmierung - Iteratoren (Teil 2)",224,2012-07-25T15:09:37+00:00,Array,99,223,223,224
+1,0,14,0,0,0,/videos/46365709,"LibreOffice - Writer - Änderungen an einem Dokument verfolgen",226,2012-07-25T15:00:12+00:00,Array,31,72,72,226
+1,0,23,1,0,0,/videos/137260683,"Linux - Programme finden - which, whereis und type",142,2015-08-25T15:26:18+00:00,Array,100,142,142,142
+1,0,29,0,0,0,/videos/139800956,"Linux - USB-Sticks als Bootmedium vorbereiten",194,2015-09-19T17:59:55+00:00,Array,5,10,10,194
+1,1,15,0,0,0,/videos/133452109,"Rebellin Linux Synergy 2.5 - Demo",412,2015-07-14T14:04:17+00:00,Array,22,94,94,413
+1,0,28,0,0,0,/videos/16038867,"Screencast glimpse 022 - Ubuntu 9.04 Installation",414,2010-10-20T21:23:10+00:00,Array,3,14,14,414
+1,1,14,0,0,0,/videos/133454874,"Firefox OS auf Aktualisierungen prüfen",72,2015-07-14T14:31:16+00:00,Array,68,49,49,72
+1,0,23,0,0,0,/videos/81575391,"awesome - Konfiguration - Layouts",158,2013-12-11T06:09:24+00:00,Array,38,61,61,158
+1,1,19,0,0,0,/videos/133495888,"Firefox - nur in bestimmten Bereichen suchen",174,2015-07-14T21:18:26+00:00,Array,0,0,0,0
+1,0,27,0,0,0,/videos/26438966,"Fedora - html in pdf umwandeln",285,2011-07-14T18:12:07+00:00,Array,0,0,0,0
+1,0,36,0,0,0,/videos/184878701,"Chapeau 24 - Demo",459,2016-09-29T16:25:51+00:00,Array,6,30,30,460
+1,0,49,0,0,0,/videos/82657977,"Fotos und Bilddateien anonymisieren - Linux",374,2013-12-25T06:32:02+00:00,Array,0,0,0,374
+1,1,41,1,0,0,/videos/207911285,"LibreOffice - Calc - Sonderzeichen",227,2017-03-11T10:29:04+00:00,Array,99,227,227,228
+1,0,51,0,0,0,/videos/209223534,"Scratch-Tutorial (Teil 2) - Anlegen der vier Sprites",307,2017-03-20T15:14:54+00:00,Array,0,0,0,0
+1,0,23,0,0,0,/videos/139365319,"Raspberry Pi - SD-Karte mit gnome-disks sichern",148,2015-09-15T16:46:07+00:00,Array,81,122,122,149
+1,0,14,0,0,0,/videos/139836287,"Processing installieren und starten",277,2015-09-20T10:16:43+00:00,Array,35,100,100,278
+1,0,33,0,0,0,/videos/14140454,"Screencast 028 - Istanbul und byzanz",493,2010-08-14T16:15:23+00:00,Array,53,265,265,493
+1,0,21,0,0,0,/videos/26482224,"Ubuntu - html in pdf umwandeln",172,2011-07-15T17:39:37+00:00,Array,78,135,135,173
+1,0,55,0,0,0,/videos/13783777,"Linux - Bildschirmfotos erstellen",360,2010-07-31T15:14:46+00:00,Array,20,148,148,722
+1,0,34,1,0,0,/videos/13790016,"Linux - bash-Tastenkürzel",225,2010-07-31T21:52:29+00:00,Array,99,225,225,226
+1,0,11,1,0,0,/videos/16145884,"Screencast short 005 - OpenOffice Writer - Text kursiv",44,2010-10-24T18:35:29+00:00,Array,100,44,44,44
+1,0,19,1,0,0,/videos/83659419,"Taskwarrior - Abhängigkeiten (depends)",246,2014-01-08T08:08:07+00:00,Array,99,245,245,246
+1,0,20,1,0,0,/videos/83659429,"Taskwarrior - Etiketten (Tags)",177,2014-01-08T08:08:12+00:00,Array,99,177,177,178
+1,0,20,0,0,0,/videos/27213343,"Fedora - Sicheres Loeschen einer Datei",208,2011-08-02T20:13:10+00:00,Array,0,0,0,0
+1,0,9,0,0,0,/videos/27348466,"Gnome3 - Terminal mit Tastenkuerzel starten",112,2011-08-05T19:25:09+00:00,Array,0,0,0,112
+1,0,19,0,0,0,/videos/16146686,"Screencast short 006 - OpenOffice Writer - Text unterstreichen",66,2010-10-24T19:05:45+00:00,Array,21,14,14,66
+1,0,17,1,0,0,/videos/84442783,"sed - reguläre Beispiele",138,2014-01-18T01:09:00+00:00,Array,99,138,138,139
+1,0,19,0,0,0,/videos/84442785,"sed - reguläre Beispiele - Tipp",183,2014-01-18T01:09:04+00:00,Array,94,173,173,184
+1,0,16,0,0,0,/videos/84744898,"Linux - Daten verstecken - steghide (Steganografie)",425,2014-01-22T05:34:10+00:00,Array,81,348,348,425
+1,1,15,1,0,0,/videos/133446618,"R - RStudio installieren und starten",194,2015-07-14T13:03:32+00:00,Array,99,193,193,194
+1,0,24,0,0,0,/videos/27663657,"Python-Programmierung - Dictionaries (Teil 2)",218,2011-08-13T17:57:19+00:00,Array,28,62,62,218
+1,0,16,0,0,0,/videos/27913987,"moonOS 4 Neak - Demo",202,2011-08-19T17:10:51+00:00,Array,13,28,28,202
+1,0,21,0,0,0,/videos/86819922,"sed - Kommandos",144,2014-02-16T12:22:35+00:00,Array,62,90,90,144
+1,0,17,0,0,0,/videos/27827591,"Anwendungen in einer Sandbox starten",213,2011-08-17T18:19:18+00:00,Array,16,36,36,213
+1,0,17,0,0,0,/videos/87058261,"LibreOffice - Calc - Rechenleiste",255,2014-02-19T05:04:09+00:00,Array,26,69,69,256
+1,0,14,0,0,0,/videos/14127043,"Screencast 027 - Desktop Effects Tastenkombinationen",252,2010-08-13T21:11:09+00:00,Array,4,12,12,253
+0,0,20,0,0,0,/videos/79530034,"PHP-Programmierung - Hallo Welt",332,2013-11-15T23:40:00+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/82657983,"Dokumente anonymisieren - Linux",329,2013-12-25T06:32:10+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/46143191,"CouchDB - Futon - Dokumente erstellen und löschen",209,2012-07-21T14:08:33+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132201287,"Linux - cheat (lernen durch Kommando-Beispiele)",243,2015-06-30T11:38:51+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/34127925,"Gnome3 - Website als Webanwendung speichern",267,2011-12-23T14:19:58+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/82658001,"Crashkurs LibreOffice Calc für Datenjournalismus - Ausgabemöglichkeit: HTML",142,2013-12-25T06:32:30+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/15099121,"Screencast 069 - Pidgin - Nachrichtenverschlüsselung mit OTR",248,2010-09-19T16:04:14+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/90719739,"LibreOffice - Calc - von Zelle zu Zelle bewegen",301,2014-04-02T04:01:55+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/90719723,"ghost - ghost installieren (benutzerfreundliche Blogging-Software basierend auf node.js)",393,2014-04-02T04:01:41+00:00,Array,0,0,0,0
+0,1,25,0,0,0,/videos/132219569,"Linux - Backups verschlüsseln - Konzept",344,2015-06-30T14:48:28+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/16032518,"Screencast glimpse 019 - PCLinuxOS 2009.1",336,2010-10-20T18:12:29+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/32990245,"Gnome3 - Sushi",316,2011-12-01T20:37:08+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/90161139,"Snowlinux 5 beta - Demo",307,2014-03-26T20:46:59+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/90161121,"R - Hilfe",158,2014-03-26T20:46:53+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/90161104,"Linux - DM-Crypt - Vorbereitung",227,2014-03-26T20:46:46+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/90161090,"Firefox OS - Einstellungen - Ton",99,2014-03-26T20:46:35+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/31863432,"Fedora 16 - Demo",195,2011-11-09T19:23:49+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/31615994,"Python-Programmierung - Funktionen (Teil 4)",151,2011-11-04T18:20:42+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/89473267,"Ubuntu 13.10 beta2 - Demo",344,2014-03-19T04:42:35+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/89473265,"Taskwarrior - Reports - ein Beispiel",276,2014-03-19T04:42:29+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/89473261,"sed - Adressen",224,2014-03-19T04:42:23+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/89473255,"Raspberry Pi - das Betriebssystem installieren - raspbian",358,2014-03-19T04:42:17+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/30268440,"LibreOffice - Suchen und Ersetzen von Text",214,2011-10-09T15:43:45+00:00,Array,0,0,0,0
+0,0,56,0,0,0,/videos/13798543,"Linux - Dateien (Textmodus)",391,2010-08-01T11:04:26+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/29795129,"Gnome3 - Bildschirmtastaturen",175,2011-09-29T18:27:25+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/89473233,"PHP-Programmierung - Arrays - Assoziative Arrays",243,2014-03-19T04:42:02+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/137500889,"Linktipp: Browserunterstützung für HTML- und CSS-Elemente prüfen",120,2015-08-27T16:01:02+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15063932,"Screencast 066 - Kwin - Videoaufnahme",305,2010-09-17T20:10:19+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/29447319,"nautilus-image-converter, nautilus-open-terminal",190,2011-09-22T20:01:14+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/89473218,"Gnome 3.10 - Tweak Tool - Demo",160,2014-03-19T04:41:46+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/89473216,"Gnome 3.10 - Software - Demo",92,2014-03-19T04:41:43+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/29265905,"LibreOffice - Sich schnell durch ein Dokument bewegen",174,2011-09-19T15:11:46+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/89473210,"Gnome 3.10 - Notizen (Notes) - Demo",155,2014-03-19T04:41:36+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/89473206,"Gnome 3.10 - Map - Demo",91,2014-03-19T04:41:32+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/89473203,"Gnome 3.10 - Uhren (Clocks) - Demo",124,2014-03-19T04:41:28+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/29108821,"Firefox - ShowIP",96,2011-09-15T18:19:31+00:00,Array,0,0,0,0
+0,0,27,0,0,0,/videos/89473190,"Fedora 20 Alpha - Gnome 3.10 - Demo",429,2014-03-19T04:41:18+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/89473187,"Arduino - Vorbereitungen",120,2014-03-19T04:41:15+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/89300142,"Taskwarrior - Dringlichkeit",100,2014-03-17T12:55:57+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/89300122,"Raspberry Pi - Vorbereitungen",154,2014-03-17T12:55:47+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/28999255,"Python-Programmierung - Funktionen (Teil 2)",284,2011-09-13T17:29:40+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/89300100,"Gnome 3.10 - Music - Demo",42,2014-03-17T12:55:20+00:00,Array,0,0,0,0
+0,0,30,0,0,0,/videos/140518860,"Screencasting auf dem Linux-Desktop in der Cloud - Demo",368,2015-09-26T15:49:35+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/28895681,"LibreOffice - Auswaehlen eines vertikalen Textblocks",113,2011-09-11T18:07:45+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/28681746,"Gnome3 - Zoomen",336,2011-09-06T20:08:11+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/88224788,"LibreOffice - Calc - Navigieren",311,2014-03-05T05:36:09+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/88224780,"LibreOffice - Calc - Umgang mit einer CSV-Datei",300,2014-03-05T05:35:57+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/15033444,"Screencast 064 - OpenOffice.org - Writer - Ein Dokument öffnen",115,2010-09-16T19:10:34+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/87981718,"Firefox OS - die Bildschirmdeaktivierung einstellen (screen timeout)",67,2014-03-02T11:14:25+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/87981711,"Firefox OS - offene Apps (die Anzeige der offenen Anwendungen)",71,2014-03-02T11:14:22+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/87981709,"Firefox OS - Einstellungen - Sprache",71,2014-03-02T11:14:19+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/87981706,"Firefox OS - Einstellungen - Batterie",113,2014-03-02T11:14:16+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/87981703,"Firefox OS - einen Alarm erstellen",146,2014-03-02T11:14:13+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/87058276,"OS4 OpenLinux 13.6 - Demo",348,2014-02-19T05:04:30+00:00,Array,0,0,0,0
+0,0,51,0,0,0,/videos/208478722,"Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an",240,2017-03-15T12:47:22+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/91485674,"MakuluLinux 4.0 - Demo",437,2014-04-09T04:36:02+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/91485670,"Linux - Verzeichnisse wechseln in der Shell mit bd",241,2014-04-09T04:35:57+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/91485689,"Taskwarrior - Spezielle Reports",185,2014-04-09T04:36:19+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/132322123,"Präsentationen mit HTML und reveal.js - Installation und Grundgerüst",209,2015-07-01T12:24:13+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819911,"Gnome3 - Wetter-App",99,2014-02-16T12:22:24+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/91485678,"Python-Programmierung - Modul random - Zufallszahlen generieren",304,2014-04-09T04:36:10+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/86819908,"Gnome3 - Notizen-App (bijiben)",105,2014-02-16T12:22:17+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819905,"Firefox OS - Firefox OS Simulator",184,2014-02-16T12:22:13+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819903,"Firefox OS - Apps",211,2014-02-16T12:22:09+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/91485662,"Kwheezy 1.3 - Demo",747,2014-04-09T04:35:49+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/86819898,"Firefox OS - Bedienung",252,2014-02-16T12:21:59+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819896,"Firefox OS - DNT - Do Not Track (nicht verfolgen)",195,2014-02-16T12:21:56+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/81575432,"Python-Programmierung - Zeichenkettenmethoden",235,2013-12-11T06:10:19+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/98222745,"Coder auf dem PC installieren (HTML, CSS, Javascript ganz einfach lernen)",383,2014-06-14T18:17:34+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/86819886,"LibreOffice - Calc - Tabellenregister und Statusleiste",112,2014-02-16T12:21:45+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86818274,"Firefox OS",173,2014-02-16T11:26:36+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/37061972,"LibreOffice - Writer - Dokumentansicht",140,2012-02-19T17:30:26+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/37030101,"Gnome3 - Shell Extension NetMonitor Lite",290,2012-02-18T21:09:29+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/84744880,"Emmabuntüs 12.04.2-1.05 Demo",543,2014-01-22T05:33:38+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/84442789,"Taskwarrior - Reports",215,2014-01-18T01:09:09+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/98225591,"LibreOffice - Calc - Auswählen von Elementen - zusammenhängende Bereiche auswählen",265,2014-06-14T19:25:29+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/98225590,"Firefox OS - Browserdaten löschen (Chronik, History, Cookies löschen)",80,2014-06-14T19:25:28+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/84442779,"sed - Eingabe und Ausgabe",186,2014-01-18T01:08:56+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/84442775,"scrot - Screenshot-Tool für die Kommandozeile",123,2014-01-18T01:08:52+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/84442765,"LibreOffice - Was ist Calc ?",199,2014-01-18T01:08:38+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/15102831,"Screencast 070 - Nautilus - Verknüpfungen",84,2010-09-19T19:08:21+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/84442753,"Linux - Textverarbeitung in der Kommandozeile (Tipp)",174,2014-01-18T01:08:25+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/46146599,"jQuery - ready- und click-Methode",239,2012-07-21T16:01:59+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/133493396,"Semplice Linux 7 - Demo",319,2015-07-14T20:52:54+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/98225594,"R - einfache Rechenfunktionen durchführen",163,2014-06-14T19:25:29+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/37613243,"Seiten aus einem PDF-Dokument herausschneiden - pdftk und pdfseparate",300,2012-02-28T19:00:06+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/37687318,"Python-Programmierung - OOP - Klassen in Python",375,2012-02-29T19:54:15+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/132323799,"Firefox OS - Apps installieren",216,2015-07-01T12:45:40+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/98225595,"sed - Adressen - Teil 2",401,2014-06-14T19:25:30+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132325013,"reveal.js - Einbinden von Markdown-Syntax",123,2015-07-01T13:00:13+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/37833067,"Gnome3 - Shell Extension CPU Frequency",221,2012-03-02T23:18:28+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/82657993,"Javascript - Variablen",159,2013-12-25T06:32:19+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/132217984,"Ubuntu Touch - Friends-App",161,2015-06-30T14:35:07+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/133448590,"Notizen für Tomboy aus Firefox heraus erzeugen",128,2015-07-14T13:27:22+00:00,Array,0,0,0,0
+0,1,25,0,0,0,/videos/133493397,"Fedora 22 Beta Workstation - Demo",390,2015-07-14T20:52:54+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/79581016,"PHP-Programmierung - POST-Variablen",190,2013-11-17T01:22:26+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/80029657,"PHP-Programmierung - die for-Schleife",114,2013-11-22T00:26:10+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/79595735,"PHP-Programmierung - Funktionen",209,2013-11-17T11:04:07+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/16028754,"Screencast glimpse 016 - Mandriva Linux One 2009 KDE4 Installation",369,2010-10-20T16:20:37+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/133448593,"LibreOffice - Calc - Zahlen formatieren",208,2015-07-14T13:27:22+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/119676736,"Raspberry Pi - arkos - Genesis - Terminal und Execute (Kommandos über den Browser eingeben)",357,2015-02-15T12:19:40+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/136110401,"LibreOffice - Calc - Gruppen und Gliederung",197,2015-08-12T15:18:17+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/38285805,"Gnome3 - run-dialog",382,2012-03-10T20:59:37+00:00,Array,62,0,240,382
+0,0,16,0,0,0,/videos/46147566,"Gnome3 - gnome-tweak-tool im userMenu",453,2012-07-21T16:32:11+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/119676739,"Gnome3 - Text Translator",196,2015-02-15T12:19:41+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/79581041,"Informationen über ein vimeo-Video ermitteln",258,2013-11-17T01:23:24+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/46144669,"Python-Programmierung - Iteratoren",473,2012-07-21T15:01:13+00:00,Array,0,0,0,0
+0,0,35,0,0,0,/videos/80423356,"blockdiag - Installation",276,2013-11-26T23:56:22+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/119676742,"Linux - andere Hardwareinformationen im /proc-Verzeichnis",130,2015-02-15T12:19:44+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16039529,"Screencast glimpse 023 - Ubuntu 9.10",332,2010-10-20T21:44:13+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/81105605,"Taskwarrior - Datum und Uhrzeit - scheduled",110,2013-12-05T15:03:09+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/81575414,"Python-Programmierung - Reguläre Ausdrücke - Suchen Teilen Ersetzen",210,2013-12-11T06:09:53+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/91485629,"LibreOffice - Calc - Bewegen von Blatt zu Blatt",155,2014-04-09T04:35:09+00:00,Array,0,0,0,0
+0,0,4,0,0,0,/videos/16036685,"Screencast glimpse 020 - PCLinuxOS 2009.1 Installation",317,2010-10-20T20:20:22+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132327498,"Linux - Bropages liefern Beispiele zu Terminalbefehlen",249,2015-07-01T13:28:14+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/81105610,"Taskwarrior - Aufgaben beginnen und beenden",95,2013-12-05T15:03:12+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/119676745,"Linux - aktive Veränderungsmöglichkeiten unter /proc/sys",222,2015-02-15T12:19:44+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16031388,"Screencast glimpse 017 - Kubuntu 8.10",300,2010-10-20T17:37:54+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/119676748,"Linux - SimpleScreenRecorder (Screencasting-Tool)",242,2015-02-15T12:19:46+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/119694106,"LibreOffice - Calc - Auswählen von Elementen - nicht zusammenhängende Bereiche",375,2015-02-15T18:30:07+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/119676746,"Python-Programmierung - subprocess",279,2015-02-15T12:19:45+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/119694108,"Fedora 20 Beta MATE - Demo",308,2015-02-15T18:30:07+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/133454875,"LibreOffice - Calc - Schrift formatieren",170,2015-07-14T14:31:16+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/133454872,"Firefox OS - Zeit bis zum Abschalten des Bildschirms bestimmen",60,2015-07-14T14:31:16+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/119694107,"Fedora 20 Beta - Installation - Demo",467,2015-02-15T18:30:07+00:00,Array,0,0,0,0
+0,0,29,0,0,0,/videos/81575416,"Python-Programmierung - Reguläre Ausdrücke - Zeichenkunde",578,2013-12-11T06:10:03+00:00,Array,0,0,0,0
+0,0,29,0,0,0,/videos/80029668,"Taskwarrior - Datum und Uhrzeit - Fälligkeit",133,2013-11-22T00:26:21+00:00,Array,0,0,0,0
+0,0,30,0,0,0,/videos/136736077,"Javascript - Zahlen",272,2015-08-19T16:01:39+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/119676744,"Linux - weitere wichtige Unterverzeichnisse in /proc",103,2015-02-15T12:19:44+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/120825605,"Firefox - schnelle Youtube-Suche ohne Extra-Add-on",183,2015-02-27T19:02:22+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/120825606,"Firefox - schnelle Youtube-Suche (Add-on Search in Youtube)",77,2015-02-27T19:02:23+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/140501146,"Gnome 3.18 - Zeichen - Demo",77,2015-09-26T07:30:22+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/119926942,"Linux - das /proc-Dateisystem",282,2015-02-18T06:05:32+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/120825610,"Firefox OS - Einstellungen - Datum und Uhrzeit",91,2015-02-27T19:02:24+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132926062,"AngularJS - Hallo Welt - Teil 2 (ng-init, required, number:n)",343,2015-07-08T12:33:09+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/82657996,"Crashkurs LibreOffice Calc für Datenjournalismus - nutzbare Datenquellen",385,2013-12-25T06:32:23+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/120825608,"Australis in Firefox Nightly",282,2015-02-27T19:02:23+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/120825613,"Python-Programmierung - subprocess - einfache Ausgaben verarbeiten",232,2015-02-27T19:02:25+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/80029646,"Fedora 18 Beta - Demo",351,2013-11-22T00:25:55+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/133456530,"Git für Einsteiger - Der erste Commit - Teil 2",265,2015-07-14T14:46:55+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/132929692,"Jugend hackt 2014",80,2015-07-08T13:17:54+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/81575395,"awesome - Konfiguration - Tags",256,2013-12-11T06:09:33+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/135376056,"docker installieren",217,2015-08-04T16:50:23+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/121216513,"Linux - Benutzer benachrichtigen - die Datei /etc/issue",358,2015-03-04T05:24:12+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/119926939,"Fedora 20 Beta LXDE - Demo",329,2015-02-18T06:05:31+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/121216517,"SolydK 201311 - Demo",418,2015-03-04T05:24:13+00:00,Array,0,0,0,0
+0,1,10,0,0,0,/videos/133484240,"LibreOffice - Calc - Umrandungen",165,2015-07-14T19:18:12+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/121216518,"SolydX 201311 - Demo",361,2015-03-04T05:24:14+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/121216516,"sed - Mehr Kommandos",278,2015-03-04T05:24:13+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/122235591,"Debian - dpkg - Auflisten der Dateien installierter Pakete (Paketverwaltung .deb)",62,2015-03-15T14:02:46+00:00,Array,0,0,0,0
+0,0,59,0,0,0,/videos/79530039,"PHP-Programmierung - GET-Variablen",297,2013-11-15T23:40:02+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/133488635,"R - Zeichenketten",231,2015-07-14T20:04:19+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/15232453,"Screencast 076 - OpenOffice.org - Writer - Gallery - Grafiken hinzufügen",150,2010-09-23T19:38:42+00:00,Array,0,0,0,0
+0,0,67,0,0,0,/videos/79530033,"Taskwarrior - Aufbau eines Taskwarrior-Kommandos",103,2013-11-15T23:40:00+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/79529739,"redis - Transaktionen",194,2013-11-15T23:33:59+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/122235595,"Debian - dpkg - Aus welchem Paket stammt eine bestimmte Datei ? (Paketverwaltung .deb)",76,2015-03-15T14:02:48+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/122235594,"Debian - dpkg - Pakete deinstallieren (Paketverwaltung .deb)",144,2015-03-15T14:02:47+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132815111,"Geeksphone Revolution - Firefox OS installieren",258,2015-07-07T12:11:43+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/49912488,"LibreOffice - Writer - Kopf- und Fusszeilen erstellen",235,2012-09-21T13:39:41+00:00,Array,0,0,0,0
+0,0,42,0,0,0,/videos/80423254,"awesome - ein Tiling-Fenstermanager - Bedienung",315,2013-11-26T23:54:50+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16118349,"Screencast glimpse 025 - Ubuntu 10.10 RC",296,2010-10-23T13:55:50+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132816664,"GIMP - Einen Rahmen um einen Bereich in einem Bild ziehen",246,2015-07-07T12:31:14+00:00,Array,0,0,0,0
+0,1,19,0,0,0,/videos/132816665,"ImageMagick - Bilder mit Text erstellen - Teil 2",319,2015-07-07T12:31:14+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/122235598,"Linux - explainshell",104,2015-03-15T14:02:49+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/122235597,"LibreOffice - Calc - Spalten und Zeilen löschen",173,2015-03-15T14:02:49+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/133485595,"LibreOffice - Calc - Zellhintergrund",95,2015-07-14T19:32:16+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/122501929,"Debian - dpkg - Abfrage des Installationsstatus (Paketverwaltung .deb)",142,2015-03-18T04:03:34+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/122501931,"Easy Game Scripting mit Lua (EGSL) - ein Beispiel",494,2015-03-18T04:03:36+00:00,Array,0,0,0,0
+0,1,10,0,0,0,/videos/132922044,"Git in 15 Minuten lernen",101,2015-07-08T11:40:14+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/52073520,"taskwarrior abkuerzungen",269,2012-10-24T12:08:51+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/81575439,"redis - Sicherheit",336,2013-12-11T06:10:28+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132819269,"Trianglify erzeugt Wallpaper im Nexus-Stil",148,2015-07-07T13:02:45+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132327495,"LibreOffice - Wie man ein Makro ausführt",375,2015-07-01T13:28:13+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/50928702,"Gnome3 - eine neue Suche hinzufügen",470,2012-10-07T15:19:06+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132819271,"LibreOffice - Seitenleiste und Erscheinungsbild",283,2015-07-07T13:02:46+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/80029664,"redis - Replikation",144,2013-11-22T00:26:17+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/119676743,"Linux - Kernel- und Softwareinformationen im /proc-Verzeichnis",153,2015-02-15T12:19:44+00:00,Array,0,0,0,153
+0,0,22,0,0,0,/videos/49856074,"redis - Konfiguration",355,2012-09-20T17:55:45+00:00,Array,0,0,0,0
+0,1,10,0,0,0,/videos/132826528,"LibreOffice - Calc - Inhalte in mehrere Tabellen eintragen",122,2015-07-07T14:15:37+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/49853798,"Python-Programmierung -  Generatorfunktionen",326,2012-09-20T17:25:31+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/122501935,"Python-Programmierung - subprocess - die Klasse Popen",197,2015-03-18T04:03:39+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/50890593,"Taskwarrior - Löschen von Aufgaben",129,2012-10-06T16:17:40+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/16119523,"Screencast glimpse 026 - Lubuntu 10.10",284,2010-10-23T15:04:24+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/123624355,"Linux - tr (translate - Zeichen eines Eingabedatenstroms ändern)",237,2015-03-30T14:00:49+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132206551,"Linux - Verschlüsselte Containerdatei öffnen und schließen",445,2015-06-30T12:44:12+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/49910576,"redis - Datentypen - String",374,2012-09-21T13:07:08+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/49911962,"redis - Datentypen - Hashes",274,2012-09-21T13:30:55+00:00,Array,0,0,0,0
+0,1,14,0,0,0,/videos/132822988,"Geeksphone Revolution und andere Geräte mit dem Firefox App-Manager verbinden",653,2015-07-07T13:42:51+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/123624357,"Linux - wc (word count - Zeichen, Wörter und Zeilen einer Datei zählen)",152,2015-03-30T14:00:49+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/123624360,"SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test)",627,2015-03-30T14:00:50+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/79529659,"redis - Lebensdauer von Schlüsseln",172,2013-11-15T23:32:18+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/16039936,"Screencast glimpse 024 - Ubuntu 10.04 LTS RC",255,2010-10-20T21:58:50+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/122501934,"LibreOffice - Calc - Spalten und Zeilen einfügen",184,2015-03-18T04:03:38+00:00,Array,0,0,0,0
+0,0,30,0,0,0,/videos/80423257,"blockdiag - Beispieldiagramme",354,2013-11-26T23:54:50+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/123806324,"SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test)",631,2015-04-01T04:15:11+00:00,Array,0,0,0,0
+0,0,27,0,0,0,/videos/128161635,"ExTiX 14 - Demo",359,2015-05-18T16:28:10+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/123624363,"SteamOS - automatische Installation verändern (Datei default.preseed modifizieren)",132,2015-03-30T14:00:50+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/128161638,"LibreOffice - Calc - ein neues Tabellenblatt einfügen",142,2015-05-18T16:28:10+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/41946949,"Linux - diff - Dateien vergleichen",224,2012-05-10T21:50:38+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/15278361,"Screencast 079 - OpenOffice.org - Writer - Gallery - Ein neues Thema anlegen",236,2010-09-25T15:05:42+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/41880260,"popcorn.js - Attribution",187,2012-05-09T22:16:59+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/42562984,"CouchDB - Datenbankinformationen",195,2012-05-21T17:36:23+00:00,Array,0,0,0,0
+0,0,28,0,0,0,/videos/46149395,"Matplotlib und Pylab - eine Programm-Datei",262,2012-07-21T17:32:02+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/133486761,"LibreOffice - Calc - Zellen mit Textdaten",140,2015-07-14T19:44:19+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/128161643,"Youtube-Videos mittels VLC abspielen",175,2015-05-18T16:28:12+00:00,Array,1,0,3,175
+0,0,11,0,0,0,/videos/131876207,"Firefox OS - die Version anzeigen",58,2015-06-26T13:01:54+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132826529,"Google Web Designer jetzt auch für Linux erhältlich",338,2015-07-07T14:15:37+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/15502702,"Screencast glimpse 003 - Ubuntu Studio 7.04 (ohne Audio)",285,2010-10-03T14:57:24+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/41039351,"ffmpeg - Videogrösse ändern",243,2012-04-25T20:50:30+00:00,Array,0,0,0,0
+0,0,46,0,0,0,/videos/42901409,"Python-Programmierung - OOP - Die Sache mit den Unterstrichen",325,2012-05-26T21:55:32+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/82301488,"Python-Programmierung - Reguläre Ausdrücke - Suchen Teilen Ersetzen Teil2",170,2013-12-19T16:37:22+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/46143344,"CouchDB - Dokumente erstellen und löschen",327,2012-07-21T14:14:32+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/131876211,"Linux - join (Dateien mit identischen Feldern verschmelzen)",133,2015-06-26T13:01:56+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/46143098,"CouchDB - Futon - Datenbank erstellen und löschen",112,2012-07-21T14:05:30+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/46141970,"bottle - HTTP Header Daten",175,2012-07-21T13:20:53+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/132917750,"Voyager Live 14.04 - Demo",449,2015-07-08T10:35:06+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132196450,"Python-Programmierung - subprocess - Pipes verwenden",291,2015-06-30T10:29:55+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/45600849,"Farbcode ermitteln",196,2012-07-11T20:33:11+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/15433331,"Screencast 085 - Hardware-Informationen (Desktop)",182,2010-09-30T18:12:12+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/45542766,"droopy - kleiner Upload-Webserver",214,2012-07-10T22:50:17+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/132917751,"LibreOffice - Calc - Daten auf Gültigkeit prüfen",144,2015-07-08T10:35:06+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132198554,"LibreOffice - Calc - Löschen von Tabellenblättern",93,2015-06-30T10:59:42+00:00,Array,0,0,0,0
+0,1,29,0,0,0,/videos/132198555,"Debian Manpages im World Wide Web",152,2015-06-30T10:59:43+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132198556,"SteamOS Session installieren",243,2015-06-30T10:59:43+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/131876209,"Gnome3 - Gnome2-Look verwenden",76,2015-06-26T13:01:55+00:00,Array,0,0,0,0
+0,0,27,0,0,0,/videos/79595760,"Taskwarrior - Datum und Uhrzeit - Datumsformate",319,2013-11-17T11:04:55+00:00,Array,0,0,0,0
+0,1,10,0,0,0,/videos/132919988,"R - Variablen",206,2015-07-08T11:10:40+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132919989,"Suchmaschine DuckDuckGo mit Bildersuche",161,2015-07-08T11:10:40+00:00,Array,0,0,0,0
+0,1,19,0,0,0,/videos/132198560,"LibreOffice - Calc - Tabellen umbenennen",137,2015-06-30T10:59:44+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/15821581,"Screencast glimpse 015 - Mandriva Linux One 2009 KDE4",406,2010-10-13T22:22:56+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/132199963,"Linux - numlockx - Ziffernblock mittels Befehl aktivieren/deaktivieren",140,2015-06-30T11:19:11+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/50890846,"Python-Programmierung - Generator Expressions",201,2012-10-06T16:25:25+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/43622904,"Python-Programmierung - Fehlerbehandlung",390,2012-06-07T18:14:54+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132199966,"LibreOffice - Ihr erstes Makro",305,2015-06-30T11:19:12+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/43699773,"bottle - Dynamisches Routing",373,2012-06-08T21:27:15+00:00,Array,0,0,0,0
+0,1,23,0,0,0,/videos/132201286,"LibreOffice - Makro ausführen",133,2015-06-30T11:38:51+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/132199964,"LibreOffice - Was ist Makro ?",133,2015-06-30T11:19:11+00:00,Array,0,0,0,0
+0,1,14,0,0,0,/videos/132919987,"Gnome3 - Numlock- und Capslock-Status im Panel anzeigen",127,2015-07-08T11:10:40+00:00,Array,0,0,0,0
+0,1,14,0,0,0,/videos/133488632,"LibreOffice - Calc - Autoformatierung von Tabellenbereichen (Autoformat)",161,2015-07-14T20:04:18+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/15280060,"Screencast 080 - OpenOffice.org - Writer - Hilfe erhalten",139,2010-09-25T16:45:47+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/40553909,"Fedora 17 Beta - Demo",292,2012-04-17T22:06:18+00:00,Array,0,0,0,0
+0,1,23,0,0,0,/videos/132203388,"SliTaz GNU/Linux Cooking 20140216 - Demo",302,2015-06-30T12:06:25+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/134985752,"dnf - die wichtigsten Kommandos (Fedora)",233,2015-07-30T20:12:34+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132203392,"Linux - Verschlüsselten Container erstellen (luksformat)",238,2015-06-30T12:06:26+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132203387,"Robolinux 7.4.1 - Demo",362,2015-06-30T12:06:25+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132206544,"GIMP - Bildschirm durchsichtig machen",361,2015-06-30T12:44:11+00:00,Array,0,0,0,0
+0,1,24,0,0,0,/videos/132206546,"brick - UI Komponenten für moderne Web-Apps",298,2015-06-30T12:44:11+00:00,Array,0,0,0,0
+0,1,26,0,0,0,/videos/132922043,"Linux - Atom installieren",207,2015-07-08T11:40:14+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132203393,"LibreOffice - Makro ansehen und bearbeiten",555,2015-06-30T12:06:27+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/44612667,"Ruby - Kommentare",203,2012-06-24T17:21:20+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16037337,"Screencast glimpse 021 - Ubuntu 9.04",241,2010-10-20T20:38:52+00:00,Array,0,0,0,0
+0,0,29,0,0,0,/videos/135066890,"AngularJS - Ereignisdirektiven (Event: ng-click)",234,2015-07-31T16:52:10+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/44194087,"LibreOffice - Writer - Rechtschreib- und Grammatikprüfung",295,2012-06-17T15:15:07+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/50927578,"Taskwarrior - Prioritäten",199,2012-10-07T14:48:39+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/45325840,"jQuery einbinden",336,2012-07-06T18:39:02+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15431747,"Screencast 084 - uptime",118,2010-09-30T17:21:34+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132201288,"Linux - Android auf dem PC",313,2015-06-30T11:38:52+00:00,Array,0,0,0,0
+0,1,14,0,0,0,/videos/132926059,"R - einfache Datentypen (numeric, logical, complex, character, raw)",275,2015-07-08T12:33:09+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/50928544,"Taskwarrior - einfache Filter",156,2012-10-07T15:14:42+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/80029648,"Gnome3 - Ordner vor Dateien anzeigen",196,2013-11-22T00:26:00+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/132923581,"Firefox OS 2.0 und Firefox OS 1.5 im Vergleich (per Simulator) - Demo",595,2015-07-08T12:00:22+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132213572,"Ubuntu Touch - Browser-App",111,2015-06-30T13:57:34+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/52072538,"gnome3 usertheme",316,2012-10-24T11:48:51+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/132926061,"Python-Programmierung - import pwd",246,2015-07-08T12:33:09+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/45326779,"bottle - Cookies",201,2012-07-06T18:57:35+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/132213577,"Ubuntu Touch - Uhr-App",227,2015-06-30T13:57:36+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132215254,"LibreOffice - bekannte Probleme mit dem Makrorecorder",349,2015-06-30T14:11:05+00:00,Array,0,0,0,0
+0,1,19,0,0,0,/videos/132929695,"Evolve OS Beta 1 - Demo",244,2015-07-08T13:17:55+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132213575,"Ubuntu Touch - Kalender-App",230,2015-06-30T13:57:35+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/45543046,"Javascript - Hallo Welt",228,2012-07-10T22:55:55+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/50927779,"Taskwarrior - Projekte",134,2012-10-07T14:53:42+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/81575408,"LibreOffice - Writer - Ändern von Seitenrändern",217,2013-12-11T06:09:47+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/45326525,"HTML5 - Grundgerüst",204,2012-07-06T18:52:28+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132217982,"R - Nachkommastellen",189,2015-06-30T14:35:06+00:00,Array,0,0,0,0
+0,1,15,0,0,0,/videos/132930951,"Linux - Anwendungen in anderer Sprache starten",176,2015-07-08T13:31:57+00:00,Array,92,0,162,176
+0,1,13,0,0,0,/videos/132930950,"LibreOffice - Writer - Editiermodus Einfügen und Überschreiben",123,2015-07-08T13:31:57+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/132215264,"Firefox OS 1.3 Simulator - Demo",600,2015-06-30T14:11:07+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/133497736,"Firefox - Leseansicht",166,2015-07-14T21:38:35+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/52073296,"fedora18alpha installer demo",218,2012-10-24T12:04:44+00:00,Array,0,0,0,0
+0,0,28,0,0,0,/videos/82301489,"Taskwarrior - Datum und Uhrzeit - Aufgaben verstecken",167,2013-12-19T16:37:22+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132217985,"LibreOffice - Makroorganisation",322,2015-06-30T14:35:07+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/133489841,"Git für Einsteiger - Allgemeines zum Branching",166,2015-07-14T20:17:50+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132217987,"Ubuntu Touch - Taschenrechner-App",85,2015-06-30T14:35:08+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/133489840,"LibreOffice - Calc - Tabellen mit Themen formatieren",119,2015-07-14T20:17:50+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/46141832,"LibreOffice - Writer - Autoformatierung",214,2012-07-21T13:15:49+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132219565,"LibreOffice - Wo werden Makros gespeichert ?",119,2015-06-30T14:48:28+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/132219570,"Linux - Spurenarm Surfen - Konzept",175,2015-06-30T14:48:29+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/52072960,"taskwarrior zusammenfassung",140,2012-10-24T11:58:14+00:00,Array,0,0,0,0
+0,1,31,0,0,0,/videos/132215259,"Firefox OS 1.3 Simulator installieren",190,2015-06-30T14:11:07+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/132317466,"LibreOffice - Makros für den Import herunterladen",126,2015-07-01T11:21:08+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/31155771,"pwgen - ein Passwort generieren",213,2011-10-26T17:45:48+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/132317469,"Ubuntu Touch - Systemeinstellungen",388,2015-07-01T11:21:09+00:00,Array,0,0,0,0
+0,1,10,0,0,0,/videos/132317465,"LibreOffice - Makros importieren",261,2015-07-01T11:21:08+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/46144210,"Ultimate Edition 3.3 - Demo",402,2012-07-21T14:44:42+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/132320707,"CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei",179,2015-07-01T12:05:07+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/29383232,"Python-Programmierung - Funktionen (Teil 3)",191,2011-09-21T16:34:06+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/46143908,"CouchDB - Dokumente mit Inhalt füllen",333,2012-07-21T14:34:56+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/29191261,"Webzugriff - Zerlegen der URL",337,2011-09-17T17:30:22+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/81105612,"Taskwarrior - Datum und Uhrzeit - Verfallsdatum festlegen",100,2013-12-05T15:03:15+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/29052713,"Gnome3 - die Iconmarkierung in der Favoritenliste aendern",225,2011-09-14T17:05:02+00:00,Array,0,0,0,0
+0,1,20,0,0,0,/videos/133446616,"Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln",216,2015-07-14T13:03:32+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132930955,"Git für Einsteiger - Git-Repository anlegen",356,2015-07-08T13:31:57+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/138199586,"Linktipp - Lerne X in Y Minuten",107,2015-09-03T14:03:47+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/28586820,"Python-Programmierung - Funktionen",313,2011-09-04T19:56:15+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/28238277,"Gnome3 - dash-placeholder",246,2011-08-27T16:54:32+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/28161374,"OpenCV - ein Bild konvertieren",136,2011-08-25T17:22:24+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/27980876,"Python-Programmierung - Dictionaries (Teil 3)",228,2011-08-21T20:07:20+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/27952539,"Gnome3 - running-indicator",280,2011-08-20T20:57:06+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819910,"Gnome3 - Uhren-App",87,2014-02-16T12:22:20+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/16172348,"Screencast short 011 - OpenOffice Writer - Text zentrieren",42,2010-10-25T14:44:18+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/16172031,"Screencast short 010 - OpenOffice Writer - Text rechtsbündig",35,2010-10-25T14:35:06+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/27779622,"LibreOffice - Veraenderungen rueckgaengig machen und Wiederherstellen von Veraenderungen",164,2011-08-16T17:45:48+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/16149409,"Screencast short 009 - OpenOffice Writer - Text linksbündig",39,2010-10-24T20:49:06+00:00,Array,0,0,0,0
+0,0,42,0,0,0,/videos/27637973,"Python-Programmierung - Dictionaries",334,2011-08-12T20:03:33+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/27588074,"Ubuntu - Dateien richtig loeschen",179,2011-08-11T16:44:26+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16148703,"Screencast short 008 - OpenOffice Writer - Text hoch oder tief",49,2010-10-24T20:23:33+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/16147595,"Screencast short 007 - OpenOffice Writer - Text durchstreichen",51,2010-10-24T19:40:53+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/27380584,"Python-Programmierung - Substitution von Zeichenketten",280,2011-08-06T20:26:07+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/14394099,"Screencast 030 - bash - Kommandoausführung",438,2010-08-24T15:46:24+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/27305340,"LibreOffice - Dokument mit einem Passwort schuetzen",230,2011-08-04T19:32:06+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/84442748,"CrunchBang Linux 11 - Demo",459,2014-01-18T01:08:19+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/83659436,"Taskwarrior - wiederkehrende Aufgaben",300,2014-01-08T08:08:15+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/83659404,"LibreOffice Calc - Datensätze säubern, vereinheitlichen und automatisch ausfüllen",306,2014-01-08T08:07:42+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16145323,"Screencast short 004 - OpenOffice Writer - Text fett",58,2010-10-24T18:11:29+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/82657987,"Linux - Dateiüberprüfung mit iWatch - Einführung",309,2013-12-25T06:32:15+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/16144819,"Screencast short 003 - OpenOffice Writer - Text markieren",61,2010-10-24T17:50:24+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/26773338,"Ubuntu - unp - der Entpackungskuenstler",129,2011-07-22T17:09:01+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/26730401,"Gnome3 - Erweiterungen",198,2011-07-21T17:40:58+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/26688755,"Python-Programmierung - Slicing - Abkuerzen erlaubt",144,2011-07-20T19:18:57+00:00,Array,0,0,0,0
+0,0,5,0,0,0,/videos/26510079,"Python-Programmierung - Slicing",199,2011-07-16T14:35:47+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16144034,"Screencast short 001 - OpenOffice Writer - Hilfe",55,2010-10-24T17:18:03+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16140079,"Screencast 087 - gnome-terminal - den Hintergrund ändern",230,2010-10-24T14:06:16+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/26380741,"AriOS 3.0 - Demo",393,2011-07-13T15:31:04+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/26168383,"Python-Programmierung - weitere Listen-Methoden",186,2011-07-08T17:04:51+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/26112769,"Fedora - Aktualisierungen installieren",126,2011-07-07T14:31:50+00:00,Array,0,0,0,0
+0,0,5,0,0,0,/videos/25933868,"Unity - herkoemmliche Scrollleiste aktivieren",102,2011-07-03T17:01:09+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/25910597,"Unity - Menue ins Fenster verlagern",87,2011-07-02T20:22:37+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/25873721,"Python-Programmierung - Listen-Index",220,2011-07-01T17:31:13+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/25829076,"split - Dateien in gleichmaessige Portionen zerlegen",208,2011-06-30T18:16:38+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/25777591,"Gnome3 - bunte System-Status-Icons",148,2011-06-29T17:48:30+00:00,Array,0,0,0,0
+0,0,60,0,0,0,/videos/25726584,"Gnome3 - ein Panel-Icon entfernen",175,2011-06-28T18:02:43+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/25408970,"Gnome3 - Rueckfall-Modus",175,2011-06-21T15:21:58+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/25313447,"Python-Programmierung - Listen (Teil 2)",295,2011-06-19T17:16:00+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/25090180,"Python-Programmierung - Listen",226,2011-06-14T16:46:59+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/25039272,"Gnome3 - ENTF-Taste aktivieren",179,2011-06-13T17:21:11+00:00,Array,0,0,0,0
+0,0,4,0,0,0,/videos/25038550,"Gnome3 - Startprogrammeinstellungen",75,2011-06-13T17:05:22+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/24932282,"Gnome3 - Dash",431,2011-06-10T17:51:52+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/24838178,"Fedora 15",214,2011-06-08T18:27:36+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/23596446,"Firefox - Adblock Plus",188,2011-05-11T17:21:36+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/23219179,"Python-Programmierung - while-Schleife",358,2011-05-03T17:11:17+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/23088272,"Gnome3 - Ausschalten aktivieren",91,2011-04-30T18:56:12+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/22953600,"Gnome3 - Tastenkombinationen",204,2011-04-27T17:43:48+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/22901774,"Gnome3 - gnome-tweak-tool",131,2011-04-26T17:17:37+00:00,Array,0,0,0,0
+0,0,28,0,0,0,/videos/22894442,"Gnome3 - Fenster minimieren, Fenster maximieren, Fenstermenue aktivieren",146,2011-04-26T14:52:36+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/22809770,"Gnome3 - die Textgroesse einstellen",250,2011-04-24T18:43:17+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/22797394,"Gnome3 - Icons aktivieren",167,2011-04-24T10:07:52+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/22779033,"Gnome3 - die Zeitanzeige ändern",238,2011-04-23T19:46:20+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/22756599,"Screencasts mit Gnome3 erstellen",299,2011-04-22T20:24:41+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/22663299,"Firefox - Remove It Permanently",152,2011-04-20T17:22:06+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/22521164,"Python-Programmierung - if-Anweisung",447,2011-04-17T18:34:45+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/22459285,"unlink - eine Datei löschen",131,2011-04-15T20:33:45+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/52079361,"lighttpd install",227,2012-10-24T13:48:51+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/22207563,"Python-Programmierung - Operatoren",288,2011-04-10T20:51:50+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/15812868,"Screencast glimpse 012 - OpenSolaris 2008.11 Installation",274,2010-10-13T17:54:41+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/22038023,"Firefox - Cookie Button in the status bar",168,2011-04-06T17:34:33+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/21845589,"Python-Programmierung - Mehr über Zeichenketten",556,2011-04-02T15:09:15+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/14121428,"Screencast 024 - bash - Umleitungen",411,2010-08-13T17:10:14+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15643736,"Screencast glimpse 010 - openSUSE 11.1 RC1 Installation",480,2010-10-07T21:36:50+00:00,Array,28,0,137,480
+0,0,14,0,0,0,/videos/14118445,"Linux - Zeit und Datum",391,2010-08-13T15:10:53+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/21457831,"LibreOffice - Zeichen und Wörter zählen",127,2011-03-24T20:55:01+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/21263554,"Python-Programmierung - For-Schleife",202,2011-03-20T17:48:32+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/15630395,"Screencast glimpse 008 - Fedora 10 Preview Installation",619,2010-10-07T14:17:25+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15606202,"Screencast glimpse 007 - Fedora 10 Preview",161,2010-10-06T19:02:34+00:00,Array,0,0,0,0
+0,0,34,0,0,0,/videos/20892654,"Kinfocenter - Informationen zur Hardware",116,2011-03-10T20:42:39+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/20611850,"Python-Programmierung - Zeichenketten näher betrachtet",344,2011-03-03T18:26:08+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/20412186,"paste - Zeilen zusammenfügen",156,2011-02-26T20:06:25+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/20218171,"Python-Programmierung - Zeichenketten",321,2011-02-21T22:03:34+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/15600408,"Screencast glimpse 005 - Fedora 8 (ohne Audio)",233,2010-10-06T15:58:06+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/15505519,"Screencast glimpse 004 - Ubuntu 7.10 beta (ohne Audio)",197,2010-10-03T17:14:48+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/19803851,"Screencast 099 - Administrator-Rechte vergeben",282,2011-02-10T20:44:05+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/19335365,"Screencast 098 - Python-Programmierung - Hallo Welt",216,2011-01-29T21:22:16+00:00,Array,0,0,0,0
+0,0,38,0,0,0,/videos/19189473,"Screencast 097 - KRunner (Teil 2)",227,2011-01-25T23:09:41+00:00,Array,0,0,0,0
+0,0,55,0,0,0,/videos/19068012,"Screencast 096 - KRunner (Teil 1)",320,2011-01-22T17:20:55+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/18821549,"Screencast 095 - Python-Programmierung - Die interaktive Shell",196,2011-01-15T18:49:49+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/18759349,"per Knopfdruck den Terminalhintergrund ändern",278,2011-01-13T20:25:22+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/18590031,"Screencast 094 - fold - die Zeilenbreite begrenzen",118,2011-01-09T16:49:19+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/18308004,"Screencast glimpse 029 - Kazam Screencaster",348,2010-12-30T22:06:11+00:00,Array,0,0,0,0
+0,0,48,0,0,0,/videos/13912631,"Linux - Ogg Vorbis abspielen",490,2010-08-05T15:39:53+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/18055625,"Screencast 093 - LibreOffice - die Statusleiste",292,2010-12-21T17:47:33+00:00,Array,0,0,0,0
+0,0,28,0,0,0,/videos/17813870,"Screencast 092 - Filelight - Festplattenbelegung analysieren",235,2010-12-14T18:34:23+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/17734888,"Screencast 091 - Ein Benutzerfoto auswählen",93,2010-12-12T18:43:26+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/17616891,"Ubuntu 11.04 Alpha1 mit Unity-Desktop",217,2010-12-08T22:33:01+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/17477612,"Screencast 090 - Zeilen nummerieren",209,2010-12-04T23:20:03+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16803771,"Screencast 089 - LibreOffice - Writer - Kommentare",229,2010-11-13T22:38:54+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/16663014,"LibreOffice 3.3.0 Beta2 - Installation",628,2010-11-09T17:29:27+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15399819,"Screencast 082 - wmctrl - Fenster per Kommando steuern",391,2010-09-29T17:41:26+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16351434,"Screencast 088 - uniq - benachbarte identische Zeilen ausblenden",280,2010-10-30T22:37:12+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16325676,"Screencast short 048 - Gnome-Panel in den Ausgangszustand",91,2010-10-29T20:25:03+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16325410,"Screencast short 047 - Passwort ändern",60,2010-10-29T20:15:25+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16325124,"Screencast short 046 - groups",102,2010-10-29T20:06:41+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/16324691,"Screencast short 045 - logname, whoami",56,2010-10-29T19:54:20+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16324482,"Screencast short 044 - free",70,2010-10-29T19:46:41+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/16324145,"Screencast short 043 - du",111,2010-10-29T19:36:57+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16323730,"Screencast short 042 - df",107,2010-10-29T19:23:01+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/16323385,"Screencast short 041 - Gnome - Zugriffsrechte Unixart",51,2010-10-29T19:10:49+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16322914,"Screencast short 040 - Gnome - Werkzeugleistenstil",49,2010-10-29T18:54:55+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16322681,"Screencast short 039 - Gnome - Schrift einstellen",35,2010-10-29T18:47:06+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/16321479,"Screencast short 038 - Gnome - Ordnerhintergrund",141,2010-10-29T18:08:49+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16287479,"Screencast short 037 - Gnome - Menüsymbole abschalten",43,2010-10-28T18:04:35+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/16287221,"Screencast short 036 - Gnome - Menüschrift einstellen",37,2010-10-28T17:56:46+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/16286951,"Screencast short 035 - Gnome - Desktopschrift einstellen",40,2010-10-28T17:49:17+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16286691,"Screencast short 034 - Gnome - Cursor einstellen",42,2010-10-28T17:41:50+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/16285992,"Screencast short 033 - Gnome - Browserleisten",61,2010-10-28T17:21:27+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/16285269,"Screencast short 032 - Gnome - Browserfenster einstellen",56,2010-10-28T16:58:27+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16284404,"Screencast short 031 - Gnome - Browseradressleiste mit Eingabefeld",47,2010-10-28T16:31:32+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16284221,"Screencast short 030 - Gnome - Starter hervorheben deaktivieren",41,2010-10-28T16:26:31+00:00,Array,0,0,0,0
+0,0,5,0,0,0,/videos/16284113,"Screencast short 029 - Gnome - Desktopanzeige deaktivieren",44,2010-10-28T16:22:42+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16283942,"Screencast short 028 - Gnome - Paneleinstellungen speeren",39,2010-10-28T16:18:19+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16283776,"Screencast short 027 - Gnome - Minihilfen deaktivieren",48,2010-10-28T16:14:01+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/16251183,"Screencast short 026 - Gnome - Mülleimer umgehen",62,2010-10-27T17:37:14+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/16250929,"Screencast short 025 - Gnome - Abmelden deaktivieren",33,2010-10-27T17:30:46+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/16249626,"Screencast short 024 - Gnome - Bildschirm sperren deaktivieren",34,2010-10-27T16:50:45+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/16248878,"Screencast short 023 - Gnome - Desktop-Symbole deaktivieren",58,2010-10-27T16:26:42+00:00,Array,0,0,0,0
+0,0,6,0,0,0,/videos/15078559,"Screencast 068 - OpenOffice.org - Writer - Ein Dokument speichern",111,2010-09-18T15:13:30+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/15074368,"Screencast 067 - Sweeper",105,2010-09-18T09:36:42+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/16247764,"Screencast short 020 - OpenOffice Writer - Format übertragen",32,2010-10-27T15:50:19+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/16247412,"Screencast short 019 - OpenOffice Writer - blinkender Text",37,2010-10-27T15:39:21+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/16247001,"Screencast short 018 - OpenOffice Writer - Gross- und Kleinschreibung",63,2010-10-27T15:26:07+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/16246584,"Screencast short 017 - OpenOffice Writer - Schriftgrösse",35,2010-10-27T15:13:22+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/16246440,"Screencast short 016 - OpenOffice Writer - Schriftart",35,2010-10-27T15:08:41+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/16180112,"Screencast short 015 - OpenOffice Writer - Zeichenfarbe",43,2010-10-25T18:29:50+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/16179628,"Screencast short 014 - OpenOffice Writer - Texthintergrundfarbe",42,2010-10-25T18:17:15+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/16179497,"Screencast short 013 - OpenOffice Writer - Text drehen",55,2010-10-25T18:12:55+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/16179253,"Screencast short 012 - OpenOffice Writer - Textbreite skalieren",42,2010-10-25T18:05:22+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/140501149,"Gnome 3.18 - Datei kopieren - Demo",66,2015-09-26T07:30:22+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/86819899,"Firefox OS - Einstellungen",166,2014-02-16T12:22:04+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/86819889,"LibreOffice - Calc - Zellen",122,2014-02-16T12:21:49+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/84744893,"Simplicity Linux 13.7 Beta - Demo",381,2014-01-22T05:34:04+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/98225592,"openSUSE 13.1 RC2 - Installation - Demo",280,2014-06-14T19:25:29+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132322124,"GNOME 3.12 - Demo",726,2015-07-01T12:24:13+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/52075155,"python generatorfunktion uebung",193,2012-10-24T12:40:04+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/46147013,"Ruby - String (Zeichenkette)",343,2012-07-21T16:12:16+00:00,Array,0,0,0,0
+0,0,32,0,0,0,/videos/80423256,"blockdiag - actdiag",135,2013-11-26T23:54:50+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132323796,"Firefox - Einstellungen im Tab",129,2015-07-01T12:45:40+00:00,Array,0,0,0,0
+0,0,67,0,0,0,/videos/80423317,"blockdiag - Diagramm erstellen",283,2013-11-26T23:55:44+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/135805359,"D3 - Einleitung",353,2015-08-09T17:40:36+00:00,Array,0,0,0,0
+0,1,23,0,0,0,/videos/133446617,"Komprimieren von CSS und Javascript",227,2015-07-14T13:03:32+00:00,Array,0,0,0,0
+0,0,29,0,0,0,/videos/15199016,"Screencast 072 - Medienwiedergabe in der Konsole - mp3blaster",287,2010-09-22T18:42:33+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/136433526,"Linux - cut (schneiden)",150,2015-08-16T15:02:37+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/133452110,"KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)",374,2015-07-14T14:04:17+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/50887443,"Taskwarrior - erste Schritte",411,2012-10-06T14:46:33+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/119694109,"Centrych OS 12.04.2 - Demo",421,2015-02-15T18:30:07+00:00,Array,0,0,0,0
+0,1,17,0,0,0,/videos/132914488,"Firefox 29 mit Australis für Linux",194,2015-07-08T09:47:40+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/79595737,"PHP-Programmierung - die while-Schleife",143,2013-11-17T11:04:07+00:00,Array,0,0,0,0
+0,0,18,0,0,0,/videos/79595761,"PHP-Programmierung - if-Abfrage",371,2013-11-17T11:04:55+00:00,Array,0,0,0,0
+0,0,23,0,0,0,/videos/121216510,"Debian - Das grundlegende Prinzip der Debian Paketverwaltung (.deb)",414,2015-03-04T05:24:10+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132812407,"Firefox OS 1.5 und Firefox OS 1.3 im Vergleich (per Simulator) - Demo",538,2015-07-07T11:33:38+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/133484242,"Python-Programmierung - Modul webbrowser",145,2015-07-14T19:18:12+00:00,Array,0,0,0,0
+0,1,16,0,0,0,/videos/132812408,"Linux - Bildschirm mit einem Klick ausschalten",156,2015-07-07T11:33:38+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/47107299,"Python-Programmierung - Iteratoren (Teil 3)",428,2012-08-07T17:18:45+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/48812384,"Linux - meld - Dateien vergleichen",144,2012-09-04T15:19:44+00:00,Array,0,0,0,0
+0,0,30,0,0,0,/videos/52074016,"redis lists",397,2012-10-24T12:18:21+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/133649271,"Gnome - einfache Bildschirmaufnahmen mit EasyScreenCast (Linux, Gnome 3.16)",21,2015-07-16T12:00:12+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/122235596,"Firefox dekorieren - Hintergrund-Themes hinzufügen",110,2015-03-15T14:02:48+00:00,Array,0,0,0,0
+0,0,27,0,0,0,/videos/50890754,"Taskwarrior - Verändern von Aufgaben",105,2012-10-06T16:22:46+00:00,Array,0,0,0,0
+0,1,12,0,0,0,/videos/132826525,"LibreOffice - Calc - Zellen mit Auto-Ausfüllen füllen",366,2015-07-07T14:15:36+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/134985750,"Git für Einsteiger - Branches anlegen",187,2015-07-30T20:12:34+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/15276891,"Screencast 078 - OpenOffice.org - Writer - Nach PDF exportieren",156,2010-09-25T13:25:40+00:00,Array,0,0,0,0
+0,0,36,0,0,0,/videos/47108998,"Medusa - Sicherheitsüberprüfung von Netzwerken",545,2012-08-07T17:40:55+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/128161642,"Youtube-Videos mittels VLC herunterladen (speichern und konvertieren)",135,2015-05-18T16:28:12+00:00,Array,0,0,0,0
+0,0,39,0,0,0,/videos/13487948,"Linux - Rechenaufgaben lösen",386,2010-07-20T15:17:56+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/131876206,"Firefox - Diaspora Easyshare",151,2015-06-26T13:01:54+00:00,Array,0,0,0,0
+0,0,38,0,0,0,/videos/50889469,"Python-Programmierung - List Comprehensions",375,2012-10-06T15:45:35+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/45601220,"HTML5 - Verschachtelung, strong und Kommentar",214,2012-07-11T20:39:24+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/45409911,"popcorn.js - Bilder anzeigen",193,2012-07-08T22:56:50+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/134985751,"LibreOffice - Calc - Ausblenden und Anzeigen von Daten",160,2015-07-30T20:12:34+00:00,Array,0,0,0,0
+0,1,19,0,0,0,/videos/133488633,"HTML und CSS - HTML-Elemente",147,2015-07-14T20:04:19+00:00,Array,0,0,0,0
+0,0,68,0,0,0,/videos/80423255,"awesome - ein Tiling-Fenstermanager - Installation",330,2013-11-26T23:54:50+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/81575400,"Gnome 3.6 - neues leeres Dokument erstellen",230,2013-12-11T06:09:40+00:00,Array,0,0,0,0
+0,1,21,0,0,0,/videos/132198558,"Tanglu 1.2 Beta 2 (Aequorea) Gnome 3.10 - Demo",381,2015-06-30T10:59:44+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/135066892,"Git für Einsteiger - Branches anlegen - Teil 2",202,2015-07-31T16:52:10+00:00,Array,0,0,0,0
+0,0,19,0,0,0,/videos/40731165,"Fedora 17 Beta Cinnamon - Demo",183,2012-04-20T16:15:51+00:00,Array,0,0,0,0
+0,1,19,0,0,0,/videos/132210707,"LibreOffice - schnelles Ausführen eines Makros",242,2015-06-30T13:28:32+00:00,Array,0,0,0,0
+0,1,25,0,0,0,/videos/132210708,"Linux - Verschlüsselte Containerdatei - Passwörter verwalten",240,2015-06-30T13:28:32+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/15229021,"Screencast 075 - Medienwiedergabe in der Konsole - cmus",240,2010-09-23T17:45:08+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/15225367,"Screencast 074 - OpenOffice.org - Writer - Gallery - Objekte in ein Dokument einfügen",192,2010-09-23T15:40:00+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/15202396,"Screencast 073 - OpenOffice.org - Writer - Was ist die Gallery",127,2010-09-22T20:30:31+00:00,Array,0,0,0,0
+0,1,18,0,0,0,/videos/132215256,"Ubuntu Touch - Kontakte-App",143,2015-06-30T14:11:06+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/15105609,"Screencast 071 - OpenOffice.org - Writer - Ein Dokument drucken",238,2010-09-19T21:10:29+00:00,Array,0,0,0,0
+0,0,46,0,0,0,/videos/36857289,"Python-Programmierung - Module selbst gemacht",193,2012-02-15T20:27:12+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/33485046,"Python-Programmierung - Module",320,2011-12-11T15:51:57+00:00,Array,0,0,0,0
+0,1,22,0,0,0,/videos/132219564,"Python-Programmierung - Modul platform",131,2015-06-30T14:48:27+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/133446615,"LibreOffice - Calc - Daten ändern",234,2015-07-14T13:03:32+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/16031899,"Screencast glimpse 018 - Kubuntu 8.10 Installation",372,2010-10-20T17:54:13+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/15036010,"Screencast 065 - Nautilus - Modus ändern",133,2010-09-16T20:40:33+00:00,Array,0,0,0,0
+0,0,45,0,0,0,/videos/15030765,"Screencast 063 - Wallpapoz",178,2010-09-16T17:37:49+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/15000898,"Screencast 062 - Nautilus - Tastenkürzel",180,2010-09-15T18:26:35+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/14996729,"Screencast 061 - OpenOffice.org - Writer - Ein neues Dokument erstellen",184,2010-09-15T16:09:26+00:00,Array,0,0,0,0
+0,0,25,0,0,0,/videos/14906507,"Screencast 060 - wallpaper-tray",109,2010-09-12T19:18:39+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/14869790,"Screencast 059 - Nautilus - Dateivorschau",143,2010-09-10T21:47:00+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/14866894,"Screencast 058 - OpenOffice.org - Writer - Navigator verwenden",231,2010-09-10T19:49:04+00:00,Array,0,0,0,0
+0,0,5,0,0,0,/videos/14864478,"Screencast 057 - Desktop Drapes",82,2010-09-10T18:13:49+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/14860438,"Screencast 056 - Nautilus - Lesezeichen",143,2010-09-10T15:22:48+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/14858421,"Screencast 055 - OpenOffice.org - Writer - Dokumentenansicht ändern",149,2010-09-10T13:58:17+00:00,Array,0,0,0,0
+0,0,20,0,0,0,/videos/14839943,"Screencast 054 - Nautilus - Dateien verstecken",126,2010-09-09T20:24:14+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/14836166,"Screencast 053 - Nautilus - Vorlagen",90,2010-09-09T18:16:25+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/14124363,"Screencast 026 - Desktop Effects",374,2010-08-13T19:14:11+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/14804579,"Screencast 051 - Ubuntu im Textmodus",187,2010-09-08T17:41:42+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/14122944,"Screencast 025 - Inkscape - erster Schritt",246,2010-08-13T18:14:25+00:00,Array,0,0,0,0
+0,0,32,0,0,0,/videos/14715186,"Screencast 049 - logout (Abmeldung)",299,2010-09-05T15:22:00+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/14702266,"Screencast 048 - OpenOffice.org - Textverarbeitung starten",393,2010-09-04T21:05:54+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/14699462,"Screencast 047 - glipper - Zwischenablagenverwalter",212,2010-09-04T18:22:09+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/14695975,"Screencast 046 - login",171,2010-09-04T15:02:21+00:00,Array,0,0,0,0
+0,0,15,0,0,0,/videos/14672997,"Screencast 045 - zcat, zless und zmore",146,2010-09-03T15:28:15+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/14621791,"Screencast 044 - SSHFS im Einsatz",311,2010-09-01T21:24:41+00:00,Array,0,0,0,0
+0,0,13,0,0,0,/videos/14617195,"Screencast 043 - Verzeichnis mit encfs verschlüsseln",510,2010-09-01T18:44:34+00:00,Array,0,0,0,0
+0,0,14,0,0,0,/videos/14614063,"Screencast 042 - recordmydesktop",316,2010-09-01T16:50:45+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/14587129,"Screencast 041 - pup - Updates",221,2010-08-31T18:59:22+00:00,Array,0,0,0,0
+0,0,58,0,0,0,/videos/13891092,"Linux - Audio-CD auslesen (Textmodus)",611,2010-08-04T19:35:58+00:00,Array,0,0,0,0
+0,0,5,0,0,0,/videos/14579957,"Screencast 039 - yumex installieren",113,2010-08-31T14:57:33+00:00,Array,0,0,0,0
+0,0,56,0,0,0,/videos/13884323,"Linux - Audio-CD auslesen (Desktopmodus)",345,2010-08-04T15:26:11+00:00,Array,0,0,0,0
+0,0,16,0,0,0,/videos/14489898,"Screencast 037 - pessulus",252,2010-08-27T20:49:25+00:00,Array,0,0,0,0
+0,0,11,0,0,0,/videos/14487470,"Screencast 036 - Prozesse killen",397,2010-08-27T19:08:02+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/14462777,"Screencast 035 - Prozessliste",281,2010-08-26T21:03:56+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/14460390,"Screencast 034 - Videos in ASCII",141,2010-08-26T19:31:16+00:00,Array,0,0,0,0
+0,0,12,0,0,0,/videos/14431761,"Screencast 033 - Packen und Entpacken (Textmodus)",415,2010-08-25T19:53:42+00:00,Array,0,0,0,0
+0,0,7,0,0,0,/videos/14400533,"Screencast 032 - Packen und Entpacken (Desktop)",365,2010-08-24T19:26:27+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/14397283,"Screencast 031 - Menüs bearbeiten",439,2010-08-24T17:41:29+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/84442757,"Wie ändere ich mein Hintergrundbild bei Gnome3 - Linux",293,2014-01-18T01:08:31+00:00,Array,0,0,0,0
+0,0,10,0,0,0,/videos/16144572,"Screencast short 002 - OpenOffice Writer - Version",32,2010-10-24T17:40:05+00:00,Array,0,0,0,0
+0,1,11,0,0,0,/videos/132325014,"reveal.js - automatische Präsentation starten",201,2015-07-01T13:00:13+00:00,Array,0,0,0,0
+0,1,9,0,0,0,/videos/132327497,"Ubuntu Touch - Unter der Haube",462,2015-07-01T13:28:14+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/121216514,"Linux - Benutzer benachrichtigen - die Datei /etc/motd",286,2015-03-04T05:24:12+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/132815110,"R - Runden",213,2015-07-07T12:11:43+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/132816662,"Linux - Fensterposition herausfinden",208,2015-07-07T12:31:13+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/15603921,"Screencast glimpse 006 - Ubuntu 8.10 RC (ohne Audio)",153,2010-10-06T17:48:55+00:00,Array,0,0,0,0
+0,1,13,0,0,0,/videos/133486758,"Xubuntu 15.04 Beta 1 - Demo",343,2015-07-14T19:44:18+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/44612918,"Python-Programmierung - Fehlerbehandlung - Teil 2",317,2012-06-24T17:27:28+00:00,Array,0,0,0,0
+0,0,24,0,0,0,/videos/49505152,"redis - Installation",471,2012-09-15T13:32:44+00:00,Array,0,0,0,0
+0,0,26,0,0,0,/videos/50923775,"CouchDB - eine Datei an ein Dokument hängen",305,2012-10-07T12:54:36+00:00,Array,0,0,0,0
+0,0,22,0,0,0,/videos/79530038,"PHP-Programmierung - Escapen",95,2013-11-15T23:40:02+00:00,Array,0,0,0,0
+0,0,8,0,0,0,/videos/15846840,"Screencast 086 - Hardware-Informationen (Textmodus)",271,2010-10-14T17:57:12+00:00,Array,0,0,0,0
+0,0,32,0,0,0,/videos/13797432,"Linux - Dateien (Desktopmodus)",453,2010-08-01T09:11:59+00:00,Array,0,0,0,0
+0,0,27,0,0,0,/videos/14142211,"Screencast 029 - OpenOffice - erster Schritt",303,2010-08-14T18:07:40+00:00,Array,0,0,0,0
+0,0,40,0,0,0,/videos/13544647,"Linux - Wort- und Zeichenanzahl ermitteln",259,2010-07-22T14:05:54+00:00,Array,0,0,0,0
+0,0,40,0,0,0,/videos/13516514,"Linux - Paneleinstellungen",554,2010-07-21T14:49:27+00:00,Array,0,0,0,0
+0,0,34,0,0,0,/videos/13733994,"Linux - Bildschirmschoner",301,2010-07-29T14:47:59+00:00,Array,0,0,0,0
+0,0,41,0,0,0,/videos/13679353,"Linux - mal ohne Maus",336,2010-07-27T16:53:51+00:00,Array,0,0,0,0
+0,0,40,0,0,0,/videos/13601833,"Linux - Ordner (Textmodus)",461,2010-07-24T13:29:53+00:00,Array,0,0,0,0
+0,0,38,0,0,0,/videos/13578729,"Linux - Ordner (Desktopmodus)",291,2010-07-23T15:13:18+00:00,Array,0,0,0,0
+0,0,17,0,0,0,/videos/137056037,"docker - Images auflisten",142,2015-08-23T13:49:02+00:00,Array,0,0,0,0
+0,0,21,0,0,0,/videos/79489136,"LibreOffice - Writer - Seiten nummerieren",129,2013-11-15T14:44:18+00:00,Array,0,0,0,0
+0,0,9,0,0,0,/videos/42710947,"ruby - Hallo Welt",158,2012-05-23T16:52:51+00:00,Array,0,0,0,0
+0,0,45,0,0,0,/videos/13394883,"Linux - Textdateien anschauen Teil2",372,2010-07-16T16:44:21+00:00,Array,0,0,0,0
+0,0,44,0,0,0,/videos/13365067,"Linux - Textdateien anschauen Teil1",283,2010-07-15T16:06:31+00:00,Array,0,0,0,0
+"
+",,,,,,,,,,,,,,
