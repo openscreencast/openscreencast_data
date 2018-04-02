@@ -4,7 +4,7 @@
 <title>openscreencast - Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</title>
 <link>https://www.openscreencast.de</link>
 <description>Screencasts und Video-Tutorials ueber Open-Source-Software und Linux</description>
-<lastBuildDate>Tue, 02 Jan 2018 19:35:53 +0100</lastBuildDate>
+<lastBuildDate>Mon, 02 Apr 2018 16:49:05 +0100</lastBuildDate>
 <language>de-DE</language>
 <managingEditor>info@openscreencast.de (Heiko)</managingEditor>
 <webMaster>info@openscreencast.de (Heiko)</webMaster>
@@ -17,6 +17,35 @@
 	<height>144</height>
 </image>
 <atom:link href="http://www.openscreencast.de/ogg-rss.xml" rel="self" type="application/rss+xml" />
+<item>
+	<title>Python-Programmierung - Pycharm edu</title>
+	<link>https://www.openscreencast.de/blog/Python_Pycharm_edu.html</link>
+	<description><![CDATA[
+Ogg-Datei: <a href="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/pycharm_edu.ogg">http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/pycharm_edu.ogg</a>
+
+Youtube-Link: <a href="http://www.youtube-nocookie.com/embed/hSgxXXRsKfw">http://www.youtube-nocookie.com/embed/hSgxXXRsKfw</a>
+
+Python-Programmierung - Pycharm edu, Linux Mint 18.2<br />Lizenz: <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a><p>Links:</p><ul><li><a href="https://www.jetbrains.com/pycharm-edu/" title="Link zu https://www.jetbrains.com/pycharm-edu/">Pycharm edu</a></li><li><a href="https://www.jetbrains.com/help/pycharm-edu/educator-s-guide.html#course" title="Link zu https://www.jetbrains.com/help/pycharm-edu/educator-s-guide.html#course">Pycharm Kurs erstellen</a></li><li><a href="https://trinket.io/" title="Link zu https://trinket.io/">https://trinket.io/</a></li><li><a href="https://www.codecademy.com/tracks/python" title="Link zu https://www.codecademy.com/tracks/python">codecademy - Python</a></li><li><a href="https://de.wikibooks.org/wiki/Python_unter_Linux" title="Link zu https://de.wikibooks.org/wiki/Python_unter_Linux">Wikibooks - Python unter Linux</a></li><li><a href="https://py-tutorial-de.readthedocs.io/de/python-3.3/" title="Link zu https://py-tutorial-de.readthedocs.io/de/python-3.3/">Python-Tutorial</a></li><li><a href="https://opentechschool.github.io/python-beginners/de/index.html" title="Link zu https://opentechschool.github.io/python-beginners/de/index.html">Opentechschool - Python</a></li></ul>]]></description>
+	<pubDate>Mon, 02 Apr 2018 16:49:04 +0100</pubDate>
+	<dc:creator>Heiko</dc:creator>
+	<category><![CDATA[CC by]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Linux]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Neueinsteiger]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[screencast]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Linux Mint]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Python]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Pycharm]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+	<category><![CDATA[Pycharm edu]]></category>
+	<guid isPermaLink="false">https://www.openscreencast.de/blog/Python_Pycharm_edu.html</guid>
+<enclosure url="http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/pycharm_edu.ogg" type="video/ogv" />
+</item>
 <item>
 	<title>Python für Anfänger - Schleifen</title>
 	<link>https://www.openscreencast.de/blog/Python_beginners_schleifen.html</link>

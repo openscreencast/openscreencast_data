@@ -2,6 +2,16 @@
 <playlist version="1" xmlns="http://xspf.org/ns/0/">
 <trackList>
 <track>
+	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/pycharm_edu.ogg</location>
+	<creator>Heiko</creator>
+	<album>https://www.openscreencast.de</album>
+	<title>Python-Programmierung - Pycharm edu</title>
+	<annotation>Python-Programmierung - Pycharm edu</annotation>
+	<duration>278000</duration>
+	<info>https://www.openscreencast.de</info>
+	<license>http://creativecommons.org/licenses/by/4.0/</license>
+</track>
+<track>
 	<location>http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python_fuer_anfaenger/python_beginners_schleifen.ogg</location>
 	<creator>Heiko</creator>
 	<album>https://www.openscreencast.de</album>

@@ -7,8 +7,8 @@
     "description": "Screencasts und Video-Tutorials ueber Open-Source-Software und Linux",
     "language": "de-DE",
     "email": "info@openscreencast.de",
-    "lastBuildDate": "1514918153",
-    "lastNode": "Python_beginners_schleifen",
+    "lastBuildDate": "1522680545",
+    "lastNode": "Python_Pycharm_edu",
     "youtube": "https://www.youtube.com/user/openscreencast",
     "vimeo": "https://www.vimeo.com/openscreencast",
     "tumblr": "http://openscreencast.tumblr.com/",
@@ -17,6 +17,7 @@
     "gnusocial": "https://gnusocial.de/openscreencast",
     "github": "https://github.com/openscreencast",   
     "gpg-key": "https://www.openscreencast.de/gpg-key.asc",
-    "keybase": "https://keybase.io/openscreencast"
+    "keybase": "https://keybase.io/openscreencast",
+    "mastodon": "https://chaos.social/@openscreencast"
 }
 	
